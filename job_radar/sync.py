@@ -18,6 +18,7 @@ from datetime import datetime, timezone
 from typing import Dict, List, Optional
 
 from .adapters import get_adapter
+from .candidate_rules import EXCLUDED, enrich_job
 from .dedup import dedup
 from .industry import classify as classify_industry
 from .models import Job, RawJob, SOURCE_CONFIDENCE
@@ -87,6 +88,7 @@ def _to_jobs(src: Dict[str, str], raws: List[RawJob]) -> List[Job]:
             source_id=src["source_id"],
             company_name=company,
             title=r.title,
+            source_type=src.get("source_type", ""),
             location=r.location,
             org_type=src["org_type"],
             industry=classify_industry(company, r.title, r.jd_text, src["org_type"]),
@@ -296,6 +298,13 @@ def run(only_adapters: Optional[set] = None, only_source_ids: Optional[set] = No
     jobs = dedup(all_jobs)
     removed = before - len(jobs)
 
+    # 星火雷达的正式准入规则在去重后统一执行。排除项不进入公开主库；
+    # 不足以确认的 2027 线索保留为 lead，供页面“待核实线索”单独展示。
+    for job in jobs:
+        enrich_job(job)
+    excluded_filtered = sum(j.verification_status == EXCLUDED for j in jobs)
+    jobs = [j for j in jobs if j.verification_status != EXCLUDED]
+
     # 规则粗分（规划 4.1）：对所有画像取得分最高者，应用其分数/标签；
     # 风险标记与去重阶段已有的（如 repeat_posting）合并，不覆盖。
     for job in jobs:
@@ -340,6 +349,7 @@ def run(only_adapters: Optional[set] = None, only_source_ids: Optional[set] = No
         "jobs_raw": before,
         "snapshot_after_dedup": len(jobs),
         "duplicates_removed": removed,
+        "excluded_filtered": excluded_filtered,
         "store_total": len(merged["jobs"]),
         "new_this_run": merged["new"],
         "gone_total": merged["gone"],

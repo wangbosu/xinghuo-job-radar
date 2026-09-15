@@ -22,6 +22,7 @@ from job_radar import sync  # noqa: E402
 from job_radar.models import Job  # noqa: E402
 from job_radar.quality_rules import quality_tags  # noqa: E402
 from job_radar.score import score_job  # noqa: E402
+from job_radar.candidate_rules import EXCLUDED, enrich_job  # noqa: E402
 from scripts import export_html  # noqa: E402
 
 CORE_SOURCE_IDS = {"cn-iguopin", "gov-sasac", "gov-qyzp"}
@@ -96,10 +97,18 @@ def rescore() -> None:
         rows = json.load(f)
     with open(sync.PROFILES_JSON, encoding="utf-8") as f:
         profiles = json.load(f)
+    source_types = {s["source_id"]: s.get("source_type", "") for s in sync.read_sources()}
 
     changed = 0
+    kept = []
     for d in rows:
+        d["source_type"] = d.get("source_type") or source_types.get(d.get("source_id", ""), "")
         job = Job(**{k: v for k, v in d.items() if k in Job.__dataclass_fields__})
+        enrich_job(job)
+        if job.verification_status == EXCLUDED:
+            continue
+        for k in ("source_type", "recruitment_type", "education", "major", "verification_status", "verification_reason", "role_family", "entry_type", "job_type"):
+            d[k] = getattr(job, k)
         best = max((score_job(job, p) for p in profiles.values()), key=lambda r: r.score)
         tags = ([f"行业:{job.industry}"] if job.industry else []) + best.tags
         qtags, qrisks = quality_tags(job)
@@ -110,8 +119,9 @@ def rescore() -> None:
         d["match_score"] = best.score
         d["tags"] = new_tags
         d["risk_flags"] = new_risks
+        kept.append(d)
 
-    rows.sort(key=lambda r: r.get("match_score", 0), reverse=True)
+    rows = sorted(kept, key=lambda r: r.get("match_score", 0), reverse=True)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(rows, f, ensure_ascii=False, indent=2)
     print(f"✅ 重新打分 {len(rows)} 条，变化 {changed} 条")

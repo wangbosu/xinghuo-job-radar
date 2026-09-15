@@ -36,6 +36,7 @@ class Job:
     source_id: str
     company_name: str
     title: str
+    source_type: str = ""
     location: str = ""
     org_type: str = ""
     industry: str = ""          # 行业分类（见 industry.py），同时作为"行业:X"标签
@@ -58,6 +59,13 @@ class Job:
     last_seen: str = ""         # 最近一次仍在信源出现的时间
     gone: bool = False          # 信源列表里已不再出现（已下线，保留不删）
     extra: Dict[str, Any] = field(default_factory=dict)  # 承载 adapter 原始附加字段(单位性质/学历/省份/来源等)
+    recruitment_type: str = ""
+    education: str = ""
+    major: str = ""
+    verification_status: str = ""  # verified / lead / excluded
+    verification_reason: str = ""
+    role_family: str = ""
+    entry_type: str = "岗位"
 
     def to_dict(self) -> Dict[str, Any]:
         return asdict(self)

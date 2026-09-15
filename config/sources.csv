@@ -74,3 +74,10 @@ cn-sinopec,中国石化,soe,official,public_notice,https://job.sinopec.com/,3,ht
 cn-huawei-campus,华为(校招),tech,official,huawei,https://career.huawei.com/,1,api,no,深圳·上海·东莞·西安·南京,360,active,华为校园招聘门户·27届提前批主战场·抓包接口~240
 cn-meituan-campus,美团(校招),internet,official,meituan,https://campus.meituan.com/,1,api,no,北京·上海·成都,360,active,美团校园招聘·抓包接口~200
 cn-catl,宁德时代,tech,official,beisen,zhaopin.atlbattery.com|SU5ff30f5b9b0d78e6f4283a0b,1,api,no,宁德·常州·上海·厦门,360,active,新能源电池龙头·北森ATS(抓包发现)·电芯/仿真/数据~121
+gov-sz-sasac,深圳市国资委招聘,soe,public_notice,gov_notice,https://www.sz.gov.cn/cn/xxgk/zfxxgj/tzgg/,1,html,no,深圳,720,active,深圳市属国企官方公告
+edu-scu,四川大学就业网,research,public_notice,uni_career,https://career.scu.edu.cn/,2,html,no,成都,720,active,成都重点高校就业网
+cn-byd-campus,比亚迪校招,tech,official,public_notice,https://job.byd.com/,2,html,no,深圳·惠州·西安,720,active,制造业/新能源校招来源待适配
+cn-midea-campus,美的集团校招,tech,official,public_notice,https://zhaopin.midea.com/,2,html,no,佛山·广州,720,active,消费电子/制造业校招来源待适配
+cn-gac-campus,广汽集团校招,tech,official,public_notice,https://campus.gac.com.cn/,2,html,no,广州,720,active,汽车制造校招来源待适配
+cn-sf-campus,顺丰校招,tech,official,public_notice,https://hr.sf-express.com/,2,html,no,深圳·广州,720,active,物流供应链校招来源待适配
+cn-cmb-campus,招商银行校招,finance,official,public_notice,https://career.cmbchina.com/,2,html,no,深圳·广州·成都,720,active,银行后台运营校招来源待适配

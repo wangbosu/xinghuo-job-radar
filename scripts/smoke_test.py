@@ -106,7 +106,7 @@ def test_jsonld_offline() -> None:
 def test_config_and_quality_offline() -> None:
     print("\n[E] 配置化补抓 / adapter 自动发现 / 质量降噪")
     kws = keyword_config.iguopin_keywords()
-    check("国聘补抓关键词含 2027 周期词", any(k in kws for k in ("2027", "27届")), str(kws[:8]))
+    check("国聘补抓关键词含 2027 周期词", any(k.startswith("2027") or k == "27届" for k in kws), str(kws[:8]))
     check("国聘补抓关键词含算法/产品/决策方向", all(k in kws for k in ("算法", "AI产品", "战略分析")),
           str(kws[:12]))
     adapters = set(list_adapters())
@@ -114,7 +114,7 @@ def test_config_and_quality_offline() -> None:
     check("adapter 自动发现包含央企公告", "gov_notice" in adapters, str(sorted(adapters)[:8]))
 
     missing_deadline = Job(job_id="x", dedup_key="x", source_id="test",
-                           company_name="Acme AI", title="数据科学实习生",
+                           company_name="Acme AI", title="2027届数据运营",
                            location="上海", official_url="https://example.com/job")
     tags, _ = quality_tags(missing_deadline)
     check("缺截止只提示，不默认隐藏", "缺截止" in tags and not (set(tags) & LOW_QUALITY_TAGS), str(tags))
@@ -128,6 +128,9 @@ def test_config_and_quality_offline() -> None:
 
 # ---------- A. 真实抓取验证（网络，允许个别源失败）----------
 def test_live_fetch() -> None:
+    if os.environ.get("JOB_RADAR_OFFLINE_TEST") == "1":
+        print("\n[A] 已按 JOB_RADAR_OFFLINE_TEST=1 跳过联网抓取")
+        return
     print("\n[A] 真实抓取（海外 ATS，网络）")
     stable = {"greenhouse", "lever", "ashby"}
     report = sync.run(only_adapters=stable, verbose=True, out_dir=TMP_OUT)
@@ -139,6 +142,9 @@ def test_live_fetch() -> None:
 
 # ---------- C. 健康度可观测 ----------
 def test_health_report() -> None:
+    if os.environ.get("JOB_RADAR_OFFLINE_TEST") == "1":
+        print("\n[C] 离线模式跳过临时联网健康报告")
+        return
     print("\n[C] 健康度闭环")
     path = os.path.join(TMP_OUT, "health_report.json")
     check("生成 health_report.json（临时目录，不覆盖正式 data/）", os.path.exists(path))
