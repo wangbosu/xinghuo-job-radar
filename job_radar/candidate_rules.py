@@ -29,7 +29,9 @@ _SALES = re.compile(
 _AMBIGUOUS_SALES = re.compile(r"客户经理|营销岗|商务岗|商务专员", re.I)
 _TECH_TITLE = re.compile(
     r"算法(?:工程师|研究员)?|机器学习|深度学习|数据科学家|开发工程师|软件工程师|后端|前端|客户端|"
-    r"测试开发|运维开发|架构师|程序员|java|golang|嵌入式|芯片设计|编译器|computer\s+vision|data\s+scientist",
+    r"测试开发|运维开发|架构师|程序员|java|golang|嵌入式|芯片设计|编译器|computer\s+vision|data\s+scientist"
+    r"|芯片(?:计算)?架构|芯片物理设计|芯片验证|NPU|GPU|CPU|硬件工程师|电子工程师|电气工程师|"
+    r"控制算法|感知算法|规划算法|大模型|自然语言处理|推荐算法|数据挖掘|数据开发|验证工程师",
     re.I,
 )
 _TECH_HEAVY = re.compile(r"熟练掌握\s*(?:sql|python)|精通\s*(?:sql|python)|机器学习模型|深度学习框架|算法设计", re.I)

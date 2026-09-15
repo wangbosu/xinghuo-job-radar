@@ -83,7 +83,9 @@ def _run_sources(label: str, ids: set[str]) -> None:
         raise SystemExit(f"{label} 没有可运行信源")
     print(f"🚦 {label}: {len(ids)} 个信源")
     sync.run(only_source_ids=ids, preserve_unselected=True)
-    export_html.main()
+    # 每次增量抓取后重审整个存量库，避免未本次抓取的旧数据
+    # 绕过新规则，把实习、社招或重技术岗重新带回首页。
+    rescore()
 
 
 def _is_deep_day() -> bool:
