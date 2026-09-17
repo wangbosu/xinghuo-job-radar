@@ -1,5 +1,65 @@
 [
   {
+    "dedup_key": "dfa8464ea5ffb16e",
+    "source_id": "edu-fudan",
+    "company_name": "中国移动物联网公司2027届秋季",
+    "title": "中国移动物联网公司2027届秋季校园招聘简章",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=8e3236fb-eac4-7215-470d-aa4f7c9026d6",
+    "first_seen": "2026-09-13T06:46:08.391105+00:00",
+    "last_seen": "2026-09-13T06:46:08.391105+00:00",
+    "archived_at": "2026-09-17T23:38:20.774304+00:00",
+    "match_score": 99
+  },
+  {
+    "dedup_key": "33987993bc9f2f59",
+    "source_id": "edu-fudan",
+    "company_name": "“信”步全球，“也”造不凡信也科技2027届",
+    "title": "“信”步全球，“也”造不凡信也科技2027届校园招聘闪耀开启",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=06b521f4-5cd3-b7a2-8684-6fc4a67b3e26",
+    "first_seen": "2026-09-13T06:46:08.391105+00:00",
+    "last_seen": "2026-09-13T06:46:08.391105+00:00",
+    "archived_at": "2026-09-17T23:38:20.774304+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "6c770a8bc89f3b67",
+    "source_id": "edu-fudan",
+    "company_name": "中石油（上海）新材料研究院2026年秋季",
+    "title": "中石油（上海）新材料研究院2026年秋季招聘公告",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=d8aee181-0e13-5299-b34c-5e2c147b8010",
+    "first_seen": "2026-09-13T06:46:08.391105+00:00",
+    "last_seen": "2026-09-13T06:46:08.391105+00:00",
+    "archived_at": "2026-09-17T23:38:20.774304+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "8096e261bf2e0b46",
+    "source_id": "edu-fudan",
+    "company_name": "长庆石化公司2026年秋季高校毕业生",
+    "title": "长庆石化公司2026年秋季高校毕业生招聘公告",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=834c4eff-4b7f-3b10-8a3d-7c4b46ca96c2",
+    "first_seen": "2026-09-13T06:46:08.391105+00:00",
+    "last_seen": "2026-09-13T06:46:08.391105+00:00",
+    "archived_at": "2026-09-17T23:38:20.774304+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "a24d5b2005b9aca6",
+    "source_id": "nk-intern",
+    "company_name": "牛客网·实习",
+    "title": "AI 应用开发-2027届",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/446584?deliverSource=1&pageSource=5001&channel=npJobTab&logid=843bd417707f0b7269f2954ab69c8523",
+    "first_seen": "2026-09-13T06:46:08.391105+00:00",
+    "last_seen": "2026-09-13T06:46:08.391105+00:00",
+    "archived_at": "2026-09-17T23:38:20.774304+00:00",
+    "match_score": 16
+  },
+  {
     "dedup_key": "acc8aec1f3dd7a58",
     "source_id": "cn-iguopin",
     "company_name": "上海核工程研究设计院股份有限公司",
@@ -119938,65 +119998,5 @@
     "last_seen": "2026-09-02T00:49:40.963993+00:00",
     "archived_at": "2026-09-03T00:57:32.960705+00:00",
     "match_score": 67
-  },
-  {
-    "dedup_key": "d9e5cf10752465cf",
-    "source_id": "cn-iguopin",
-    "company_name": "北京金融大数据有限公司",
-    "title": "数据开发岗",
-    "location": "北京-西城区",
-    "official_url": "https://www.iguopin.com/job/detail?id=204410751694144408",
-    "first_seen": "2026-09-02T00:49:40.963993+00:00",
-    "last_seen": "2026-09-02T00:49:40.963993+00:00",
-    "archived_at": "2026-09-03T00:57:32.960705+00:00",
-    "match_score": 67
-  },
-  {
-    "dedup_key": "a7ffbcdb0a93c433",
-    "source_id": "cn-iguopin",
-    "company_name": "中数联物流科技（上海）有限公司",
-    "title": "商务拓展（商用车大数据板块）",
-    "location": "上海",
-    "official_url": "https://www.iguopin.com/job/detail?id=215601133324861548",
-    "first_seen": "2026-09-02T00:49:40.963993+00:00",
-    "last_seen": "2026-09-02T00:49:40.963993+00:00",
-    "archived_at": "2026-09-03T00:57:32.960705+00:00",
-    "match_score": 67
-  },
-  {
-    "dedup_key": "0e759862680d72cd",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "腾讯视频-AI技术导演（综艺）",
-    "location": "北京",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2090633580643528704",
-    "first_seen": "2026-09-01T01:39:52.861353+00:00",
-    "last_seen": "2026-09-02T00:49:40.963993+00:00",
-    "archived_at": "2026-09-03T00:57:32.960705+00:00",
-    "match_score": 66
-  },
-  {
-    "dedup_key": "fbeec2894ca3dad2",
-    "source_id": "cn-iguopin",
-    "company_name": "国核宝钛锆业股份公司",
-    "title": "技术工程师（智能制造）",
-    "location": "南通-崇川区",
-    "official_url": "https://www.iguopin.com/job/detail?id=194115173919755419",
-    "first_seen": "2026-09-02T00:49:40.963993+00:00",
-    "last_seen": "2026-09-02T00:49:40.963993+00:00",
-    "archived_at": "2026-09-03T00:57:32.960705+00:00",
-    "match_score": 65
-  },
-  {
-    "dedup_key": "9a901d393119e639",
-    "source_id": "cn-iguopin",
-    "company_name": "中国市政工程华北设计研究总院有限公司",
-    "title": "供热及新能源设计岗（天津本部）",
-    "location": "天津-河西区",
-    "official_url": "https://www.iguopin.com/job/detail?id=216311174298337676",
-    "first_seen": "2026-09-02T00:49:40.963993+00:00",
-    "last_seen": "2026-09-02T00:49:40.963993+00:00",
-    "archived_at": "2026-09-03T00:57:32.960705+00:00",
-    "match_score": 65
   }
 ]
