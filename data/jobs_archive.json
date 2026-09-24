@@ -1,5 +1,77 @@
 [
   {
+    "dedup_key": "712c47b4d6be76c6",
+    "source_id": "edu-fudan",
+    "company_name": "中国移动供应链管理中心2027",
+    "title": "中国移动供应链管理中心2027校园招聘",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=6e1f4279-467d-7310-d8a2-c445fd6a2d74",
+    "first_seen": "2026-09-21T23:40:05.344358+00:00",
+    "last_seen": "2026-09-21T23:40:05.344358+00:00",
+    "archived_at": "2026-09-24T23:40:12.581623+00:00",
+    "match_score": 152
+  },
+  {
+    "dedup_key": "870f16235908f66a",
+    "source_id": "edu-fudan",
+    "company_name": "中粮集团2027届",
+    "title": "中粮集团2027届校园招聘",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=7ddc31b3-c7b9-69f6-52da-38d169a0b147",
+    "first_seen": "2026-09-21T23:40:05.344358+00:00",
+    "last_seen": "2026-09-21T23:40:05.344358+00:00",
+    "archived_at": "2026-09-24T23:40:12.581623+00:00",
+    "match_score": 99
+  },
+  {
+    "dedup_key": "57d03cf10dc39191",
+    "source_id": "edu-sjtu",
+    "company_name": "中国银行",
+    "title": "中国银行2027届校园招聘宣讲会",
+    "location": "上海交通大学·图信大楼8楼多功能厅",
+    "official_url": "https://www.job.sjtu.edu.cn/career/xjhxx/view/238746869193379840",
+    "first_seen": "2026-09-21T23:40:05.344358+00:00",
+    "last_seen": "2026-09-21T23:40:05.344358+00:00",
+    "archived_at": "2026-09-24T23:40:12.581623+00:00",
+    "match_score": 86
+  },
+  {
+    "dedup_key": "75904a5b149c6610",
+    "source_id": "edu-fudan",
+    "company_name": "广发银行股份有限公司南京分行2027年秋季",
+    "title": "广发银行股份有限公司南京分行2027年秋季校园招聘简章",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=bf049cad-423c-0ee1-b1dc-325f7aac3e17",
+    "first_seen": "2026-09-21T23:40:05.344358+00:00",
+    "last_seen": "2026-09-21T23:40:05.344358+00:00",
+    "archived_at": "2026-09-24T23:40:12.581623+00:00",
+    "match_score": 46
+  },
+  {
+    "dedup_key": "d7169031188ee975",
+    "source_id": "edu-fudan",
+    "company_name": "中元汇吉生物技术股份有限公司",
+    "title": "国际销售管理培训生（法语/西班牙语/葡萄牙语/俄语/阿拉伯语/英语）",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/zhiweiDetail.html?jobtype=1&id=f3c5227a-efea-eb74-e7d6-2c126e14896c",
+    "first_seen": "2026-09-21T23:40:05.344358+00:00",
+    "last_seen": "2026-09-21T23:40:05.344358+00:00",
+    "archived_at": "2026-09-24T23:40:12.581623+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "e5866b165fd27f59",
+    "source_id": "nk-intern",
+    "company_name": "牛客网·实习",
+    "title": "数据分析师-27届正式批",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/433016?deliverSource=1&pageSource=5001&channel=npJobTab&logid=046c09e6e0352fd2ab3bdd8628ffa51f",
+    "first_seen": "2026-09-21T23:40:05.344358+00:00",
+    "last_seen": "2026-09-21T23:40:05.344358+00:00",
+    "archived_at": "2026-09-24T23:40:12.581623+00:00",
+    "match_score": 21
+  },
+  {
     "dedup_key": "1c00b9e7a022c5ae",
     "source_id": "cn-iguopin",
     "company_name": "广州智光电气技术有限公司",
@@ -119926,77 +119998,5 @@
     "last_seen": "2026-09-04T00:47:44.482352+00:00",
     "archived_at": "2026-09-05T00:37:32.592380+00:00",
     "match_score": 14
-  },
-  {
-    "dedup_key": "ff9a4e4eab6bb415",
-    "source_id": "gov-mohrss",
-    "company_name": "袋鼠云聘人才服务（广州）有限公司",
-    "title": "小象超市配送员-太和北站骑手",
-    "location": "广东省天河区",
-    "official_url": "https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/#/positionDetail?bbb911=0064f5ddb0ca382825af40f2a001c8fb&bcb009=2094260210448207874",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 14
-  },
-  {
-    "dedup_key": "5c294900ab9262ed",
-    "source_id": "gov-mohrss",
-    "company_name": "北京世邦魏理仕物业管理服务有限公司广州分公司",
-    "title": "消防主任",
-    "location": "广东省荔湾区",
-    "official_url": "https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/#/positionDetail?bbb911=4401-DT_52113507&bcb009=2094230150764826625",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 14
-  },
-  {
-    "dedup_key": "6d14b07ced284faa",
-    "source_id": "gov-mohrss",
-    "company_name": "广东宏海保安服务有限公司",
-    "title": "宿舍管理员",
-    "location": "广东省信宜市",
-    "official_url": "https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/#/positionDetail?bbb911=DT-1001865742&bcb009=2094325575746752513",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 14
-  },
-  {
-    "dedup_key": "f9ba1943702acc5d",
-    "source_id": "gov-mohrss",
-    "company_name": "苏州嘉升科技有限公司",
-    "title": "仓库文员",
-    "location": "江苏省相城区",
-    "official_url": "https://www.js365job.com/recruitment/findJobDetail?jobId=2094676509109084162&amp;companyId=1892487595076501506",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 14
-  },
-  {
-    "dedup_key": "766db39f75a47273",
-    "source_id": "cn-catl",
-    "company_name": "宁德时代",
-    "title": "2027届秋招 大客户销售",
-    "location": "NINGDE",
-    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d798b68cc6f624f3d84cb",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 14
-  },
-  {
-    "dedup_key": "e39d360cbb5d6179",
-    "source_id": "edu-sysu",
-    "company_name": "福建新大陆支付技术有限公司2027届全球校园招聘",
-    "title": "福建新大陆支付技术有限公司2027届全球校园招聘",
-    "location": "中山大学·南校园",
-    "official_url": "https://career.sysu.edu.cn/campus/view/id/996781",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 12
   }
 ]
