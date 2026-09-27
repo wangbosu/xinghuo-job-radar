@@ -1,5 +1,197 @@
 [
   {
+    "dedup_key": "79be8d4ae9937a04",
+    "source_id": "gov-mohrss",
+    "company_name": "上海长园电子材料有限公司",
+    "title": "生产管培生",
+    "location": "上海市嘉定区",
+    "official_url": "https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=2975329",
+    "first_seen": "2026-09-26T23:23:51.269329+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 24
+  },
+  {
+    "dedup_key": "1c00b9e7a022c5ae",
+    "source_id": "cn-iguopin",
+    "company_name": "广州智光电气技术有限公司",
+    "title": "2027届校园招聘-研发工程师（电力电子方向）",
+    "location": "广东",
+    "official_url": "https://www.iguopin.com/job/detail?id=219200444029731498",
+    "first_seen": "2026-09-26T23:23:51.269329+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 59
+  },
+  {
+    "dedup_key": "ab307757469f9eec",
+    "source_id": "cn-iguopin",
+    "company_name": "五矿环太资源开发（北京）有限公司",
+    "title": "2027届校园招聘-项目管理类管培生",
+    "location": "巴布亚新几内亚",
+    "official_url": "https://www.iguopin.com/job/detail?id=216573973700281102",
+    "first_seen": "2026-09-26T23:23:51.269329+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 112
+  },
+  {
+    "dedup_key": "9053fbdc221036cd",
+    "source_id": "cn-iguopin",
+    "company_name": "中冶建筑研究总院有限公司",
+    "title": "结构工程师-2027校招",
+    "location": "深圳",
+    "official_url": "https://www.iguopin.com/job/detail?id=214139916177638369",
+    "first_seen": "2026-09-26T23:23:51.269329+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 96
+  },
+  {
+    "dedup_key": "fd0624b7d27625fd",
+    "source_id": "cn-iguopin",
+    "company_name": "中国联合网络通信有限公司山东省分公司",
+    "title": "网络安全运营（临沂-市公司本部）2027秋招",
+    "location": "临沂-兰山区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215272480883869210",
+    "first_seen": "2026-09-25T23:23:22.205928+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 64
+  },
+  {
+    "dedup_key": "e4c59dd9ebb8a40a",
+    "source_id": "cn-iguopin",
+    "company_name": "中冶建筑研究总院有限公司",
+    "title": "节能工程师-2027校招",
+    "location": "北京",
+    "official_url": "https://www.iguopin.com/job/detail?id=214290191915942904",
+    "first_seen": "2026-09-26T23:23:51.269329+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 59
+  },
+  {
+    "dedup_key": "e9a874a31d0d84e9",
+    "source_id": "cn-iguopin",
+    "company_name": "中青博联整合营销顾问股份有限公司",
+    "title": "【2027校招】会展活动专员-北京",
+    "location": "北京-东城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=211508853420853913",
+    "first_seen": "2026-09-26T23:23:51.269329+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 59
+  },
+  {
+    "dedup_key": "9a77e8f6fc0628c8",
+    "source_id": "cn-iguopin",
+    "company_name": "中国机械工业集团有限公司",
+    "title": "管培生（2027届青蓝计划）",
+    "location": "郑州",
+    "official_url": "https://www.iguopin.com/job/detail?id=219362101783691955",
+    "first_seen": "2026-09-25T23:23:22.205928+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 67
+  },
+  {
+    "dedup_key": "d8f038ba419c8dd8",
+    "source_id": "cn-catl",
+    "company_name": "宁德时代",
+    "title": "2027届秋招 激光工艺研发工程师",
+    "location": "宁德市",
+    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d76e243154813049a5c42",
+    "first_seen": "2026-09-17T23:21:11.101393+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 65
+  },
+  {
+    "dedup_key": "992ed005225a1515",
+    "source_id": "cn-catl",
+    "company_name": "宁德时代",
+    "title": "2027届秋招 CGMD仿真工程师",
+    "location": "宁德市",
+    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d71e01ad6db7cf800b232",
+    "first_seen": "2026-09-17T23:21:11.101393+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 65
+  },
+  {
+    "dedup_key": "fbf6ad6b0b40dd52",
+    "source_id": "cn-catl",
+    "company_name": "宁德时代",
+    "title": "2027届秋招 结构仿真工程师",
+    "location": "宁德市",
+    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d71e01ad6db7cf800b234",
+    "first_seen": "2026-09-17T23:21:11.101393+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 65
+  },
+  {
+    "dedup_key": "078f4547fc8e39c0",
+    "source_id": "cn-catl",
+    "company_name": "宁德时代",
+    "title": "2027届秋招 智造生产主管-DG",
+    "location": "东莞市",
+    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d70b81ad6db7cf800b192",
+    "first_seen": "2026-09-15T23:23:36.745812+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 79
+  },
+  {
+    "dedup_key": "0a68ac0682425dda",
+    "source_id": "cn-bytedance",
+    "company_name": "字节跳动",
+    "title": "招聘运营专家-TikTok产品&设计（上海）",
+    "location": "上海",
+    "official_url": "https://jobs.bytedance.com/experienced/position/7649274857403009333/detail",
+    "first_seen": "2026-09-24T23:23:59.038373+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 74
+  },
+  {
+    "dedup_key": "8ffcd047c9aa19f9",
+    "source_id": "edu-sysu",
+    "company_name": "东莞证券",
+    "title": "东莞证券2027届“新力量”总部业务管培生校园招聘简章",
+    "location": "中山大学·南校园",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997357",
+    "first_seen": "2026-09-24T23:23:59.038373+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 72
+  },
+  {
+    "dedup_key": "d3f2ebe3d01c09f8",
+    "source_id": "edu-sysu",
+    "company_name": "重庆三峡银行2027届校园招聘公告",
+    "title": "重庆三峡银行2027届校园招聘公告",
+    "location": "中山大学·南校园",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997356",
+    "first_seen": "2026-09-24T23:23:59.038373+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 69
+  },
+  {
+    "dedup_key": "2d486f2765f26e2c",
+    "source_id": "edu-zju",
+    "company_name": "太平鸟集团×鹏源物产",
+    "title": "太平鸟集团×鹏源物产2027届校园招聘宣讲会",
+    "location": "浙江大学·紫金港校区尧坤楼215报告厅",
+    "official_url": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=6c93410a8d8acde6179aeae628efbfaa&dwxxid=761C0E15255524AFE055000000000001",
+    "first_seen": "2026-09-24T23:23:59.038373+00:00",
+    "last_seen": "2026-09-26T23:23:51.269329+00:00",
+    "archived_at": "2026-09-27T23:24:05.131823+00:00",
+    "match_score": 61
+  },
+  {
     "dedup_key": "0252a9b321368e38",
     "source_id": "cn-horizon",
     "company_name": "地平线",
@@ -216,18 +408,6 @@
     "match_score": 29
   },
   {
-    "dedup_key": "79be8d4ae9937a04",
-    "source_id": "gov-mohrss",
-    "company_name": "上海长园电子材料有限公司",
-    "title": "生产管培生",
-    "location": "上海市嘉定区",
-    "official_url": "https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=2975329",
-    "first_seen": "2026-09-24T23:23:59.038373+00:00",
-    "last_seen": "2026-09-24T23:23:59.038373+00:00",
-    "archived_at": "2026-09-25T23:23:22.205928+00:00",
-    "match_score": 24
-  },
-  {
     "dedup_key": "fb71f792dab233e6",
     "source_id": "gov-mohrss",
     "company_name": "广东瑞拓工程机械有限公司",
@@ -324,18 +504,6 @@
     "match_score": 21
   },
   {
-    "dedup_key": "1c00b9e7a022c5ae",
-    "source_id": "cn-iguopin",
-    "company_name": "广州智光电气技术有限公司",
-    "title": "2027届校园招聘-研发工程师（电力电子方向）",
-    "location": "广东",
-    "official_url": "https://www.iguopin.com/job/detail?id=219200444029731498",
-    "first_seen": "2026-09-23T23:21:30.660081+00:00",
-    "last_seen": "2026-09-23T23:21:30.660081+00:00",
-    "archived_at": "2026-09-24T23:23:59.038373+00:00",
-    "match_score": 59
-  },
-  {
     "dedup_key": "d41e484b7d071bf9",
     "source_id": "cn-iguopin",
     "company_name": "中国铁建投资集团有限公司",
@@ -346,18 +514,6 @@
     "last_seen": "2026-09-23T23:21:30.660081+00:00",
     "archived_at": "2026-09-24T23:23:59.038373+00:00",
     "match_score": 97
-  },
-  {
-    "dedup_key": "ab307757469f9eec",
-    "source_id": "cn-iguopin",
-    "company_name": "五矿环太资源开发（北京）有限公司",
-    "title": "2027届校园招聘-项目管理类管培生",
-    "location": "巴布亚新几内亚",
-    "official_url": "https://www.iguopin.com/job/detail?id=216573973700281102",
-    "first_seen": "2026-09-23T23:21:30.660081+00:00",
-    "last_seen": "2026-09-23T23:21:30.660081+00:00",
-    "archived_at": "2026-09-24T23:23:59.038373+00:00",
-    "match_score": 112
   },
   {
     "dedup_key": "83f71f7e4f3c5345",
@@ -382,18 +538,6 @@
     "last_seen": "2026-09-23T23:21:30.660081+00:00",
     "archived_at": "2026-09-24T23:23:59.038373+00:00",
     "match_score": 101
-  },
-  {
-    "dedup_key": "9053fbdc221036cd",
-    "source_id": "cn-iguopin",
-    "company_name": "中冶建筑研究总院有限公司",
-    "title": "结构工程师-2027校招",
-    "location": "深圳",
-    "official_url": "https://www.iguopin.com/job/detail?id=214139916177638369",
-    "first_seen": "2026-09-23T23:21:30.660081+00:00",
-    "last_seen": "2026-09-23T23:21:30.660081+00:00",
-    "archived_at": "2026-09-24T23:23:59.038373+00:00",
-    "match_score": 96
   },
   {
     "dedup_key": "4bf733205f4da682",
@@ -528,18 +672,6 @@
     "match_score": 64
   },
   {
-    "dedup_key": "fd0624b7d27625fd",
-    "source_id": "cn-iguopin",
-    "company_name": "中国联合网络通信有限公司山东省分公司",
-    "title": "网络安全运营（临沂-市公司本部）2027秋招",
-    "location": "临沂-兰山区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215272480883869210",
-    "first_seen": "2026-09-23T23:21:30.660081+00:00",
-    "last_seen": "2026-09-23T23:21:30.660081+00:00",
-    "archived_at": "2026-09-24T23:23:59.038373+00:00",
-    "match_score": 64
-  },
-  {
     "dedup_key": "75680a02e31cc2f1",
     "source_id": "cn-iguopin",
     "company_name": "五矿环太资源开发（北京）有限公司",
@@ -622,30 +754,6 @@
     "last_seen": "2026-09-23T23:21:30.660081+00:00",
     "archived_at": "2026-09-24T23:23:59.038373+00:00",
     "match_score": 61
-  },
-  {
-    "dedup_key": "e4c59dd9ebb8a40a",
-    "source_id": "cn-iguopin",
-    "company_name": "中冶建筑研究总院有限公司",
-    "title": "节能工程师-2027校招",
-    "location": "北京",
-    "official_url": "https://www.iguopin.com/job/detail?id=214290191915942904",
-    "first_seen": "2026-09-23T23:21:30.660081+00:00",
-    "last_seen": "2026-09-23T23:21:30.660081+00:00",
-    "archived_at": "2026-09-24T23:23:59.038373+00:00",
-    "match_score": 59
-  },
-  {
-    "dedup_key": "e9a874a31d0d84e9",
-    "source_id": "cn-iguopin",
-    "company_name": "中青博联整合营销顾问股份有限公司",
-    "title": "【2027校招】会展活动专员-北京",
-    "location": "北京-东城区",
-    "official_url": "https://www.iguopin.com/job/detail?id=211508853420853913",
-    "first_seen": "2026-09-23T23:21:30.660081+00:00",
-    "last_seen": "2026-09-23T23:21:30.660081+00:00",
-    "archived_at": "2026-09-24T23:23:59.038373+00:00",
-    "match_score": 59
   },
   {
     "dedup_key": "2e26648100e50dd2",
@@ -1354,18 +1462,6 @@
     "last_seen": "2026-09-22T23:22:53.434589+00:00",
     "archived_at": "2026-09-23T23:21:30.660081+00:00",
     "match_score": 69
-  },
-  {
-    "dedup_key": "9a77e8f6fc0628c8",
-    "source_id": "cn-iguopin",
-    "company_name": "中国机械工业集团有限公司",
-    "title": "管培生（2027届青蓝计划）",
-    "location": "郑州",
-    "official_url": "https://www.iguopin.com/job/detail?id=219362101783691955",
-    "first_seen": "2026-09-22T23:22:53.434589+00:00",
-    "last_seen": "2026-09-22T23:22:53.434589+00:00",
-    "archived_at": "2026-09-23T23:21:30.660081+00:00",
-    "match_score": 67
   },
   {
     "dedup_key": "91631cd7002d50d3",
@@ -16140,18 +16236,6 @@
     "match_score": 21
   },
   {
-    "dedup_key": "d8f038ba419c8dd8",
-    "source_id": "cn-catl",
-    "company_name": "宁德时代",
-    "title": "2027届秋招 激光工艺研发工程师",
-    "location": "宁德市",
-    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d76e243154813049a5c42",
-    "first_seen": "2026-09-15T23:23:36.745812+00:00",
-    "last_seen": "2026-09-15T23:23:36.745812+00:00",
-    "archived_at": "2026-09-16T23:24:29.076302+00:00",
-    "match_score": 65
-  },
-  {
     "dedup_key": "6285d37acf175982",
     "source_id": "gov-ncss",
     "company_name": "加多宝（天津）饮料有限公司",
@@ -16162,30 +16246,6 @@
     "last_seen": "2026-09-15T23:23:36.745812+00:00",
     "archived_at": "2026-09-16T23:24:29.076302+00:00",
     "match_score": 67
-  },
-  {
-    "dedup_key": "992ed005225a1515",
-    "source_id": "cn-catl",
-    "company_name": "宁德时代",
-    "title": "2027届秋招 CGMD仿真工程师",
-    "location": "宁德市",
-    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d71e01ad6db7cf800b232",
-    "first_seen": "2026-09-15T23:23:36.745812+00:00",
-    "last_seen": "2026-09-15T23:23:36.745812+00:00",
-    "archived_at": "2026-09-16T23:24:29.076302+00:00",
-    "match_score": 65
-  },
-  {
-    "dedup_key": "fbf6ad6b0b40dd52",
-    "source_id": "cn-catl",
-    "company_name": "宁德时代",
-    "title": "2027届秋招 结构仿真工程师",
-    "location": "宁德市",
-    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d71e01ad6db7cf800b234",
-    "first_seen": "2026-09-15T23:23:36.745812+00:00",
-    "last_seen": "2026-09-15T23:23:36.745812+00:00",
-    "archived_at": "2026-09-16T23:24:29.076302+00:00",
-    "match_score": 65
   },
   {
     "dedup_key": "008c72e5c589ef16",
@@ -68544,18 +68604,6 @@
     "match_score": 99
   },
   {
-    "dedup_key": "078f4547fc8e39c0",
-    "source_id": "cn-catl",
-    "company_name": "宁德时代",
-    "title": "2027届秋招 智造生产主管-DG",
-    "location": "东莞市",
-    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d70b81ad6db7cf800b192",
-    "first_seen": "2026-09-11T00:49:59.284522+00:00",
-    "last_seen": "2026-09-11T00:49:59.284522+00:00",
-    "archived_at": "2026-09-12T00:55:28.812853+00:00",
-    "match_score": 99
-  },
-  {
     "dedup_key": "952bf9a6335c8a40",
     "source_id": "cn-tencent",
     "company_name": "腾讯",
@@ -119946,54 +119994,6 @@
     "title": "实施顾问",
     "location": "山东",
     "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=HBmijY5UdUSzh7STJeBWwq",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 14
-  },
-  {
-    "dedup_key": "64081407927e1890",
-    "source_id": "gov-ncss",
-    "company_name": "青岛安永信息技术有限公司",
-    "title": "java开发工程师",
-    "location": "山东",
-    "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=VpGe2zbYLAGPqtpK2dWp9U",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 14
-  },
-  {
-    "dedup_key": "b4fd25676cccd7cb",
-    "source_id": "gov-ncss",
-    "company_name": "广东美金邦家具有限公司",
-    "title": "1688运营",
-    "location": "广东",
-    "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=XgQMiCZgxLqeMQcsVss6QQ",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 14
-  },
-  {
-    "dedup_key": "716d921135a613c8",
-    "source_id": "gov-ncss",
-    "company_name": "四川芸奋科技开发有限公司",
-    "title": "业务开发专员",
-    "location": "四川",
-    "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=E48yR6Tq1HYNrH2xqcfUm1",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 14
-  },
-  {
-    "dedup_key": "11a08774ffca64de",
-    "source_id": "gov-ncss",
-    "company_name": "潮州市潮安区维雅康五金实业有限公司",
-    "title": "品管员",
-    "location": "广东",
-    "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=WTUJ6MqRVZH6qhTugiiQSJ",
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
     "last_seen": "2026-09-04T00:47:44.482352+00:00",
     "archived_at": "2026-09-05T00:37:32.592380+00:00",
