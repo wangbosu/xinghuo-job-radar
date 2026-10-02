@@ -1,5 +1,101 @@
 [
   {
+    "dedup_key": "ab307757469f9eec",
+    "source_id": "cn-iguopin",
+    "company_name": "五矿环太资源开发（北京）有限公司",
+    "title": "2027届校园招聘-项目管理类管培生",
+    "location": "巴布亚新几内亚",
+    "official_url": "https://www.iguopin.com/job/detail?id=216573973700281102",
+    "first_seen": "2026-10-01T23:24:29.167994+00:00",
+    "last_seen": "2026-10-01T23:24:29.167994+00:00",
+    "archived_at": "2026-10-02T23:23:58.705900+00:00",
+    "match_score": 112
+  },
+  {
+    "dedup_key": "d41e484b7d071bf9",
+    "source_id": "cn-iguopin",
+    "company_name": "中国铁建投资集团有限公司",
+    "title": "2027届校园招聘-新能源类投资管理（经营）岗",
+    "location": "北京 / 邯郸-磁县 / 许昌-鄢陵县",
+    "official_url": "https://www.iguopin.com/job/detail?id=218500468245004476",
+    "first_seen": "2026-10-01T23:24:29.167994+00:00",
+    "last_seen": "2026-10-01T23:24:29.167994+00:00",
+    "archived_at": "2026-10-02T23:23:58.705900+00:00",
+    "match_score": 97
+  },
+  {
+    "dedup_key": "2236b3f174e7cd5f",
+    "source_id": "cn-iguopin",
+    "company_name": "内蒙古优然牧业有限责任公司",
+    "title": "2027届校招-供应培训生",
+    "location": "呼伦贝尔-阿荣旗",
+    "official_url": "https://www.iguopin.com/job/detail?id=217598343767918028",
+    "first_seen": "2026-09-28T23:25:29.135854+00:00",
+    "last_seen": "2026-10-01T23:24:29.167994+00:00",
+    "archived_at": "2026-10-02T23:23:58.705900+00:00",
+    "match_score": 107
+  },
+  {
+    "dedup_key": "c4abaa8c4e1263a3",
+    "source_id": "cn-iguopin",
+    "company_name": "中远海运散货运输有限公司",
+    "title": "2027届绿色低碳岗",
+    "location": "广州-海珠区",
+    "official_url": "https://www.iguopin.com/job/detail?id=216579930803143437",
+    "first_seen": "2026-10-01T23:24:29.167994+00:00",
+    "last_seen": "2026-10-01T23:24:29.167994+00:00",
+    "archived_at": "2026-10-02T23:23:58.705900+00:00",
+    "match_score": 86
+  },
+  {
+    "dedup_key": "aebc5c84a5609e56",
+    "source_id": "cn-meituan-campus",
+    "company_name": "美团",
+    "title": "AI native招聘专员",
+    "location": "北京市、上海市",
+    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4572239995",
+    "first_seen": "2026-09-25T23:23:22.205928+00:00",
+    "last_seen": "2026-10-01T23:24:29.167994+00:00",
+    "archived_at": "2026-10-02T23:23:58.705900+00:00",
+    "match_score": 72
+  },
+  {
+    "dedup_key": "64aaaf81b378ce18",
+    "source_id": "gov-ncss",
+    "company_name": "北京天时佳阁房地产投资顾问有限公司",
+    "title": "业务管培生（销售定向+央企式福利）",
+    "location": "北京",
+    "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=KXrJQ6rB4kKnQE5A6TaWRX",
+    "first_seen": "2026-09-28T23:25:29.135854+00:00",
+    "last_seen": "2026-10-01T23:24:29.167994+00:00",
+    "archived_at": "2026-10-02T23:23:58.705900+00:00",
+    "match_score": 70
+  },
+  {
+    "dedup_key": "1ed806256bb974f1",
+    "source_id": "gov-mohrss",
+    "company_name": "上海阳广包装材料有限公司",
+    "title": "人事助理",
+    "location": "上海市松江区",
+    "official_url": "https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=2984660",
+    "first_seen": "2026-10-01T23:24:29.167994+00:00",
+    "last_seen": "2026-10-01T23:24:29.167994+00:00",
+    "archived_at": "2026-10-02T23:23:58.705900+00:00",
+    "match_score": 70
+  },
+  {
+    "dedup_key": "c90d340c63447d1f",
+    "source_id": "cn-iguopin",
+    "company_name": "泰康人寿保险有限责任公司海南分公司",
+    "title": "2027届校园招聘-海口-银行保险部-渠道管理岗",
+    "location": "海口-龙华区",
+    "official_url": "https://www.iguopin.com/job/detail?id=219359309182534274",
+    "first_seen": "2026-09-22T23:22:53.434589+00:00",
+    "last_seen": "2026-10-01T23:24:29.167994+00:00",
+    "archived_at": "2026-10-02T23:23:58.705900+00:00",
+    "match_score": 62
+  },
+  {
     "dedup_key": "ceb29839c5c02c39",
     "source_id": "nk-intern",
     "company_name": "牛客网·实习",
@@ -1932,18 +2028,6 @@
     "match_score": 21
   },
   {
-    "dedup_key": "ab307757469f9eec",
-    "source_id": "cn-iguopin",
-    "company_name": "五矿环太资源开发（北京）有限公司",
-    "title": "2027届校园招聘-项目管理类管培生",
-    "location": "巴布亚新几内亚",
-    "official_url": "https://www.iguopin.com/job/detail?id=216573973700281102",
-    "first_seen": "2026-09-28T23:25:29.135854+00:00",
-    "last_seen": "2026-09-28T23:25:29.135854+00:00",
-    "archived_at": "2026-09-29T23:24:41.195591+00:00",
-    "match_score": 112
-  },
-  {
     "dedup_key": "e9a874a31d0d84e9",
     "source_id": "cn-iguopin",
     "company_name": "中青博联整合营销顾问股份有限公司",
@@ -3286,18 +3370,6 @@
     "last_seen": "2026-09-21T23:40:05.344358+00:00",
     "archived_at": "2026-09-24T23:40:12.581623+00:00",
     "match_score": 21
-  },
-  {
-    "dedup_key": "d41e484b7d071bf9",
-    "source_id": "cn-iguopin",
-    "company_name": "中国铁建投资集团有限公司",
-    "title": "2027届校园招聘-新能源类投资管理（经营）岗",
-    "location": "北京 / 邯郸-磁县 / 许昌-鄢陵县",
-    "official_url": "https://www.iguopin.com/job/detail?id=218500468245004476",
-    "first_seen": "2026-09-23T23:21:30.660081+00:00",
-    "last_seen": "2026-09-23T23:21:30.660081+00:00",
-    "archived_at": "2026-09-24T23:23:59.038373+00:00",
-    "match_score": 97
   },
   {
     "dedup_key": "83f71f7e4f3c5345",
@@ -76728,18 +76800,6 @@
     "match_score": 58
   },
   {
-    "dedup_key": "2236b3f174e7cd5f",
-    "source_id": "cn-iguopin",
-    "company_name": "内蒙古优然牧业有限责任公司",
-    "title": "2027届校招-供应培训生",
-    "location": "呼伦贝尔-阿荣旗",
-    "official_url": "https://www.iguopin.com/job/detail?id=217598343767918028",
-    "first_seen": "2026-09-11T00:49:59.284522+00:00",
-    "last_seen": "2026-09-11T00:49:59.284522+00:00",
-    "archived_at": "2026-09-12T00:55:28.812853+00:00",
-    "match_score": 58
-  },
-  {
     "dedup_key": "f6499094bb4d2bd9",
     "source_id": "cn-iguopin",
     "company_name": "安徽方圆机电股份有限公司",
@@ -119938,65 +119998,5 @@
     "last_seen": "2026-09-04T00:47:44.482352+00:00",
     "archived_at": "2026-09-05T00:37:32.592380+00:00",
     "match_score": 87
-  },
-  {
-    "dedup_key": "16b7ef724732a8d4",
-    "source_id": "cn-iguopin",
-    "company_name": "中国移动通信集团北京有限公司",
-    "title": "朝阳分公司-大数据运营分析",
-    "location": "北京-朝阳区",
-    "official_url": "https://www.iguopin.com/job/detail?id=216572592515973904",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 87
-  },
-  {
-    "dedup_key": "19588c06fb2914c6",
-    "source_id": "cn-horizon",
-    "company_name": "地平线",
-    "title": "芯片SE",
-    "location": "上海市、深圳市",
-    "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6a58b40ae05c792b8eaa337c",
-    "first_seen": "2026-07-16T23:58:47.769096+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 83
-  },
-  {
-    "dedup_key": "467ff627be21e3a3",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "OG项目组-高级游戏客户端开发",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2080585827171348480",
-    "first_seen": "2026-09-03T00:57:32.960705+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 82
-  },
-  {
-    "dedup_key": "55f491c061951b37",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "OG项目组-高级游戏客户端开发",
-    "location": "杭州",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2080585829356580864",
-    "first_seen": "2026-09-03T00:57:32.960705+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 82
-  },
-  {
-    "dedup_key": "89ded41d89dc356d",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "OG项目组-高级游戏客户端开发",
-    "location": "上海",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2080594711353147392",
-    "first_seen": "2026-09-03T00:57:32.960705+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 82
   }
 ]
