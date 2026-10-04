@@ -1,5 +1,101 @@
 [
   {
+    "dedup_key": "c14cc7f50cb324e3",
+    "source_id": "cn-iguopin",
+    "company_name": "中国铁建投资集团有限公司",
+    "title": "2027届校园招聘-新材料类投资管理（经营）岗",
+    "location": "北京",
+    "official_url": "https://www.iguopin.com/job/detail?id=218499734829007032",
+    "first_seen": "2026-10-02T23:23:58.705900+00:00",
+    "last_seen": "2026-10-04T03:00:09.622523+00:00",
+    "archived_at": "2026-10-04T23:25:14.119289+00:00",
+    "match_score": 97
+  },
+  {
+    "dedup_key": "0a5ddc98d8b43f8c",
+    "source_id": "cn-iguopin",
+    "company_name": "五矿环太资源开发（北京）有限公司",
+    "title": "2026届校园招聘-仓储管理类管培生",
+    "location": "巴布亚新几内亚",
+    "official_url": "https://www.iguopin.com/job/detail?id=216572147047334672",
+    "first_seen": "2026-10-02T23:23:58.705900+00:00",
+    "last_seen": "2026-10-04T03:00:09.622523+00:00",
+    "archived_at": "2026-10-04T23:25:14.119289+00:00",
+    "match_score": 22
+  },
+  {
+    "dedup_key": "704608dcbe110016",
+    "source_id": "cn-iguopin",
+    "company_name": "中远海运散货运输有限公司",
+    "title": "2027届航运经营岗",
+    "location": "广州-海珠区",
+    "official_url": "https://www.iguopin.com/job/detail?id=216578898601706257",
+    "first_seen": "2026-10-01T23:24:29.167994+00:00",
+    "last_seen": "2026-10-04T03:00:09.622523+00:00",
+    "archived_at": "2026-10-04T23:25:14.119289+00:00",
+    "match_score": 86
+  },
+  {
+    "dedup_key": "fd0624b7d27625fd",
+    "source_id": "cn-iguopin",
+    "company_name": "中国联合网络通信有限公司山东省分公司",
+    "title": "网络安全运营（临沂-市公司本部）2027秋招",
+    "location": "临沂-兰山区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215272480883869210",
+    "first_seen": "2026-09-29T23:24:41.195591+00:00",
+    "last_seen": "2026-10-04T03:00:09.622523+00:00",
+    "archived_at": "2026-10-04T23:25:14.119289+00:00",
+    "match_score": 64
+  },
+  {
+    "dedup_key": "0159d166fb6b2a7c",
+    "source_id": "cn-iguopin",
+    "company_name": "中国电子产业工程有限公司",
+    "title": "营销专员（俄语区）2027届",
+    "location": "北京-海淀区",
+    "official_url": "https://www.iguopin.com/job/detail?id=208168208950100756",
+    "first_seen": "2026-09-23T23:21:30.660081+00:00",
+    "last_seen": "2026-10-04T03:00:09.622523+00:00",
+    "archived_at": "2026-10-04T23:25:14.119289+00:00",
+    "match_score": 97
+  },
+  {
+    "dedup_key": "9f9c452f76479f7f",
+    "source_id": "cn-iguopin",
+    "company_name": "中国电子产业工程有限公司",
+    "title": "营销专员（亚洲英语区）2027届",
+    "location": "北京-海淀区",
+    "official_url": "https://www.iguopin.com/job/detail?id=208169405534700304",
+    "first_seen": "2026-09-23T23:21:30.660081+00:00",
+    "last_seen": "2026-10-04T03:00:09.622523+00:00",
+    "archived_at": "2026-10-04T23:25:14.119289+00:00",
+    "match_score": 97
+  },
+  {
+    "dedup_key": "a885997797a786c8",
+    "source_id": "cn-iguopin",
+    "company_name": "中国电子产业工程有限公司",
+    "title": "营销专员（非洲法语区）2027届",
+    "location": "北京-海淀区",
+    "official_url": "https://www.iguopin.com/job/detail?id=208169296348578580",
+    "first_seen": "2026-09-23T23:21:30.660081+00:00",
+    "last_seen": "2026-10-04T03:00:09.622523+00:00",
+    "archived_at": "2026-10-04T23:25:14.119289+00:00",
+    "match_score": 97
+  },
+  {
+    "dedup_key": "5ef06cef7a0a05e8",
+    "source_id": "cn-iguopin",
+    "company_name": "黑龙江东风南方汽车销售服务有限公司",
+    "title": "2026/2027届-销售管培生-哈尔滨地区",
+    "location": "哈尔滨",
+    "official_url": "https://www.iguopin.com/job/detail?id=213284988257304613",
+    "first_seen": "2026-09-23T23:21:30.660081+00:00",
+    "last_seen": "2026-10-04T03:00:09.622523+00:00",
+    "archived_at": "2026-10-04T23:25:14.119289+00:00",
+    "match_score": 62
+  },
+  {
     "dedup_key": "753c10cb2c122ad4",
     "source_id": "cn-iguopin",
     "company_name": "中国联合网络通信有限公司山东省分公司",
@@ -1560,18 +1656,6 @@
     "match_score": 69
   },
   {
-    "dedup_key": "c14cc7f50cb324e3",
-    "source_id": "cn-iguopin",
-    "company_name": "中国铁建投资集团有限公司",
-    "title": "2027届校园招聘-新材料类投资管理（经营）岗",
-    "location": "北京",
-    "official_url": "https://www.iguopin.com/job/detail?id=218499734829007032",
-    "first_seen": "2026-09-29T23:24:41.195591+00:00",
-    "last_seen": "2026-09-30T23:25:10.644139+00:00",
-    "archived_at": "2026-10-01T23:24:29.167994+00:00",
-    "match_score": 97
-  },
-  {
     "dedup_key": "495d09aa7c63dd7b",
     "source_id": "cn-iguopin",
     "company_name": "中青博联整合营销顾问股份有限公司",
@@ -1582,18 +1666,6 @@
     "last_seen": "2026-09-30T23:25:10.644139+00:00",
     "archived_at": "2026-10-01T23:24:29.167994+00:00",
     "match_score": 127
-  },
-  {
-    "dedup_key": "0a5ddc98d8b43f8c",
-    "source_id": "cn-iguopin",
-    "company_name": "五矿环太资源开发（北京）有限公司",
-    "title": "2026届校园招聘-仓储管理类管培生",
-    "location": "巴布亚新几内亚",
-    "official_url": "https://www.iguopin.com/job/detail?id=216572147047334672",
-    "first_seen": "2026-09-29T23:24:41.195591+00:00",
-    "last_seen": "2026-09-30T23:25:10.644139+00:00",
-    "archived_at": "2026-10-01T23:24:29.167994+00:00",
-    "match_score": 22
   },
   {
     "dedup_key": "28128bb30cbe6429",
@@ -1810,18 +1882,6 @@
     "last_seen": "2026-09-29T23:24:41.195591+00:00",
     "archived_at": "2026-09-30T23:25:10.644139+00:00",
     "match_score": 87
-  },
-  {
-    "dedup_key": "704608dcbe110016",
-    "source_id": "cn-iguopin",
-    "company_name": "中远海运散货运输有限公司",
-    "title": "2027届航运经营岗",
-    "location": "广州-海珠区",
-    "official_url": "https://www.iguopin.com/job/detail?id=216578898601706257",
-    "first_seen": "2026-09-23T23:21:30.660081+00:00",
-    "last_seen": "2026-09-29T23:24:41.195591+00:00",
-    "archived_at": "2026-09-30T23:25:10.644139+00:00",
-    "match_score": 86
   },
   {
     "dedup_key": "0dc7902ea6afb042",
@@ -3142,18 +3202,6 @@
     "last_seen": "2026-09-26T23:23:51.269329+00:00",
     "archived_at": "2026-09-27T23:24:05.131823+00:00",
     "match_score": 96
-  },
-  {
-    "dedup_key": "fd0624b7d27625fd",
-    "source_id": "cn-iguopin",
-    "company_name": "中国联合网络通信有限公司山东省分公司",
-    "title": "网络安全运营（临沂-市公司本部）2027秋招",
-    "location": "临沂-兰山区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215272480883869210",
-    "first_seen": "2026-09-25T23:23:22.205928+00:00",
-    "last_seen": "2026-09-26T23:23:51.269329+00:00",
-    "archived_at": "2026-09-27T23:24:05.131823+00:00",
-    "match_score": 64
   },
   {
     "dedup_key": "e4c59dd9ebb8a40a",
@@ -119950,53 +119998,5 @@
     "last_seen": "2026-09-04T00:47:44.482352+00:00",
     "archived_at": "2026-09-05T00:37:32.592380+00:00",
     "match_score": 88
-  },
-  {
-    "dedup_key": "ba7f988aaa5a2334",
-    "source_id": "cn-netease",
-    "company_name": "网易",
-    "title": "二次元游戏衍生品开发实习生",
-    "location": "杭州市",
-    "official_url": "https://hr.163.com/job-detail.html?positionId=78088",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 88
-  },
-  {
-    "dedup_key": "23405baa8e83d7e0",
-    "source_id": "cn-iguopin",
-    "company_name": "杭州禧粤鱼捞餐饮管理有限公司",
-    "title": "餐饮店管培生",
-    "location": "浙江",
-    "official_url": "https://www.iguopin.com/job/detail?id=216620242762203901",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 88
-  },
-  {
-    "dedup_key": "5d760c8e64393d38",
-    "source_id": "cn-iguopin",
-    "company_name": "中国移动通信集团北京有限公司",
-    "title": "通州分公司-大数据运营分析",
-    "location": "北京-通州区",
-    "official_url": "https://www.iguopin.com/job/detail?id=216572608705987341",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 87
-  },
-  {
-    "dedup_key": "7eed67b3976a43aa",
-    "source_id": "cn-iguopin",
-    "company_name": "中国移动通信集团北京有限公司",
-    "title": "经开分公司-大数据运营分析",
-    "location": "北京-大兴区",
-    "official_url": "https://www.iguopin.com/job/detail?id=216572615769195280",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 87
   }
 ]
