@@ -1,5 +1,137 @@
 [
   {
+    "dedup_key": "704608dcbe110016",
+    "source_id": "cn-iguopin",
+    "company_name": "中远海运散货运输有限公司",
+    "title": "2027届航运经营岗",
+    "location": "广州-海珠区",
+    "official_url": "https://www.iguopin.com/job/detail?id=216578898601706257",
+    "first_seen": "2026-10-05T23:24:54.225308+00:00",
+    "last_seen": "2026-10-05T23:24:54.225308+00:00",
+    "archived_at": "2026-10-06T23:26:42.769290+00:00",
+    "match_score": 86
+  },
+  {
+    "dedup_key": "fd0624b7d27625fd",
+    "source_id": "cn-iguopin",
+    "company_name": "中国联合网络通信有限公司山东省分公司",
+    "title": "网络安全运营（临沂-市公司本部）2027秋招",
+    "location": "临沂-兰山区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215272480883869210",
+    "first_seen": "2026-10-05T23:24:54.225308+00:00",
+    "last_seen": "2026-10-05T23:24:54.225308+00:00",
+    "archived_at": "2026-10-06T23:26:42.769290+00:00",
+    "match_score": 64
+  },
+  {
+    "dedup_key": "5ef06cef7a0a05e8",
+    "source_id": "cn-iguopin",
+    "company_name": "黑龙江东风南方汽车销售服务有限公司",
+    "title": "2026/2027届-销售管培生-哈尔滨地区",
+    "location": "哈尔滨",
+    "official_url": "https://www.iguopin.com/job/detail?id=213284988257304613",
+    "first_seen": "2026-10-05T23:24:54.225308+00:00",
+    "last_seen": "2026-10-05T23:24:54.225308+00:00",
+    "archived_at": "2026-10-06T23:26:42.769290+00:00",
+    "match_score": 62
+  },
+  {
+    "dedup_key": "7ad4a203087269a6",
+    "source_id": "gov-mohrss",
+    "company_name": "上海阳广包装材料有限公司",
+    "title": "采购专员",
+    "location": "上海市松江区",
+    "official_url": "https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=2984661",
+    "first_seen": "2026-10-04T23:25:14.119289+00:00",
+    "last_seen": "2026-10-04T23:25:14.119289+00:00",
+    "archived_at": "2026-10-06T23:26:42.769290+00:00",
+    "match_score": 87
+  },
+  {
+    "dedup_key": "c90d340c63447d1f",
+    "source_id": "cn-iguopin",
+    "company_name": "泰康人寿保险有限责任公司海南分公司",
+    "title": "2027届校园招聘-海口-银行保险部-渠道管理岗",
+    "location": "海口-龙华区",
+    "official_url": "https://www.iguopin.com/job/detail?id=219359309182534274",
+    "first_seen": "2026-10-04T23:25:14.119289+00:00",
+    "last_seen": "2026-10-05T23:24:54.225308+00:00",
+    "archived_at": "2026-10-06T23:26:42.769290+00:00",
+    "match_score": 62
+  },
+  {
+    "dedup_key": "0252a9b321368e38",
+    "source_id": "cn-horizon",
+    "company_name": "地平线",
+    "title": "【2027届校招】芯片可测性设计工程师",
+    "location": "上海市-浦东新区",
+    "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6a7933f04315481304953a9a",
+    "first_seen": "2026-10-02T23:23:58.705900+00:00",
+    "last_seen": "2026-10-05T23:24:54.225308+00:00",
+    "archived_at": "2026-10-06T23:26:42.769290+00:00",
+    "match_score": 65
+  },
+  {
+    "dedup_key": "bf589bb63f2fd64b",
+    "source_id": "cn-horizon",
+    "company_name": "地平线",
+    "title": "【2027届校招】项目管理工程师",
+    "location": "北京市、上海市-嘉定区",
+    "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6a7933ee4315481304953a97",
+    "first_seen": "2026-10-02T23:23:58.705900+00:00",
+    "last_seen": "2026-10-05T23:24:54.225308+00:00",
+    "archived_at": "2026-10-06T23:26:42.769290+00:00",
+    "match_score": 115
+  },
+  {
+    "dedup_key": "4919b7bfb4f95f48",
+    "source_id": "cn-horizon",
+    "company_name": "地平线",
+    "title": "【2027届校招】智能驾驶项目质量工程师（PQA）",
+    "location": "上海市-嘉定区、上海市-浦东新区",
+    "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6a7933ee68cc6f624f377176",
+    "first_seen": "2026-10-02T23:23:58.705900+00:00",
+    "last_seen": "2026-10-05T23:24:54.225308+00:00",
+    "archived_at": "2026-10-06T23:26:42.769290+00:00",
+    "match_score": 70
+  },
+  {
+    "dedup_key": "cf3c0593195d3cb5",
+    "source_id": "cn-horizon",
+    "company_name": "地平线",
+    "title": "【2027届校招】基础IP设计工程师",
+    "location": "上海市-浦东新区",
+    "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6a7933f01ad6db7cf8fbb988",
+    "first_seen": "2026-10-02T23:23:58.705900+00:00",
+    "last_seen": "2026-10-05T23:24:54.225308+00:00",
+    "archived_at": "2026-10-06T23:26:42.769290+00:00",
+    "match_score": 65
+  },
+  {
+    "dedup_key": "0ea886b7f5d8a84f",
+    "source_id": "edu-sysu",
+    "company_name": "珠海保税区光联通讯技术有限公司",
+    "title": "莫仕珠海（美资外企）2027届秋季招聘校外线下招聘会",
+    "location": "中山大学·南校园",
+    "official_url": "https://career.sysu.edu.cn/teachin/view/id/175111",
+    "first_seen": "2026-09-29T23:24:41.195591+00:00",
+    "last_seen": "2026-10-05T23:24:54.225308+00:00",
+    "archived_at": "2026-10-06T23:26:42.769290+00:00",
+    "match_score": 29
+  },
+  {
+    "dedup_key": "adb5776108558c8e",
+    "source_id": "gov-mohrss",
+    "company_name": "湛江市第三人民医院",
+    "title": "中药师",
+    "location": "广东省霞山区",
+    "official_url": "https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/#/positionDetail?bbb911=1899614136554020866&bcb009=2104892958749401089",
+    "first_seen": "2026-10-04T23:25:14.119289+00:00",
+    "last_seen": "2026-10-04T23:25:14.119289+00:00",
+    "archived_at": "2026-10-06T23:26:42.769290+00:00",
+    "match_score": 21
+  },
+  {
     "dedup_key": "753c10cb2c122ad4",
     "source_id": "cn-iguopin",
     "company_name": "中国联合网络通信有限公司山东省分公司",
@@ -144,30 +276,6 @@
     "match_score": 22
   },
   {
-    "dedup_key": "704608dcbe110016",
-    "source_id": "cn-iguopin",
-    "company_name": "中远海运散货运输有限公司",
-    "title": "2027届航运经营岗",
-    "location": "广州-海珠区",
-    "official_url": "https://www.iguopin.com/job/detail?id=216578898601706257",
-    "first_seen": "2026-10-01T23:24:29.167994+00:00",
-    "last_seen": "2026-10-04T03:00:09.622523+00:00",
-    "archived_at": "2026-10-04T23:25:14.119289+00:00",
-    "match_score": 86
-  },
-  {
-    "dedup_key": "fd0624b7d27625fd",
-    "source_id": "cn-iguopin",
-    "company_name": "中国联合网络通信有限公司山东省分公司",
-    "title": "网络安全运营（临沂-市公司本部）2027秋招",
-    "location": "临沂-兰山区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215272480883869210",
-    "first_seen": "2026-09-29T23:24:41.195591+00:00",
-    "last_seen": "2026-10-04T03:00:09.622523+00:00",
-    "archived_at": "2026-10-04T23:25:14.119289+00:00",
-    "match_score": 64
-  },
-  {
     "dedup_key": "0159d166fb6b2a7c",
     "source_id": "cn-iguopin",
     "company_name": "中国电子产业工程有限公司",
@@ -204,18 +312,6 @@
     "match_score": 97
   },
   {
-    "dedup_key": "5ef06cef7a0a05e8",
-    "source_id": "cn-iguopin",
-    "company_name": "黑龙江东风南方汽车销售服务有限公司",
-    "title": "2026/2027届-销售管培生-哈尔滨地区",
-    "location": "哈尔滨",
-    "official_url": "https://www.iguopin.com/job/detail?id=213284988257304613",
-    "first_seen": "2026-09-23T23:21:30.660081+00:00",
-    "last_seen": "2026-10-04T03:00:09.622523+00:00",
-    "archived_at": "2026-10-04T23:25:14.119289+00:00",
-    "match_score": 62
-  },
-  {
     "dedup_key": "d4cba8645229c521",
     "source_id": "cn-iguopin",
     "company_name": "中远海运散货运输有限公司",
@@ -250,18 +346,6 @@
     "last_seen": "2026-10-02T23:23:58.705900+00:00",
     "archived_at": "2026-10-04T03:00:09.622523+00:00",
     "match_score": 59
-  },
-  {
-    "dedup_key": "7ad4a203087269a6",
-    "source_id": "gov-mohrss",
-    "company_name": "上海阳广包装材料有限公司",
-    "title": "采购专员",
-    "location": "上海市松江区",
-    "official_url": "https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=2984661",
-    "first_seen": "2026-10-02T23:23:58.705900+00:00",
-    "last_seen": "2026-10-02T23:23:58.705900+00:00",
-    "archived_at": "2026-10-04T03:00:09.622523+00:00",
-    "match_score": 87
   },
   {
     "dedup_key": "4890a7cdab37d0c0",
@@ -334,18 +418,6 @@
     "last_seen": "2026-10-01T23:24:29.167994+00:00",
     "archived_at": "2026-10-02T23:23:58.705900+00:00",
     "match_score": 70
-  },
-  {
-    "dedup_key": "c90d340c63447d1f",
-    "source_id": "cn-iguopin",
-    "company_name": "泰康人寿保险有限责任公司海南分公司",
-    "title": "2027届校园招聘-海口-银行保险部-渠道管理岗",
-    "location": "海口-龙华区",
-    "official_url": "https://www.iguopin.com/job/detail?id=219359309182534274",
-    "first_seen": "2026-09-22T23:22:53.434589+00:00",
-    "last_seen": "2026-10-01T23:24:29.167994+00:00",
-    "archived_at": "2026-10-02T23:23:58.705900+00:00",
-    "match_score": 62
   },
   {
     "dedup_key": "ceb29839c5c02c39",
@@ -1618,54 +1690,6 @@
     "last_seen": "2026-09-28T23:41:54.503587+00:00",
     "archived_at": "2026-10-01T23:42:20.897251+00:00",
     "match_score": 21
-  },
-  {
-    "dedup_key": "0252a9b321368e38",
-    "source_id": "cn-horizon",
-    "company_name": "地平线",
-    "title": "【2027届校招】芯片可测性设计工程师",
-    "location": "上海市-浦东新区",
-    "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6a7933f04315481304953a9a",
-    "first_seen": "2026-09-30T23:25:10.644139+00:00",
-    "last_seen": "2026-09-30T23:25:10.644139+00:00",
-    "archived_at": "2026-10-01T23:24:29.167994+00:00",
-    "match_score": 65
-  },
-  {
-    "dedup_key": "bf589bb63f2fd64b",
-    "source_id": "cn-horizon",
-    "company_name": "地平线",
-    "title": "【2027届校招】项目管理工程师",
-    "location": "北京市、上海市-嘉定区",
-    "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6a7933ee4315481304953a97",
-    "first_seen": "2026-09-30T23:25:10.644139+00:00",
-    "last_seen": "2026-09-30T23:25:10.644139+00:00",
-    "archived_at": "2026-10-01T23:24:29.167994+00:00",
-    "match_score": 115
-  },
-  {
-    "dedup_key": "4919b7bfb4f95f48",
-    "source_id": "cn-horizon",
-    "company_name": "地平线",
-    "title": "【2027届校招】智能驾驶项目质量工程师（PQA）",
-    "location": "上海市-嘉定区、上海市-浦东新区",
-    "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6a7933ee68cc6f624f377176",
-    "first_seen": "2026-09-30T23:25:10.644139+00:00",
-    "last_seen": "2026-09-30T23:25:10.644139+00:00",
-    "archived_at": "2026-10-01T23:24:29.167994+00:00",
-    "match_score": 70
-  },
-  {
-    "dedup_key": "cf3c0593195d3cb5",
-    "source_id": "cn-horizon",
-    "company_name": "地平线",
-    "title": "【2027届校招】基础IP设计工程师",
-    "location": "上海市-浦东新区",
-    "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6a7933f01ad6db7cf8fbb988",
-    "first_seen": "2026-09-30T23:25:10.644139+00:00",
-    "last_seen": "2026-09-30T23:25:10.644139+00:00",
-    "archived_at": "2026-10-01T23:24:29.167994+00:00",
-    "match_score": 65
   },
   {
     "dedup_key": "ce553cdfc28de689",
@@ -119970,30 +119994,6 @@
     "title": "资深/专家特效设计师（3A写实新项目）",
     "location": "杭州市",
     "official_url": "https://hr.163.com/job-detail.html?positionId=78611",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 90
-  },
-  {
-    "dedup_key": "6220b500c773faf9",
-    "source_id": "cn-netease",
-    "company_name": "网易",
-    "title": "高级/资深场景地编（风格化）",
-    "location": "广州市",
-    "official_url": "https://hr.163.com/job-detail.html?positionId=77899",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 90
-  },
-  {
-    "dedup_key": "a72fdf1e6f2d8043",
-    "source_id": "cn-netease",
-    "company_name": "网易",
-    "title": "场景地编设计师（古风风格化）",
-    "location": "广州市",
-    "official_url": "https://hr.163.com/job-detail.html?positionId=77900",
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
     "last_seen": "2026-09-04T00:47:44.482352+00:00",
     "archived_at": "2026-09-05T00:37:32.592380+00:00",
