@@ -1,5 +1,209 @@
 [
   {
+    "dedup_key": "753c10cb2c122ad4",
+    "source_id": "cn-iguopin",
+    "company_name": "中国联合网络通信有限公司山东省分公司",
+    "title": "网络安全运营（德州-市公司本部）2027秋招",
+    "location": "德州-德城区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215272468552615438",
+    "first_seen": "2026-10-06T23:26:42.769290+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 64
+  },
+  {
+    "dedup_key": "a0e0553af49de0aa",
+    "source_id": "cn-iguopin",
+    "company_name": "中国联合网络通信有限公司山东省分公司",
+    "title": "网络安全运营（东营-市公司本部）2027秋招",
+    "location": "东营-东营区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215272731720025618",
+    "first_seen": "2026-10-06T23:26:42.769290+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 64
+  },
+  {
+    "dedup_key": "b77b4002ccc8bbaa",
+    "source_id": "cn-iguopin",
+    "company_name": "中国联合网络通信有限公司山东省分公司",
+    "title": "网络安全运营（烟台-市公司本部）2027秋招",
+    "location": "烟台-芝罘区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215272729236997658",
+    "first_seen": "2026-10-06T23:26:42.769290+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 64
+  },
+  {
+    "dedup_key": "aa417aee1cb1505a",
+    "source_id": "cn-iguopin",
+    "company_name": "内蒙古优然牧业有限责任公司",
+    "title": "2027届校招-安全培训生",
+    "location": "呼伦贝尔-阿荣旗",
+    "official_url": "https://www.iguopin.com/job/detail?id=217597864946173392",
+    "first_seen": "2026-10-06T23:26:42.769290+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 59
+  },
+  {
+    "dedup_key": "1472cad3571f9c15",
+    "source_id": "cn-iguopin",
+    "company_name": "上海氯碱化工股份有限公司",
+    "title": "【2027届校招】研发工程师（钦州）",
+    "location": "钦州-钦南区",
+    "official_url": "https://www.iguopin.com/job/detail?id=215742862564786278",
+    "first_seen": "2026-10-06T23:26:42.769290+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 59
+  },
+  {
+    "dedup_key": "c4abaa8c4e1263a3",
+    "source_id": "cn-iguopin",
+    "company_name": "中远海运散货运输有限公司",
+    "title": "2027届绿色低碳岗",
+    "location": "广州-海珠区",
+    "official_url": "https://www.iguopin.com/job/detail?id=216579930803143437",
+    "first_seen": "2026-10-04T03:00:09.622523+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 86
+  },
+  {
+    "dedup_key": "28128bb30cbe6429",
+    "source_id": "cn-iguopin",
+    "company_name": "中远海运特种运输股份有限公司",
+    "title": "2027届数字化岗",
+    "location": "广州-天河区",
+    "official_url": "https://www.iguopin.com/job/detail?id=217489274952484122",
+    "first_seen": "2026-10-04T23:25:14.119289+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 88
+  },
+  {
+    "dedup_key": "eafd52f5184354aa",
+    "source_id": "cn-iguopin",
+    "company_name": "上海氯碱化工股份有限公司",
+    "title": "【2027届校招】供应链管理",
+    "location": "上海",
+    "official_url": "https://www.iguopin.com/job/detail?id=212259465058061055",
+    "first_seen": "2026-10-04T23:25:14.119289+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 112
+  },
+  {
+    "dedup_key": "df41f33a93ff8187",
+    "source_id": "cn-netease",
+    "company_name": "网易",
+    "title": "游戏研发项目管理工程师（27届+广/沪/杭）",
+    "location": "杭州市",
+    "official_url": "https://hr.163.com/job-detail.html?positionId=73449",
+    "first_seen": "2026-09-29T23:24:41.195591+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 125
+  },
+  {
+    "dedup_key": "301ec6546105ddde",
+    "source_id": "gov-mohrss",
+    "company_name": "惠州大亚湾万达广场商业管理有限公司",
+    "title": "活动策划专员",
+    "location": "惠州市",
+    "official_url": "https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/#/positionDetail?bbb911=1848623305252372481&bcb009=2104861969910243330",
+    "first_seen": "2026-10-06T23:26:42.769290+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 78
+  },
+  {
+    "dedup_key": "8beae6ed3c6388d6",
+    "source_id": "edu-sysu",
+    "company_name": "思远半导体",
+    "title": "思远半导体2027届校园招聘",
+    "location": "中山大学·南校园",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997444",
+    "first_seen": "2026-09-30T23:25:10.644139+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 69
+  },
+  {
+    "dedup_key": "9920ade8ed2ee544",
+    "source_id": "edu-zju",
+    "company_name": "深圳市新凯来技术有限公司",
+    "title": "深圳市新凯来技术有限公司2027届校园招聘",
+    "location": "浙江大学·玉泉永谦活动中心二楼报告厅",
+    "official_url": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=152e723a5fdc6f9ee78bf0f7dc8119ad&dwxxid=JG1435489",
+    "first_seen": "2026-09-30T23:25:10.644139+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 64
+  },
+  {
+    "dedup_key": "481c3b1e285e9012",
+    "source_id": "edu-hnu",
+    "company_name": "传音储能",
+    "title": "传音储能2027届校园招聘 主校区 · 复临舍106教室",
+    "location": "湖南大学",
+    "official_url": "https://scc.hnu.edu.cn/detail/career?id=721880",
+    "first_seen": "2026-09-30T23:25:10.644139+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "05e748d6b28194ef",
+    "source_id": "edu-zju",
+    "company_name": "浙达能源",
+    "title": "浙达能源-2027届校招宣讲会",
+    "location": "浙江大学·玉泉永谦活动中心二楼报告厅",
+    "official_url": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=644d642868fa1cfccc0de6060a0ca9b8&dwxxid=JG1208075",
+    "first_seen": "2026-09-29T23:24:41.195591+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "8911c37689ede286",
+    "source_id": "wd-amat",
+    "company_name": "应用材料",
+    "title": "Customer Engineer ( 2026/2027届本硕 )",
+    "location": "10 Locations",
+    "official_url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/ShanghaiCHN/Customer-Engineer---NCG--_R2624472",
+    "first_seen": "2026-09-28T23:25:29.135854+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 23
+  },
+  {
+    "dedup_key": "6354105a79082dac",
+    "source_id": "gov-ncss",
+    "company_name": "福建思中律师事务所",
+    "title": "周末双休+欢迎应届生",
+    "location": "福建",
+    "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=VMLvweSnBx6R1WX5oDEsMy",
+    "first_seen": "2026-09-28T23:25:29.135854+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "a5a620e8746133a9",
+    "source_id": "gov-mohrss",
+    "company_name": "江苏华峰自然纤维制品有限公司",
+    "title": "文案/策划",
+    "location": "贵州省清江浦区",
+    "official_url": "https://gzggzpw.gzsrs.cn/#/positionInfo?acb210=346906442294531143",
+    "first_seen": "2026-09-30T23:25:10.644139+00:00",
+    "last_seen": "2026-10-06T23:26:42.769290+00:00",
+    "archived_at": "2026-10-07T23:25:10.730869+00:00",
+    "match_score": 21
+  },
+  {
     "dedup_key": "704608dcbe110016",
     "source_id": "cn-iguopin",
     "company_name": "中远海运散货运输有限公司",
@@ -132,42 +336,6 @@
     "match_score": 21
   },
   {
-    "dedup_key": "753c10cb2c122ad4",
-    "source_id": "cn-iguopin",
-    "company_name": "中国联合网络通信有限公司山东省分公司",
-    "title": "网络安全运营（德州-市公司本部）2027秋招",
-    "location": "德州-德城区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215272468552615438",
-    "first_seen": "2026-10-04T23:25:14.119289+00:00",
-    "last_seen": "2026-10-04T23:25:14.119289+00:00",
-    "archived_at": "2026-10-05T23:24:54.225308+00:00",
-    "match_score": 64
-  },
-  {
-    "dedup_key": "a0e0553af49de0aa",
-    "source_id": "cn-iguopin",
-    "company_name": "中国联合网络通信有限公司山东省分公司",
-    "title": "网络安全运营（东营-市公司本部）2027秋招",
-    "location": "东营-东营区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215272731720025618",
-    "first_seen": "2026-10-04T23:25:14.119289+00:00",
-    "last_seen": "2026-10-04T23:25:14.119289+00:00",
-    "archived_at": "2026-10-05T23:24:54.225308+00:00",
-    "match_score": 64
-  },
-  {
-    "dedup_key": "b77b4002ccc8bbaa",
-    "source_id": "cn-iguopin",
-    "company_name": "中国联合网络通信有限公司山东省分公司",
-    "title": "网络安全运营（烟台-市公司本部）2027秋招",
-    "location": "烟台-芝罘区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215272729236997658",
-    "first_seen": "2026-10-04T23:25:14.119289+00:00",
-    "last_seen": "2026-10-04T23:25:14.119289+00:00",
-    "archived_at": "2026-10-05T23:24:54.225308+00:00",
-    "match_score": 64
-  },
-  {
     "dedup_key": "ab307757469f9eec",
     "source_id": "cn-iguopin",
     "company_name": "五矿环太资源开发（北京）有限公司",
@@ -192,18 +360,6 @@
     "match_score": 97
   },
   {
-    "dedup_key": "aa417aee1cb1505a",
-    "source_id": "cn-iguopin",
-    "company_name": "内蒙古优然牧业有限责任公司",
-    "title": "2027届校招-安全培训生",
-    "location": "呼伦贝尔-阿荣旗",
-    "official_url": "https://www.iguopin.com/job/detail?id=217597864946173392",
-    "first_seen": "2026-10-04T23:25:14.119289+00:00",
-    "last_seen": "2026-10-04T23:25:14.119289+00:00",
-    "archived_at": "2026-10-05T23:24:54.225308+00:00",
-    "match_score": 59
-  },
-  {
     "dedup_key": "cfcbce81c8cbef9d",
     "source_id": "cn-iguopin",
     "company_name": "北京神舟航天软件技术股份有限公司",
@@ -226,18 +382,6 @@
     "last_seen": "2026-10-04T23:25:14.119289+00:00",
     "archived_at": "2026-10-05T23:24:54.225308+00:00",
     "match_score": 69
-  },
-  {
-    "dedup_key": "1472cad3571f9c15",
-    "source_id": "cn-iguopin",
-    "company_name": "上海氯碱化工股份有限公司",
-    "title": "【2027届校招】研发工程师（钦州）",
-    "location": "钦州-钦南区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215742862564786278",
-    "first_seen": "2026-10-04T23:25:14.119289+00:00",
-    "last_seen": "2026-10-04T23:25:14.119289+00:00",
-    "archived_at": "2026-10-05T23:24:54.225308+00:00",
-    "match_score": 59
   },
   {
     "dedup_key": "3a8ffb167e3e7dd5",
@@ -370,18 +514,6 @@
     "last_seen": "2026-10-01T23:24:29.167994+00:00",
     "archived_at": "2026-10-02T23:23:58.705900+00:00",
     "match_score": 107
-  },
-  {
-    "dedup_key": "c4abaa8c4e1263a3",
-    "source_id": "cn-iguopin",
-    "company_name": "中远海运散货运输有限公司",
-    "title": "2027届绿色低碳岗",
-    "location": "广州-海珠区",
-    "official_url": "https://www.iguopin.com/job/detail?id=216579930803143437",
-    "first_seen": "2026-10-01T23:24:29.167994+00:00",
-    "last_seen": "2026-10-01T23:24:29.167994+00:00",
-    "archived_at": "2026-10-02T23:23:58.705900+00:00",
-    "match_score": 86
   },
   {
     "dedup_key": "aebc5c84a5609e56",
@@ -1752,18 +1884,6 @@
     "match_score": 127
   },
   {
-    "dedup_key": "28128bb30cbe6429",
-    "source_id": "cn-iguopin",
-    "company_name": "中远海运特种运输股份有限公司",
-    "title": "2027届数字化岗",
-    "location": "广州-天河区",
-    "official_url": "https://www.iguopin.com/job/detail?id=217489274952484122",
-    "first_seen": "2026-09-29T23:24:41.195591+00:00",
-    "last_seen": "2026-09-30T23:25:10.644139+00:00",
-    "archived_at": "2026-10-01T23:24:29.167994+00:00",
-    "match_score": 88
-  },
-  {
     "dedup_key": "3a0cdb75b62e7f15",
     "source_id": "cn-iguopin",
     "company_name": "内蒙古优然牧业有限责任公司",
@@ -1798,18 +1918,6 @@
     "last_seen": "2026-09-30T23:25:10.644139+00:00",
     "archived_at": "2026-10-01T23:24:29.167994+00:00",
     "match_score": 83
-  },
-  {
-    "dedup_key": "eafd52f5184354aa",
-    "source_id": "cn-iguopin",
-    "company_name": "上海氯碱化工股份有限公司",
-    "title": "【2027届校招】供应链管理",
-    "location": "上海",
-    "official_url": "https://www.iguopin.com/job/detail?id=212259465058061055",
-    "first_seen": "2026-09-30T23:25:10.644139+00:00",
-    "last_seen": "2026-09-30T23:25:10.644139+00:00",
-    "archived_at": "2026-10-01T23:24:29.167994+00:00",
-    "match_score": 112
   },
   {
     "dedup_key": "d1a24a63d4075b6f",
@@ -119890,113 +119998,5 @@
     "last_seen": "2026-09-04T00:47:44.482352+00:00",
     "archived_at": "2026-09-05T00:37:32.592380+00:00",
     "match_score": 95
-  },
-  {
-    "dedup_key": "4e0cc656412fcd41",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "《逆战：未来》美宣设计师",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=1991407389953384448",
-    "first_seen": "2026-09-03T00:57:32.960705+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 95
-  },
-  {
-    "dedup_key": "501f47be03adbdeb",
-    "source_id": "cn-horizon",
-    "company_name": "地平线",
-    "title": "智能驾驶性能优化软件工程师",
-    "location": "北京市、南京市、上海市",
-    "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6a587e89ba2dc64cbb6db192",
-    "first_seen": "2026-07-16T23:58:47.769096+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 95
-  },
-  {
-    "dedup_key": "02c0e9fc131f3548",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "Courier Support Specialist",
-    "location": "香港特别行政区",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4693756847",
-    "first_seen": "2026-08-30T01:04:40.794790+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 92
-  },
-  {
-    "dedup_key": "51140dec0c183f32",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "KA华北实施顾问",
-    "location": "济南市、沈阳市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4658802009",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 92
-  },
-  {
-    "dedup_key": "7bd1267a635b2c46",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "企业微信邮箱-高级后台开发工程师",
-    "location": "广州",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=1925750443284234240",
-    "first_seen": "2026-09-03T00:57:32.960705+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 90
-  },
-  {
-    "dedup_key": "d069e510f0375520",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "《三角洲行动》-客户端开发工程师-工具开发",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=1976944200704479232",
-    "first_seen": "2026-09-03T00:57:32.960705+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 90
-  },
-  {
-    "dedup_key": "aa50c9cb0906b267",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "《逆战：未来》战斗策划（武器）",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2072206978121383936",
-    "first_seen": "2026-09-03T00:57:32.960705+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 90
-  },
-  {
-    "dedup_key": "d5d4e8e13b68683e",
-    "source_id": "cn-netease",
-    "company_name": "网易",
-    "title": "文案策划-剧情向（逆水寒手游）",
-    "location": "杭州市",
-    "official_url": "https://hr.163.com/job-detail.html?positionId=49358",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 90
-  },
-  {
-    "dedup_key": "f2fcbbc43054021e",
-    "source_id": "cn-netease",
-    "company_name": "网易",
-    "title": "资深/专家特效设计师（3A写实新项目）",
-    "location": "杭州市",
-    "official_url": "https://hr.163.com/job-detail.html?positionId=78611",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 90
   }
 ]
