@@ -1,5 +1,53 @@
 [
   {
+    "dedup_key": "cc9625d390ab6707",
+    "source_id": "edu-fudan",
+    "company_name": "数据所（兴唐公司）2027届",
+    "title": "数据所（兴唐公司）2027届校园招聘",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=31e37b46-3b39-442f-abb1-ddadbb190aff",
+    "first_seen": "2026-10-01T23:42:20.897251+00:00",
+    "last_seen": "2026-10-05T23:41:00.007839+00:00",
+    "archived_at": "2026-10-08T23:44:04.938547+00:00",
+    "match_score": 66
+  },
+  {
+    "dedup_key": "00790058880cc430",
+    "source_id": "edu-fudan",
+    "company_name": "浙商银行宁波分行2027",
+    "title": "浙商银行宁波分行2027校园招聘简章",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=5772cb9e-fce2-8f16-a087-cc070d5d4f6f",
+    "first_seen": "2026-10-01T23:42:20.897251+00:00",
+    "last_seen": "2026-10-05T23:41:00.007839+00:00",
+    "archived_at": "2026-10-08T23:44:04.938547+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "e70dccc34135d27d",
+    "source_id": "edu-fudan",
+    "company_name": "宣起航湾区遇建未来中建三局华南公司2027届",
+    "title": "宣起航湾区遇建未来中建三局华南公司2027届校园招聘",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/zuijin.html?id=04d97ad5-d309-6772-73e1-ddabc05bf8c9&hold_date=2026-10-8",
+    "first_seen": "2026-10-01T23:42:20.897251+00:00",
+    "last_seen": "2026-10-05T23:41:00.007839+00:00",
+    "archived_at": "2026-10-08T23:44:04.938547+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "bbd288d229d81a68",
+    "source_id": "edu-sjtu",
+    "company_name": "新石器无人车27届",
+    "title": "新石器无人车27届校园招聘宣讲会",
+    "location": "上海交通大学·学术活动中心学术厅B",
+    "official_url": "https://www.job.sjtu.edu.cn/career/xjhxx/view/244765066652684288",
+    "first_seen": "2026-10-01T23:42:20.897251+00:00",
+    "last_seen": "2026-10-05T23:41:00.007839+00:00",
+    "archived_at": "2026-10-08T23:44:04.938547+00:00",
+    "match_score": 61
+  },
+  {
     "dedup_key": "cfcbce81c8cbef9d",
     "source_id": "cn-iguopin",
     "company_name": "北京神舟航天软件技术股份有限公司",
@@ -119950,53 +119998,5 @@
     "last_seen": "2026-09-04T00:47:44.482352+00:00",
     "archived_at": "2026-09-05T00:37:32.592380+00:00",
     "match_score": 131
-  },
-  {
-    "dedup_key": "af2597f1b8825aa0",
-    "source_id": "cn-netease",
-    "company_name": "网易",
-    "title": "IT服务管理专家（杭州）",
-    "location": "杭州市",
-    "official_url": "https://hr.163.com/job-detail.html?positionId=78614",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 129
-  },
-  {
-    "dedup_key": "8fa0d45951e8af55",
-    "source_id": "cn-iguopin",
-    "company_name": "中移（上海）信息通信科技有限公司",
-    "title": "算法开发工程师（电子对抗）",
-    "location": "上海",
-    "official_url": "https://www.iguopin.com/job/detail?id=216576818696684302",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 129
-  },
-  {
-    "dedup_key": "0ff03200e85fec07",
-    "source_id": "cn-iguopin",
-    "company_name": "中移（上海）信息通信科技有限公司",
-    "title": "算法开发工程师（预测性维护-金种子）",
-    "location": "上海",
-    "official_url": "https://www.iguopin.com/job/detail?id=216576830591730448",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 129
-  },
-  {
-    "dedup_key": "413b1fd1ea691b2d",
-    "source_id": "cn-iguopin",
-    "company_name": "中远海运科技股份有限公司",
-    "title": "算法工程师",
-    "location": "上海-浦东新区",
-    "official_url": "https://www.iguopin.com/job/detail?id=215591647503713865",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-04T00:47:44.482352+00:00",
-    "archived_at": "2026-09-05T00:37:32.592380+00:00",
-    "match_score": 129
   }
 ]
