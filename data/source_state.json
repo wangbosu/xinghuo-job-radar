@@ -20,25 +20,25 @@
   "cn-bytedance": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:26:56.805042+00:00",
+    "last_success_at": "2026-10-11T23:28:21.026475+00:00",
     "last_error": "",
-    "last_count": 450,
+    "last_count": 452,
     "peak_count": 472,
     "alert": ""
   },
   "cn-tencent": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:27:12.089724+00:00",
+    "last_success_at": "2026-10-11T23:28:38.702073+00:00",
     "last_error": "",
-    "last_count": 336,
+    "last_count": 337,
     "peak_count": 351,
     "alert": ""
   },
   "cn-jd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:27:28.231697+00:00",
+    "last_success_at": "2026-10-11T23:28:56.673278+00:00",
     "last_error": "",
     "last_count": 10,
     "peak_count": 10,
@@ -47,7 +47,7 @@
   "edu-sysu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:28:49.703983+00:00",
+    "last_success_at": "2026-10-11T23:30:36.543941+00:00",
     "last_error": "",
     "last_count": 25,
     "peak_count": 25,
@@ -56,7 +56,7 @@
   "edu-csu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:29:47.751756+00:00",
+    "last_success_at": "2026-10-11T23:31:34.688921+00:00",
     "last_error": "",
     "last_count": 25,
     "peak_count": 25,
@@ -65,7 +65,7 @@
   "edu-hnu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:29:51.648578+00:00",
+    "last_success_at": "2026-10-11T23:31:38.376957+00:00",
     "last_error": "",
     "last_count": 19,
     "peak_count": 20,
@@ -74,7 +74,7 @@
   "edu-scnu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:29:54.380253+00:00",
+    "last_success_at": "2026-10-11T23:31:41.722947+00:00",
     "last_error": "",
     "last_count": 8,
     "peak_count": 8,
@@ -110,16 +110,16 @@
   "edu-zju": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:30:31.725960+00:00",
+    "last_success_at": "2026-10-11T23:32:20.513898+00:00",
     "last_error": "",
-    "last_count": 59,
+    "last_count": 60,
     "peak_count": 60,
     "alert": ""
   },
   "gov-ncss": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:30:45.811304+00:00",
+    "last_success_at": "2026-10-11T23:32:33.380999+00:00",
     "last_error": "",
     "last_count": 174,
     "peak_count": 180,
@@ -128,16 +128,16 @@
   "gov-mohrss": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:31:10.752613+00:00",
+    "last_success_at": "2026-10-11T23:32:55.309257+00:00",
     "last_error": "",
-    "last_count": 89,
+    "last_count": 91,
     "peak_count": 148,
     "alert": ""
   },
   "gov-sasac": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:31:31.280967+00:00",
+    "last_success_at": "2026-10-11T23:33:13.768489+00:00",
     "last_error": "",
     "last_count": 30,
     "peak_count": 30,
@@ -146,7 +146,7 @@
   "gov-qyzp": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:32:00.891720+00:00",
+    "last_success_at": "2026-10-11T23:33:46.852330+00:00",
     "last_error": "",
     "last_count": 20,
     "peak_count": 21,
@@ -164,7 +164,7 @@
   "wd-nvidia": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:25:49.486461+00:00",
+    "last_success_at": "2026-10-11T23:27:12.884613+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 11,
@@ -173,7 +173,7 @@
   "wd-amat": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:25:51.953689+00:00",
+    "last_success_at": "2026-10-11T23:27:15.581682+00:00",
     "last_error": "",
     "last_count": 40,
     "peak_count": 40,
@@ -182,7 +182,7 @@
   "wd-3m": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:25:54.316774+00:00",
+    "last_success_at": "2026-10-11T23:27:17.920822+00:00",
     "last_error": "",
     "last_count": 34,
     "peak_count": 40,
@@ -191,7 +191,7 @@
   "wd-pfizer": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:25:56.746971+00:00",
+    "last_success_at": "2026-10-11T23:27:20.174898+00:00",
     "last_error": "",
     "last_count": 40,
     "peak_count": 40,
@@ -200,16 +200,16 @@
   "wd-astrazeneca": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:25:59.808508+00:00",
+    "last_success_at": "2026-10-11T23:27:22.693233+00:00",
     "last_error": "",
-    "last_count": 10,
+    "last_count": 6,
     "peak_count": 22,
     "alert": ""
   },
   "cn-sensetime": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:27:35.667851+00:00",
+    "last_success_at": "2026-10-11T23:29:04.803519+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 119,
@@ -218,7 +218,7 @@
   "cn-horizon": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:27:47.336382+00:00",
+    "last_success_at": "2026-10-11T23:29:16.332924+00:00",
     "last_error": "",
     "last_count": 198,
     "peak_count": 198,
@@ -227,7 +227,7 @@
   "edu-xidian": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:30:27.695343+00:00",
+    "last_success_at": "2026-10-11T23:32:16.455890+00:00",
     "last_error": "",
     "last_count": 25,
     "peak_count": 25,
@@ -236,7 +236,7 @@
   "wd-intel": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:26:02.231575+00:00",
+    "last_success_at": "2026-10-11T23:27:24.934774+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 2,
@@ -245,7 +245,7 @@
   "wd-kla": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:26:04.008815+00:00",
+    "last_success_at": "2026-10-11T23:27:26.487830+00:00",
     "last_error": "",
     "last_count": 40,
     "peak_count": 40,
@@ -254,7 +254,7 @@
   "wd-nxp": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:26:07.007772+00:00",
+    "last_success_at": "2026-10-11T23:27:28.940948+00:00",
     "last_error": "",
     "last_count": 40,
     "peak_count": 40,
@@ -263,7 +263,7 @@
   "wd-abbott": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:26:10.820431+00:00",
+    "last_success_at": "2026-10-11T23:27:32.634848+00:00",
     "last_error": "",
     "last_count": 40,
     "peak_count": 40,
@@ -272,7 +272,7 @@
   "cn-tencent-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:27:19.073329+00:00",
+    "last_success_at": "2026-10-11T23:28:46.800310+00:00",
     "last_error": "",
     "last_count": 800,
     "peak_count": 800,
@@ -281,9 +281,9 @@
   "cn-netease": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:27:34.536543+00:00",
+    "last_success_at": "2026-10-11T23:29:03.840714+00:00",
     "last_error": "",
-    "last_count": 120,
+    "last_count": 107,
     "peak_count": 120,
     "alert": ""
   },
@@ -317,7 +317,7 @@
   "cn-iguopin": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:32:09.416264+00:00",
+    "last_success_at": "2026-10-11T23:33:55.244328+00:00",
     "last_error": "",
     "last_count": 240,
     "peak_count": 240,
@@ -326,7 +326,7 @@
   "cn-huawei-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:32:11.827919+00:00",
+    "last_success_at": "2026-10-11T23:33:58.292080+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 240,
@@ -335,7 +335,7 @@
   "cn-meituan-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:32:24.772907+00:00",
+    "last_success_at": "2026-10-11T23:34:10.430427+00:00",
     "last_error": "",
     "last_count": 200,
     "peak_count": 200,
@@ -344,50 +344,50 @@
   "cn-catl": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:32:35.629298+00:00",
+    "last_success_at": "2026-10-11T23:34:21.171616+00:00",
     "last_error": "",
     "last_count": 152,
     "peak_count": 180,
     "alert": ""
   },
   "gov-sz-sasac": {
-    "consecutive_failures": 28,
+    "consecutive_failures": 29,
     "status": "blocked",
     "last_error": "URLError: <urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>"
   },
   "edu-scu": {
-    "consecutive_failures": 28,
+    "consecutive_failures": 29,
     "status": "blocked",
     "last_error": "URLError: <urlopen error [Errno -2] Name or service not known>"
   },
   "cn-byd-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:32:49.350271+00:00",
+    "last_success_at": "2026-10-11T23:34:37.985452+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
   },
   "cn-midea-campus": {
-    "consecutive_failures": 28,
+    "consecutive_failures": 29,
     "status": "blocked",
     "last_error": "URLError: <urlopen error [Errno -2] Name or service not known>"
   },
   "cn-gac-campus": {
-    "consecutive_failures": 28,
+    "consecutive_failures": 29,
     "status": "blocked",
     "last_error": "URLError: <urlopen error [Errno -2] Name or service not known>"
   },
   "cn-sf-campus": {
-    "consecutive_failures": 28,
+    "consecutive_failures": 29,
     "status": "blocked",
     "last_error": "URLError: <urlopen error timed out>"
   },
   "cn-cmb-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-10-10T23:33:49.271903+00:00",
+    "last_success_at": "2026-10-11T23:35:38.296389+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
