@@ -1,5 +1,65 @@
 [
   {
+    "dedup_key": "fbadfbb4b2d706a3",
+    "source_id": "edu-fudan",
+    "company_name": "东莞农村商业银行2027年",
+    "title": "东莞农村商业银行2027年校园招聘",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=5fc1f4da-c983-aa66-8fda-762c9a489f39",
+    "first_seen": "2026-10-15T23:51:59.309714+00:00",
+    "last_seen": "2026-10-15T23:51:59.309714+00:00",
+    "archived_at": "2026-10-20T02:00:20.658969+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "d5b9db98d37632cd",
+    "source_id": "edu-fudan",
+    "company_name": "华硕苏州研发中心2027届秋季",
+    "title": "华硕苏州研发中心2027届秋季校园招聘正式开启！",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=c82d38ba-29ff-3123-b41f-6c817be01ee4",
+    "first_seen": "2026-10-15T23:51:59.309714+00:00",
+    "last_seen": "2026-10-15T23:51:59.309714+00:00",
+    "archived_at": "2026-10-20T02:00:20.658969+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "850493d9e71739a6",
+    "source_id": "nk-intern",
+    "company_name": "牛客网·实习",
+    "title": "【华为校园招聘】AI工程师",
+    "location": "深圳",
+    "official_url": "https://www.nowcoder.com/jobs/detail/467575?deliverSource=1&pageSource=5001&channel=npJobTab&logid=bb49fe890cd04b2683f9bb4231e1b296",
+    "first_seen": "2026-10-15T23:51:59.309714+00:00",
+    "last_seen": "2026-10-15T23:51:59.309714+00:00",
+    "archived_at": "2026-10-20T02:00:20.658969+00:00",
+    "match_score": 56
+  },
+  {
+    "dedup_key": "b712453c810e296d",
+    "source_id": "nk-intern",
+    "company_name": "牛客网·实习",
+    "title": "AI Infra研发工程师【2027届云弧计划】",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/447185?deliverSource=1&pageSource=5001&channel=npJobTab&logid=bb49fe890cd04b2683f9bb4231e1b296",
+    "first_seen": "2026-10-15T23:51:59.309714+00:00",
+    "last_seen": "2026-10-15T23:51:59.309714+00:00",
+    "archived_at": "2026-10-20T02:00:20.658969+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "7790fcfb77260576",
+    "source_id": "nk-intern",
+    "company_name": "牛客网·实习",
+    "title": "产品经理-校招/实习转正(J15116)",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/467305?deliverSource=1&pageSource=5001&channel=npJobTab&logid=bb49fe890cd04b2683f9bb4231e1b296",
+    "first_seen": "2026-10-15T23:51:59.309714+00:00",
+    "last_seen": "2026-10-15T23:51:59.309714+00:00",
+    "archived_at": "2026-10-20T02:00:20.658969+00:00",
+    "match_score": 16
+  },
+  {
     "dedup_key": "0252a9b321368e38",
     "source_id": "cn-horizon",
     "company_name": "地平线",
@@ -119938,65 +119998,5 @@
     "last_seen": "2026-09-07T00:41:49.120811+00:00",
     "archived_at": "2026-09-08T00:54:44.624250+00:00",
     "match_score": 38
-  },
-  {
-    "dedup_key": "91b506bc43d7d338",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "腾讯视频-WeTV海外运营",
-    "location": "北京",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2095443346381258752",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 34
-  },
-  {
-    "dedup_key": "3f3a239a576357f2",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "《三角洲行动》高级交互设计师",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2095394953327984640",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 34
-  },
-  {
-    "dedup_key": "7711c5236cc71a16",
-    "source_id": "edu-zju",
-    "company_name": "国防大学",
-    "title": "国防大学2026年人才引进宣讲会",
-    "location": "浙江大学·紫金港校区尧坤楼401",
-    "official_url": "https://www.career.zju.edu.cn/notification/detail?xwid=54FD558751AFE349E0653A68DD0E9B18",
-    "first_seen": "2026-06-26T00:08:44.173870+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 34
-  },
-  {
-    "dedup_key": "d7ce886da5a34c7c",
-    "source_id": "edu-zju",
-    "company_name": "长鑫存储",
-    "title": "长鑫存储校园招聘宣讲会",
-    "location": "浙江大学·紫金港校区尧坤楼215报告厅",
-    "official_url": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=47d08b92032754e757088f9ec16564a2&dwxxid=761C0E15573324AFE055000000000001",
-    "first_seen": "2026-06-22T05:14:48.317397+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 34
-  },
-  {
-    "dedup_key": "f6991cbacc86b0c6",
-    "source_id": "edu-zju",
-    "company_name": "长江存储科技有限责任公司",
-    "title": "长江存储科技有限责任公司校园招聘宣讲会",
-    "location": "浙江大学·玉泉校区第四教学大楼206教室",
-    "official_url": "https://www.career.zju.edu.cn/notification/detail?xwid=54097552EB4D7655E0653A68DD0E9B18",
-    "first_seen": "2026-06-22T05:14:48.317397+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 34
   }
 ]
