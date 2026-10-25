@@ -1,5 +1,77 @@
 [
   {
+    "dedup_key": "d42b0b060c89da03",
+    "source_id": "edu-sysu",
+    "company_name": "广西电网有限责任公司2027年校园招聘公告",
+    "title": "广西电网有限责任公司2027年校园招聘公告",
+    "location": "中山大学·南校园",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997716",
+    "first_seen": "2026-10-24T01:34:20.967369+00:00",
+    "last_seen": "2026-10-24T01:34:20.967369+00:00",
+    "archived_at": "2026-10-25T01:08:55.476172+00:00",
+    "match_score": 69
+  },
+  {
+    "dedup_key": "244aeb1ce10c10df",
+    "source_id": "edu-zju",
+    "company_name": "洲明科技",
+    "title": "洲明科技2027届校招管培生招聘",
+    "location": "浙江大学·玉泉永谦活动中心二楼报告厅",
+    "official_url": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=a7bea0955f8d09e63fb55e70685e8ae1&dwxxid=761C0E1528B824AFE055000000000001",
+    "first_seen": "2026-10-22T01:30:16.216257+00:00",
+    "last_seen": "2026-10-24T01:34:20.967369+00:00",
+    "archived_at": "2026-10-25T01:08:55.476172+00:00",
+    "match_score": 64
+  },
+  {
+    "dedup_key": "8213626ee95fcc49",
+    "source_id": "edu-hnu",
+    "company_name": "厦门松霖机器人",
+    "title": "厦门松霖机器人2027届校园招聘宣讲会 主校区 · 复临舍105教室",
+    "location": "湖南大学",
+    "official_url": "https://scc.hnu.edu.cn/detail/career?id=728378",
+    "first_seen": "2026-10-23T01:29:50.631535+00:00",
+    "last_seen": "2026-10-24T01:34:20.967369+00:00",
+    "archived_at": "2026-10-25T01:08:55.476172+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "af1ebce68f7378d5",
+    "source_id": "edu-zju",
+    "company_name": "青春领航  重器筑梦 —— 中铁高新工业股份有限公司",
+    "title": "青春领航  重器筑梦 —— 中铁高新工业股份有限公司2027届校园招聘硬核启动",
+    "location": "浙江大学·紫金港校区尧坤楼222传化厅",
+    "official_url": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=7cef2a9dc5f88a51d852af0cb55ab9ac&dwxxid=JG1501072",
+    "first_seen": "2026-10-22T01:30:16.216257+00:00",
+    "last_seen": "2026-10-24T01:34:20.967369+00:00",
+    "archived_at": "2026-10-25T01:08:55.476172+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "b318af9814290a5c",
+    "source_id": "edu-csu",
+    "company_name": "\" 汇潇湘 才聚湖南\" 先进制造专场暨株洲市高校毕业生大型",
+    "title": "\" 汇潇湘 才聚湖南\" 先进制造专场暨株洲市高校毕业生大型双选会",
+    "location": "中南大学·大学河西校区·南大学新校区·（岳麓山校区",
+    "official_url": "https://career.csu.edu.cn/jobfair/view/id/34773",
+    "first_seen": "2026-10-24T01:34:20.967369+00:00",
+    "last_seen": "2026-10-24T01:34:20.967369+00:00",
+    "archived_at": "2026-10-25T01:08:55.476172+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "50fbccab7232876f",
+    "source_id": "edu-xidian",
+    "company_name": "全国重点高校2027届毕业生秋季巡回招聘会 西安电子科技大学专场(第二场)",
+    "title": "全国重点高校2027届毕业生秋季巡回招聘会 西安电子科技大学专场(第二场) 职位: 0个 进行中 地点：长安校区礼仪广场 时间：2026-10-24 14:00-18:00 （周六）",
+    "location": "job.xidian.edu.cn·n>长安校区",
+    "official_url": "https://job.xidian.edu.cn/jobfair/view/id/40058",
+    "first_seen": "2026-10-10T23:25:46.188919+00:00",
+    "last_seen": "2026-10-24T01:34:20.967369+00:00",
+    "archived_at": "2026-10-25T01:08:55.476172+00:00",
+    "match_score": 21
+  },
+  {
     "dedup_key": "f7d4e45cc54f7c29",
     "source_id": "cn-netease",
     "company_name": "网易",
@@ -119926,77 +119998,5 @@
     "last_seen": "2026-09-07T00:41:49.120811+00:00",
     "archived_at": "2026-09-08T00:54:44.624250+00:00",
     "match_score": 93
-  },
-  {
-    "dedup_key": "2609bdc194c47f49",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "腾讯云-东北销售经理-公有云",
-    "location": "长春",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2028715533607792640",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 92
-  },
-  {
-    "dedup_key": "88f2e3b6e9e7f3bd",
-    "source_id": "cn-tencent-campus",
-    "company_name": "腾讯",
-    "title": "腾讯云—边缘计算在AI推理加速方向研究（应届毕业生 青云计划）",
-    "location": "深圳总部",
-    "official_url": "https://careers.tencent.com/jobdesc.html?postId=1274481034578500784",
-    "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 92
-  },
-  {
-    "dedup_key": "38a6727c266ad137",
-    "source_id": "edu-sysu",
-    "company_name": "欧莱雅（中国）有限公司",
-    "title": "欧莱雅（中国）2027管理培训生招聘宣讲会",
-    "location": "中山大学·南校园",
-    "official_url": "https://career.sysu.edu.cn/teachin/view/id/174866",
-    "first_seen": "2026-09-01T01:39:52.861353+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 92
-  },
-  {
-    "dedup_key": "16d0a0599173c805",
-    "source_id": "cn-iguopin",
-    "company_name": "联通数字科技有限公司",
-    "title": "大数据平台交付工程师",
-    "location": "北京",
-    "official_url": "https://www.iguopin.com/job/detail?id=215304735735940634",
-    "first_seen": "2026-09-05T00:37:32.592380+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 92
-  },
-  {
-    "dedup_key": "9a53c664b806941d",
-    "source_id": "cn-bytedance",
-    "company_name": "字节跳动",
-    "title": "高级公共事务-安全",
-    "location": "北京",
-    "official_url": "https://jobs.bytedance.com/experienced/position/7484150093277579527/detail",
-    "first_seen": "2026-09-06T00:35:39.986201+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 90
-  },
-  {
-    "dedup_key": "940788cb31d57fb1",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "技术美术-渲染向",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2091857414549848064",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 90
   }
 ]
