@@ -1,5 +1,65 @@
 [
   {
+    "dedup_key": "f753803c7a3d7e34",
+    "source_id": "edu-fudan",
+    "company_name": "长安汇通集团有限责任公司2027年",
+    "title": "长安汇通集团有限责任公司2027年校园招聘",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=247e895b-5ae6-251d-9a17-c029cee0a024",
+    "first_seen": "2026-10-27T02:20:16.928892+00:00",
+    "last_seen": "2026-10-27T02:20:16.928892+00:00",
+    "archived_at": "2026-10-30T02:48:50.437961+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "b84aa91b61dd2001",
+    "source_id": "edu-fudan",
+    "company_name": "湖北交通投资集团有限公司2027届秋季",
+    "title": "湖北交通投资集团有限公司2027届秋季校园招聘公告",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=6c93b90a-08eb-6207-f24a-fc9e4f6c3d93",
+    "first_seen": "2026-10-27T02:20:16.928892+00:00",
+    "last_seen": "2026-10-27T02:20:16.928892+00:00",
+    "archived_at": "2026-10-30T02:48:50.437961+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "50d595ef866a4817",
+    "source_id": "edu-fudan",
+    "company_name": "温州银行2027届",
+    "title": "温州银行2027届校园招聘公告",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=f68095d5-43ac-5721-3cce-8ba41d421b98",
+    "first_seen": "2026-10-27T02:20:16.928892+00:00",
+    "last_seen": "2026-10-27T02:20:16.928892+00:00",
+    "archived_at": "2026-10-30T02:48:50.437961+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "0dd6b1f1c4c9dcde",
+    "source_id": "nk-intern",
+    "company_name": "牛客网·实习",
+    "title": "拼多多2027届秋招-数据分析师",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/454253?deliverSource=1&pageSource=5001&channel=npJobTab&logid=683e08886404adc3f4bfcc35a6d115f8",
+    "first_seen": "2026-10-27T02:20:16.928892+00:00",
+    "last_seen": "2026-10-27T02:20:16.928892+00:00",
+    "archived_at": "2026-10-30T02:48:50.437961+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "3a700654bb7f0e21",
+    "source_id": "nk-intern",
+    "company_name": "牛客网·实习",
+    "title": "产品管培生（上海）",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/471827?deliverSource=1&pageSource=5001&channel=npJobTab&logid=683e08886404adc3f4bfcc35a6d115f8",
+    "first_seen": "2026-10-27T02:20:16.928892+00:00",
+    "last_seen": "2026-10-27T02:20:16.928892+00:00",
+    "archived_at": "2026-10-30T02:48:50.437961+00:00",
+    "match_score": 19
+  },
+  {
     "dedup_key": "f9231b5046af8c6e",
     "source_id": "gov-ncss",
     "company_name": "浙江吉速物流有限公司",
@@ -119938,65 +119998,5 @@
     "last_seen": "2026-09-07T00:41:49.120811+00:00",
     "archived_at": "2026-09-08T00:54:44.624250+00:00",
     "match_score": 199
-  },
-  {
-    "dedup_key": "88c441536d0a43d5",
-    "source_id": "cn-bytedance",
-    "company_name": "字节跳动",
-    "title": "大模型算法工程师-IT",
-    "location": "北京",
-    "official_url": "https://jobs.bytedance.com/experienced/position/7377593824510216457/detail",
-    "first_seen": "2026-09-03T00:57:32.960705+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 196
-  },
-  {
-    "dedup_key": "2f05b80b25aede05",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "AI软件解决方案专家(FDE)（深圳/北京/上海）",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2072248701686034432",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 194
-  },
-  {
-    "dedup_key": "1355b6d4cef9f623",
-    "source_id": "cn-netease",
-    "company_name": "网易",
-    "title": "易盾-Agent安全算法实习生",
-    "location": "杭州市",
-    "official_url": "https://hr.163.com/job-detail.html?positionId=78629",
-    "first_seen": "2026-09-05T00:37:32.592380+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 194
-  },
-  {
-    "dedup_key": "351add377ae05c13",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "微信搜索-后台开发工程师-表情搜索",
-    "location": "广州",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2091791042146910208",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 191
-  },
-  {
-    "dedup_key": "25e30df6a58efdd6",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "微信搜索-LLM大模型推理研发高级工程师-研发优化",
-    "location": "北京",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2091790982050922496",
-    "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-07T00:41:49.120811+00:00",
-    "archived_at": "2026-09-08T00:54:44.624250+00:00",
-    "match_score": 188
   }
 ]
