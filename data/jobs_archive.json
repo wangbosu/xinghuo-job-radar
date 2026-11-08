@@ -1,5 +1,89 @@
 [
   {
+    "dedup_key": "b6af1e112329e5f3",
+    "source_id": "cn-catl",
+    "company_name": "宁德时代",
+    "title": "2027届秋招 智造程序工程师-DG",
+    "location": "东莞市",
+    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d673c68cc6f624f3d7b00",
+    "first_seen": "2026-11-07T02:47:03.760034+00:00",
+    "last_seen": "2026-11-07T02:47:03.760034+00:00",
+    "archived_at": "2026-11-08T02:27:50.487987+00:00",
+    "match_score": 79
+  },
+  {
+    "dedup_key": "9bd9ee7fb32d1f09",
+    "source_id": "cn-catl",
+    "company_name": "宁德时代",
+    "title": "2027届秋招 EHS工程师",
+    "location": "宁德市",
+    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d674c68cc6f624f3d7b18",
+    "first_seen": "2026-11-07T02:47:03.760034+00:00",
+    "last_seen": "2026-11-07T02:47:03.760034+00:00",
+    "archived_at": "2026-11-08T02:27:50.487987+00:00",
+    "match_score": 65
+  },
+  {
+    "dedup_key": "dd8a4898384b3290",
+    "source_id": "cn-catl",
+    "company_name": "宁德时代",
+    "title": "2027届秋招 战略投资分析师",
+    "location": "宁德市",
+    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d673d43154813049a54d3",
+    "first_seen": "2026-11-07T02:47:03.760034+00:00",
+    "last_seen": "2026-11-07T02:47:03.760034+00:00",
+    "archived_at": "2026-11-08T02:27:50.487987+00:00",
+    "match_score": 65
+  },
+  {
+    "dedup_key": "f6973276d414ecd9",
+    "source_id": "cn-catl",
+    "company_name": "宁德时代",
+    "title": "2027届秋招 大客户销售-英语",
+    "location": "东莞市",
+    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d709243154813049a596c",
+    "first_seen": "2026-11-07T02:47:03.760034+00:00",
+    "last_seen": "2026-11-07T02:47:03.760034+00:00",
+    "archived_at": "2026-11-08T02:27:50.487987+00:00",
+    "match_score": 79
+  },
+  {
+    "dedup_key": "656b48c69ee0512b",
+    "source_id": "gov-mohrss",
+    "company_name": "景旺电子科技(珠海)有限公司",
+    "title": "技术培训生",
+    "location": "广西壮族自治区珠海市",
+    "official_url": "https://www.gx12333.net/gxjy/home/jobDetail/af235724-d49b-473b-85a7-b4a65466c278",
+    "first_seen": "2026-11-06T03:25:44.197905+00:00",
+    "last_seen": "2026-11-07T02:47:03.760034+00:00",
+    "archived_at": "2026-11-08T02:27:50.487987+00:00",
+    "match_score": 36
+  },
+  {
+    "dedup_key": "7aac0a271db24059",
+    "source_id": "edu-sysu",
+    "company_name": "2027届事业单位招聘公告合集（持续更新）",
+    "title": "2027届事业单位招聘公告合集（持续更新）",
+    "location": "中山大学·南校园",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997454",
+    "first_seen": "2026-11-07T02:47:03.760034+00:00",
+    "last_seen": "2026-11-07T02:47:03.760034+00:00",
+    "archived_at": "2026-11-08T02:27:50.487987+00:00",
+    "match_score": 29
+  },
+  {
+    "dedup_key": "e164b704f0fbfef3",
+    "source_id": "cn-iguopin",
+    "company_name": "和谐健康保险股份有限公司",
+    "title": "福建分公司-业务部门-管培生（内勤）",
+    "location": "福州-鼓楼区 / 泉州-丰泽区",
+    "official_url": "https://www.iguopin.com/job/detail?id=213125888575799676",
+    "first_seen": "2026-10-18T01:01:06.029763+00:00",
+    "last_seen": "2026-11-07T02:47:03.760034+00:00",
+    "archived_at": "2026-11-08T02:27:50.487987+00:00",
+    "match_score": 22
+  },
+  {
     "dedup_key": "cf87cb0badcbc7b8",
     "source_id": "edu-sysu",
     "company_name": "中国出版传媒股份有限公司",
@@ -586,54 +670,6 @@
     "last_seen": "2026-11-05T03:29:00.654106+00:00",
     "archived_at": "2026-11-06T03:25:44.197905+00:00",
     "match_score": 19
-  },
-  {
-    "dedup_key": "b6af1e112329e5f3",
-    "source_id": "cn-catl",
-    "company_name": "宁德时代",
-    "title": "2027届秋招 智造程序工程师-DG",
-    "location": "东莞市",
-    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d673c68cc6f624f3d7b00",
-    "first_seen": "2026-10-29T02:25:53.785105+00:00",
-    "last_seen": "2026-11-04T02:59:54.208186+00:00",
-    "archived_at": "2026-11-05T03:29:00.654106+00:00",
-    "match_score": 79
-  },
-  {
-    "dedup_key": "9bd9ee7fb32d1f09",
-    "source_id": "cn-catl",
-    "company_name": "宁德时代",
-    "title": "2027届秋招 EHS工程师",
-    "location": "宁德市",
-    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d674c68cc6f624f3d7b18",
-    "first_seen": "2026-10-29T02:25:53.785105+00:00",
-    "last_seen": "2026-11-04T02:59:54.208186+00:00",
-    "archived_at": "2026-11-05T03:29:00.654106+00:00",
-    "match_score": 65
-  },
-  {
-    "dedup_key": "dd8a4898384b3290",
-    "source_id": "cn-catl",
-    "company_name": "宁德时代",
-    "title": "2027届秋招 战略投资分析师",
-    "location": "宁德市",
-    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d673d43154813049a54d3",
-    "first_seen": "2026-10-29T02:25:53.785105+00:00",
-    "last_seen": "2026-11-04T02:59:54.208186+00:00",
-    "archived_at": "2026-11-05T03:29:00.654106+00:00",
-    "match_score": 65
-  },
-  {
-    "dedup_key": "f6973276d414ecd9",
-    "source_id": "cn-catl",
-    "company_name": "宁德时代",
-    "title": "2027届秋招 大客户销售-英语",
-    "location": "东莞市",
-    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d709243154813049a596c",
-    "first_seen": "2026-10-29T02:25:53.785105+00:00",
-    "last_seen": "2026-11-04T02:59:54.208186+00:00",
-    "archived_at": "2026-11-05T03:29:00.654106+00:00",
-    "match_score": 79
   },
   {
     "dedup_key": "4256990b6e272357",
@@ -1330,18 +1366,6 @@
     "last_seen": "2026-11-02T02:29:03.649937+00:00",
     "archived_at": "2026-11-04T02:59:54.208186+00:00",
     "match_score": 43
-  },
-  {
-    "dedup_key": "656b48c69ee0512b",
-    "source_id": "gov-mohrss",
-    "company_name": "景旺电子科技(珠海)有限公司",
-    "title": "技术培训生",
-    "location": "广西壮族自治区珠海市",
-    "official_url": "https://www.gx12333.net/gxjy/home/jobDetail/af235724-d49b-473b-85a7-b4a65466c278",
-    "first_seen": "2026-11-02T02:29:03.649937+00:00",
-    "last_seen": "2026-11-02T02:29:03.649937+00:00",
-    "archived_at": "2026-11-04T02:59:54.208186+00:00",
-    "match_score": 36
   },
   {
     "dedup_key": "6cff818f23b5d05d",
@@ -119971,30 +119995,6 @@
     "location": "广州",
     "official_url": "https://jobs.bytedance.com/experienced/position/7624108762635798789/detail",
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 62
-  },
-  {
-    "dedup_key": "91f94aaf758f1472",
-    "source_id": "gov-ncss",
-    "company_name": "广州市乐有家房产经纪有限公司",
-    "title": "区域主任管培（HRBP管培生）",
-    "location": "广东",
-    "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=5w7AqZZQpM2HQJEr8kmev6",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 62
-  },
-  {
-    "dedup_key": "9a4add7582f782b5",
-    "source_id": "gov-mohrss",
-    "company_name": "广东银途科技有限公司",
-    "title": "结构工程师",
-    "location": "广东省蓬江区",
-    "official_url": "https://ggfw.hrss.gd.gov.cn/recruitment/internet/main/#/positionDetail?bbb911=1e07f3f43a37af5648f6fa70a22dadb0&bcb009=2094224553363804161",
-    "first_seen": "2026-09-07T00:41:49.120811+00:00",
     "last_seen": "2026-09-08T00:54:44.624250+00:00",
     "archived_at": "2026-09-09T01:03:22.991738+00:00",
     "match_score": 62
