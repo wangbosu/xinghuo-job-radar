@@ -20,25 +20,25 @@
   "cn-bytedance": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:25:55.856596+00:00",
+    "last_success_at": "2026-11-14T03:14:28.519768+00:00",
     "last_error": "",
-    "last_count": 446,
+    "last_count": 452,
     "peak_count": 472,
     "alert": ""
   },
   "cn-tencent": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:26:09.082788+00:00",
+    "last_success_at": "2026-11-14T03:14:44.753284+00:00",
     "last_error": "",
-    "last_count": 324,
+    "last_count": 322,
     "peak_count": 351,
     "alert": ""
   },
   "cn-jd": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:26:25.302464+00:00",
+    "last_success_at": "2026-11-14T03:15:00.620860+00:00",
     "last_error": "",
     "last_count": 10,
     "peak_count": 10,
@@ -47,7 +47,7 @@
   "edu-sysu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:27:28.924197+00:00",
+    "last_success_at": "2026-11-14T03:16:16.867980+00:00",
     "last_error": "",
     "last_count": 25,
     "peak_count": 25,
@@ -56,7 +56,7 @@
   "edu-csu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:28:30.989988+00:00",
+    "last_success_at": "2026-11-14T03:17:31.385794+00:00",
     "last_error": "",
     "last_count": 25,
     "peak_count": 25,
@@ -65,7 +65,7 @@
   "edu-hnu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:28:34.993601+00:00",
+    "last_success_at": "2026-11-14T03:17:36.026462+00:00",
     "last_error": "",
     "last_count": 21,
     "peak_count": 21,
@@ -74,7 +74,7 @@
   "edu-scnu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:28:37.209416+00:00",
+    "last_success_at": "2026-11-14T03:17:38.778211+00:00",
     "last_error": "",
     "last_count": 7,
     "peak_count": 8,
@@ -110,7 +110,7 @@
   "edu-zju": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:29:20.127589+00:00",
+    "last_success_at": "2026-11-14T03:18:27.466230+00:00",
     "last_error": "",
     "last_count": 60,
     "peak_count": 60,
@@ -119,25 +119,25 @@
   "gov-ncss": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:29:33.176241+00:00",
+    "last_success_at": "2026-11-14T03:18:41.433745+00:00",
     "last_error": "",
-    "last_count": 168,
+    "last_count": 174,
     "peak_count": 180,
     "alert": ""
   },
   "gov-mohrss": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:29:50.863031+00:00",
+    "last_success_at": "2026-11-14T03:19:16.116123+00:00",
     "last_error": "",
-    "last_count": 99,
+    "last_count": 92,
     "peak_count": 148,
     "alert": ""
   },
   "gov-sasac": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:30:09.901978+00:00",
+    "last_success_at": "2026-11-14T03:19:39.333213+00:00",
     "last_error": "",
     "last_count": 28,
     "peak_count": 30,
@@ -146,7 +146,7 @@
   "gov-qyzp": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:30:40.229824+00:00",
+    "last_success_at": "2026-11-14T03:20:07.558597+00:00",
     "last_error": "",
     "last_count": 21,
     "peak_count": 21,
@@ -162,37 +162,37 @@
     "alert": ""
   },
   "wd-nvidia": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "status": "active",
     "last_success_at": "2026-11-13T03:24:39.588375+00:00",
-    "last_error": "",
+    "last_error": "HTTPError: HTTP Error 521: <none>",
     "last_count": 0,
     "peak_count": 11,
     "alert": "抓取量跌为 0（历史峰值 11，疑似改版/失效）"
   },
   "wd-amat": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "status": "active",
     "last_success_at": "2026-11-13T03:24:42.098007+00:00",
-    "last_error": "",
+    "last_error": "HTTPError: HTTP Error 521: <none>",
     "last_count": 40,
     "peak_count": 40,
     "alert": ""
   },
   "wd-3m": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "status": "active",
     "last_success_at": "2026-11-13T03:24:45.136641+00:00",
-    "last_error": "",
+    "last_error": "HTTPError: HTTP Error 521: <none>",
     "last_count": 40,
     "peak_count": 40,
     "alert": ""
   },
   "wd-pfizer": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "status": "active",
     "last_success_at": "2026-11-13T03:24:47.757995+00:00",
-    "last_error": "",
+    "last_error": "HTTPError: HTTP Error 521: <none>",
     "last_count": 40,
     "peak_count": 40,
     "alert": ""
@@ -200,16 +200,16 @@
   "wd-astrazeneca": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:24:50.978248+00:00",
+    "last_success_at": "2026-11-14T03:13:21.080692+00:00",
     "last_error": "",
-    "last_count": 9,
+    "last_count": 6,
     "peak_count": 22,
     "alert": ""
   },
   "cn-sensetime": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:26:33.469499+00:00",
+    "last_success_at": "2026-11-14T03:15:08.278635+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 119,
@@ -218,7 +218,7 @@
   "cn-horizon": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:26:41.546966+00:00",
+    "last_success_at": "2026-11-14T03:15:17.601003+00:00",
     "last_error": "",
     "last_count": 148,
     "peak_count": 200,
@@ -227,32 +227,32 @@
   "edu-xidian": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:29:16.643970+00:00",
+    "last_success_at": "2026-11-14T03:18:24.078822+00:00",
     "last_error": "",
     "last_count": 25,
     "peak_count": 25,
     "alert": ""
   },
   "wd-intel": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "status": "active",
     "last_success_at": "2026-11-13T03:24:53.701905+00:00",
-    "last_error": "",
+    "last_error": "HTTPError: HTTP Error 521: <none>",
     "last_count": 0,
     "peak_count": 2,
     "alert": ""
   },
   "wd-kla": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "status": "active",
     "last_success_at": "2026-11-13T03:24:55.581182+00:00",
-    "last_error": "",
+    "last_error": "HTTPError: HTTP Error 521: <none>",
     "last_count": 40,
     "peak_count": 40,
     "alert": ""
   },
   "wd-nxp": {
-    "consecutive_failures": 6,
+    "consecutive_failures": 7,
     "status": "blocked",
     "last_success_at": "2026-11-07T02:47:26.112592+00:00",
     "last_error": "HTTPError: HTTP Error 422: Unprocessable Entity",
@@ -261,10 +261,10 @@
     "alert": ""
   },
   "wd-abbott": {
-    "consecutive_failures": 0,
+    "consecutive_failures": 1,
     "status": "active",
     "last_success_at": "2026-11-13T03:25:03.909463+00:00",
-    "last_error": "",
+    "last_error": "HTTPError: HTTP Error 521: <none>",
     "last_count": 40,
     "peak_count": 40,
     "alert": ""
@@ -272,7 +272,7 @@
   "cn-tencent-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:26:16.308199+00:00",
+    "last_success_at": "2026-11-14T03:14:52.171909+00:00",
     "last_error": "",
     "last_count": 800,
     "peak_count": 800,
@@ -281,9 +281,9 @@
   "cn-netease": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:26:32.537026+00:00",
+    "last_success_at": "2026-11-14T03:15:06.784005+00:00",
     "last_error": "",
-    "last_count": 103,
+    "last_count": 115,
     "peak_count": 120,
     "alert": ""
   },
@@ -317,7 +317,7 @@
   "cn-iguopin": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:31:17.237661+00:00",
+    "last_success_at": "2026-11-14T03:20:45.556251+00:00",
     "last_error": "",
     "last_count": 240,
     "peak_count": 240,
@@ -326,7 +326,7 @@
   "cn-huawei-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:31:19.118247+00:00",
+    "last_success_at": "2026-11-14T03:20:47.511068+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 240,
@@ -335,7 +335,7 @@
   "cn-meituan-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:31:35.892706+00:00",
+    "last_success_at": "2026-11-14T03:21:04.343268+00:00",
     "last_error": "",
     "last_count": 200,
     "peak_count": 200,
@@ -344,50 +344,50 @@
   "cn-catl": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:31:46.051182+00:00",
+    "last_success_at": "2026-11-14T03:21:13.766493+00:00",
     "last_error": "",
-    "last_count": 138,
+    "last_count": 135,
     "peak_count": 180,
     "alert": ""
   },
   "gov-sz-sasac": {
-    "consecutive_failures": 60,
+    "consecutive_failures": 61,
     "status": "blocked",
     "last_error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
   },
   "edu-scu": {
-    "consecutive_failures": 60,
+    "consecutive_failures": 61,
     "status": "blocked",
     "last_error": "URLError: <urlopen error [Errno -2] Name or service not known>"
   },
   "cn-byd-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:32:01.068554+00:00",
+    "last_success_at": "2026-11-14T03:21:26.642636+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
     "alert": ""
   },
   "cn-midea-campus": {
-    "consecutive_failures": 60,
+    "consecutive_failures": 61,
     "status": "blocked",
-    "last_error": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
+    "last_error": "URLError: <urlopen error [Errno -2] Name or service not known>"
   },
   "cn-gac-campus": {
-    "consecutive_failures": 60,
+    "consecutive_failures": 61,
     "status": "blocked",
     "last_error": "URLError: <urlopen error [Errno -2] Name or service not known>"
   },
   "cn-sf-campus": {
-    "consecutive_failures": 60,
+    "consecutive_failures": 61,
     "status": "blocked",
     "last_error": "URLError: <urlopen error timed out>"
   },
   "cn-cmb-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-13T03:32:59.499715+00:00",
+    "last_success_at": "2026-11-14T03:22:26.699307+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 0,
