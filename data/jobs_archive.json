@@ -1,5 +1,77 @@
 [
   {
+    "dedup_key": "6cff818f23b5d05d",
+    "source_id": "gov-mohrss",
+    "company_name": "珠海华宇金属有限公司",
+    "title": "维保技工",
+    "location": "广西壮族自治区珠海市",
+    "official_url": "https://www.gx12333.net/gxjy/home/jobDetail/04a8acc4-beaf-4628-b1e9-594e2245f55c",
+    "first_seen": "2026-11-15T02:38:10.409457+00:00",
+    "last_seen": "2026-11-15T02:38:10.409457+00:00",
+    "archived_at": "2026-11-16T02:43:14.056100+00:00",
+    "match_score": 31
+  },
+  {
+    "dedup_key": "7ad4a203087269a6",
+    "source_id": "gov-mohrss",
+    "company_name": "上海阳广包装材料有限公司",
+    "title": "采购专员",
+    "location": "上海市松江区",
+    "official_url": "https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=3071233",
+    "first_seen": "2026-11-14T03:13:06.520472+00:00",
+    "last_seen": "2026-11-15T02:38:10.409457+00:00",
+    "archived_at": "2026-11-16T02:43:14.056100+00:00",
+    "match_score": 87
+  },
+  {
+    "dedup_key": "f83e01629a9ed938",
+    "source_id": "gov-mohrss",
+    "company_name": "浙江华威家居集团有限公司",
+    "title": "文案专员",
+    "location": "浙江省松阳县",
+    "official_url": "https://www.zjhr.com/010/client/index7.jsp?column1=8a129366a1bff1fd01a1c383c2743533&column2=1&t=1574133601459",
+    "first_seen": "2026-11-12T03:48:19.086654+00:00",
+    "last_seen": "2026-11-15T02:38:10.409457+00:00",
+    "archived_at": "2026-11-16T02:43:14.056100+00:00",
+    "match_score": 72
+  },
+  {
+    "dedup_key": "e4d58406c276eda0",
+    "source_id": "gov-mohrss",
+    "company_name": "浙江亿联康医疗科技有限公司",
+    "title": "车间管培生",
+    "location": "浙江省仙居县",
+    "official_url": "https://www.zjhr.com/010/client/index7.jsp?column1=8a129366a1bff1fd01a1c3657fea320a&column2=1&t=1574133601459",
+    "first_seen": "2026-11-15T02:38:10.409457+00:00",
+    "last_seen": "2026-11-15T02:38:10.409457+00:00",
+    "archived_at": "2026-11-16T02:43:14.056100+00:00",
+    "match_score": 29
+  },
+  {
+    "dedup_key": "f959843928a1d981",
+    "source_id": "gov-mohrss",
+    "company_name": "华菱安赛乐米塔尔汽车板有限公司",
+    "title": "机械工程师（储备）",
+    "location": "湖南省",
+    "official_url": "http://job.mohrss.gov.cn/cjobs/jobinfo/showDetail?aab001=34057676",
+    "first_seen": "2026-11-13T03:24:35.502123+00:00",
+    "last_seen": "2026-11-15T02:38:10.409457+00:00",
+    "archived_at": "2026-11-16T02:43:14.056100+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "2362ff5cb6f7c031",
+    "source_id": "cn-iguopin",
+    "company_name": "中科驭数（北京）科技有限公司",
+    "title": "博士后",
+    "location": "北京-海淀区",
+    "official_url": "https://www.iguopin.com/job/detail?id=214292341379302387",
+    "first_seen": "2026-11-02T02:29:03.649937+00:00",
+    "last_seen": "2026-11-15T02:38:10.409457+00:00",
+    "archived_at": "2026-11-16T02:43:14.056100+00:00",
+    "match_score": 19
+  },
+  {
     "dedup_key": "656b48c69ee0512b",
     "source_id": "gov-mohrss",
     "company_name": "景旺电子科技(珠海)有限公司",
@@ -300,18 +372,6 @@
     "match_score": 79
   },
   {
-    "dedup_key": "6cff818f23b5d05d",
-    "source_id": "gov-mohrss",
-    "company_name": "珠海华宇金属有限公司",
-    "title": "维保技工",
-    "location": "广西壮族自治区珠海市",
-    "official_url": "https://www.gx12333.net/gxjy/home/jobDetail/04a8acc4-beaf-4628-b1e9-594e2245f55c",
-    "first_seen": "2026-11-11T02:45:52.517861+00:00",
-    "last_seen": "2026-11-12T03:48:19.086654+00:00",
-    "archived_at": "2026-11-13T03:24:35.502123+00:00",
-    "match_score": 31
-  },
-  {
     "dedup_key": "dd8a4898384b3290",
     "source_id": "cn-catl",
     "company_name": "宁德时代",
@@ -550,18 +610,6 @@
     "last_seen": "2026-11-12T03:48:19.086654+00:00",
     "archived_at": "2026-11-13T03:24:35.502123+00:00",
     "match_score": 21
-  },
-  {
-    "dedup_key": "7ad4a203087269a6",
-    "source_id": "gov-mohrss",
-    "company_name": "上海阳广包装材料有限公司",
-    "title": "采购专员",
-    "location": "上海市松江区",
-    "official_url": "https://jobs.rsj.sh.gov.cn/ggzp-shrs/index.html#/jobDetails?id=3071233",
-    "first_seen": "2026-11-10T04:36:57.569912+00:00",
-    "last_seen": "2026-11-11T02:45:52.517861+00:00",
-    "archived_at": "2026-11-12T03:48:19.086654+00:00",
-    "match_score": 87
   },
   {
     "dedup_key": "ebb04206c07db3f7",
@@ -119950,53 +119998,5 @@
     "last_seen": "2026-09-08T00:54:44.624250+00:00",
     "archived_at": "2026-09-09T01:03:22.991738+00:00",
     "match_score": 106
-  },
-  {
-    "dedup_key": "0089f8c0b015220b",
-    "source_id": "cn-jd",
-    "company_name": "京东",
-    "title": "销售岗",
-    "location": "天津市",
-    "official_url": "https://zhaopin.jd.com/web/job/job_detail/171678",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 104
-  },
-  {
-    "dedup_key": "9765c726f29e12fd",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "运输主管",
-    "location": "成都市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4752777670",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 104
-  },
-  {
-    "dedup_key": "afd043b4618b3c97",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "Brazil Marketing Designer",
-    "location": "圣保罗",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4739435392",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 103
-  },
-  {
-    "dedup_key": "d3464acd036e8648",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "Pytorch框架研发高级工程师（深圳/北京/上海/杭州）",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=1958073234469572608",
-    "first_seen": "2026-09-05T00:37:32.592380+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 102
   }
 ]
