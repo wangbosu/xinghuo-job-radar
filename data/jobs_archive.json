@@ -1,5 +1,185 @@
 [
   {
+    "dedup_key": "6cff818f23b5d05d",
+    "source_id": "gov-mohrss",
+    "company_name": "珠海华宇金属有限公司",
+    "title": "维保技工",
+    "location": "广西壮族自治区珠海市",
+    "official_url": "https://www.gx12333.net/gxjy/home/jobDetail/04a8acc4-beaf-4628-b1e9-594e2245f55c",
+    "first_seen": "2026-11-18T04:17:40.579163+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 31
+  },
+  {
+    "dedup_key": "34a4a506799651bd",
+    "source_id": "cn-iguopin",
+    "company_name": "绿盟科技集团股份有限公司",
+    "title": "27届校招人工智能安全研究员（博士后）",
+    "location": "北京-海淀区",
+    "official_url": "https://www.iguopin.com/job/detail?id=214716403213665635",
+    "first_seen": "2026-11-09T02:38:46.140768+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 59
+  },
+  {
+    "dedup_key": "616378da22a00522",
+    "source_id": "gov-mohrss",
+    "company_name": "湖南国际贸易集团有限公司",
+    "title": "物流管理",
+    "location": "湖南省",
+    "official_url": "http://job.mohrss.gov.cn/cjobs/jobinfo/showDetail?aab001=37335088",
+    "first_seen": "2026-11-18T04:17:40.579163+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 69
+  },
+  {
+    "dedup_key": "57704bf09ea40fea",
+    "source_id": "cn-iguopin",
+    "company_name": "绿盟科技集团股份有限公司",
+    "title": "27届校招数据安全研究员（博士后）",
+    "location": "北京-海淀区",
+    "official_url": "https://www.iguopin.com/job/detail?id=214716698408781144",
+    "first_seen": "2026-11-09T02:38:46.140768+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 64
+  },
+  {
+    "dedup_key": "c465374a0fbc2b72",
+    "source_id": "cn-iguopin",
+    "company_name": "中物金象医药物流有限公司",
+    "title": "仓库保管员（可多岗位学习）",
+    "location": "北京-大兴区",
+    "official_url": "https://www.iguopin.com/job/detail?id=214720131899589992",
+    "first_seen": "2026-11-09T02:38:46.140768+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 19
+  },
+  {
+    "dedup_key": "b8a8a78f8b843e73",
+    "source_id": "edu-sysu",
+    "company_name": "厦门松霖科技2027届校招",
+    "title": "厦门松霖科技2027届校招",
+    "location": "中山大学·南校园",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997929",
+    "first_seen": "2026-11-18T04:17:40.579163+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 69
+  },
+  {
+    "dedup_key": "18b3b9a05eeb4764",
+    "source_id": "edu-hnu",
+    "company_name": "【国企",
+    "title": "【国企招聘】安琪酵母2027年校园招聘宣讲会 科创港校区 · 生命医学交叉研究院203会议室",
+    "location": "湖南大学",
+    "official_url": "https://scc.hnu.edu.cn/detail/career?id=730598",
+    "first_seen": "2026-11-13T03:24:35.502123+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 64
+  },
+  {
+    "dedup_key": "b11974911179203e",
+    "source_id": "edu-csu",
+    "company_name": "2027届消费者管理培训生岗位推介会",
+    "title": "2027届消费者管理培训生岗位推介会",
+    "location": "中南大学·学岳麓山校区·南大学新校区·（岳麓山校区",
+    "official_url": "https://career.csu.edu.cn/jobfair/view/id/34788",
+    "first_seen": "2026-11-17T05:03:50.638653+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "18d7f113af220fbd",
+    "source_id": "gov-sasac",
+    "company_name": "中国东方航空",
+    "title": "中国东方航空2027全球校园招聘正式启动",
+    "location": "",
+    "official_url": "http://www.sasac.gov.cn/n2588035/n2588325/n2588350/c35991460/content.html",
+    "first_seen": "2026-09-29T23:24:41.195591+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 43
+  },
+  {
+    "dedup_key": "6ccd438d718a9d68",
+    "source_id": "gov-qyzp",
+    "company_name": "职引未来",
+    "title": "职引未来—2026年全国城市联合招聘高校毕业生秋季专场推出第三批就业服务活动",
+    "location": "",
+    "official_url": "https://www.mohrss.gov.cn/SYrlzyhshbzb/dongtaixinwen/buneiyaowen/rsxw/202611/t20261111_599073.html",
+    "first_seen": "2026-11-13T03:24:35.502123+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 43
+  },
+  {
+    "dedup_key": "bab6bc9dcc1e097b",
+    "source_id": "edu-hnu",
+    "company_name": "【央企】哈尔滨锅炉厂有限责任公司",
+    "title": "【央企】哈尔滨锅炉厂有限责任公司2027秋季校园招聘 主校区 · 复临舍101报告厅",
+    "location": "湖南大学",
+    "official_url": "https://scc.hnu.edu.cn/detail/career?id=730813",
+    "first_seen": "2026-11-11T02:45:52.517861+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 24
+  },
+  {
+    "dedup_key": "0b3eb4dd99763403",
+    "source_id": "edu-xidian",
+    "company_name": "【央企】哈尔滨锅炉厂有限责任公司2027秋季校园招聘",
+    "title": "【央企】哈尔滨锅炉厂有限责任公司2027秋季校园招聘 进行中 单位：哈尔滨锅炉厂有限责任公司 时间：2026-11-18",
+    "location": "job.xidian.edu.cn",
+    "official_url": "https://job.xidian.edu.cn/campus/view/id/758609",
+    "first_seen": "2026-11-18T04:17:40.579163+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 24
+  },
+  {
+    "dedup_key": "f6c9a1acd5615f96",
+    "source_id": "edu-csu",
+    "company_name": "【11月18日19点】新东方华南区27",
+    "title": "【11月18日19点】新东方华南区27校招空中宣讲会",
+    "location": "中南大学·南大学新校区·（岳麓山校区·1（杏林校区",
+    "official_url": "https://career.csu.edu.cn/teachin/view/id/119488",
+    "first_seen": "2026-11-14T03:13:06.520472+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "7fb12b8040a88203",
+    "source_id": "edu-hnu",
+    "company_name": "北京玻色量子科技股份有限公司",
+    "title": "北京玻色量子科技股份有限公司2027届秋季校园宣讲会 主校区 · 复临舍105教室",
+    "location": "湖南大学",
+    "official_url": "https://scc.hnu.edu.cn/detail/career?id=731086",
+    "first_seen": "2026-11-11T02:45:52.517861+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "c306cbcbf75ede36",
+    "source_id": "edu-hnu",
+    "company_name": "【实习】剧星传媒",
+    "title": "【实习】剧星传媒2026年校园招聘 科创港校区 · 新闻传播学院院楼408",
+    "location": "湖南大学",
+    "official_url": "https://scc.hnu.edu.cn/detail/career?id=729898",
+    "first_seen": "2026-11-10T04:36:57.569912+00:00",
+    "last_seen": "2026-11-18T04:17:40.579163+00:00",
+    "archived_at": "2026-11-19T04:10:12.386472+00:00",
+    "match_score": 21
+  },
+  {
     "dedup_key": "7ad4a203087269a6",
     "source_id": "gov-mohrss",
     "company_name": "上海阳广包装材料有限公司",
@@ -418,18 +598,6 @@
     "last_seen": "2026-11-16T02:43:14.056100+00:00",
     "archived_at": "2026-11-17T05:03:50.638653+00:00",
     "match_score": 21
-  },
-  {
-    "dedup_key": "6cff818f23b5d05d",
-    "source_id": "gov-mohrss",
-    "company_name": "珠海华宇金属有限公司",
-    "title": "维保技工",
-    "location": "广西壮族自治区珠海市",
-    "official_url": "https://www.gx12333.net/gxjy/home/jobDetail/04a8acc4-beaf-4628-b1e9-594e2245f55c",
-    "first_seen": "2026-11-15T02:38:10.409457+00:00",
-    "last_seen": "2026-11-15T02:38:10.409457+00:00",
-    "archived_at": "2026-11-16T02:43:14.056100+00:00",
-    "match_score": 31
   },
   {
     "dedup_key": "f83e01629a9ed938",
@@ -2208,18 +2376,6 @@
     "match_score": 61
   },
   {
-    "dedup_key": "34a4a506799651bd",
-    "source_id": "cn-iguopin",
-    "company_name": "绿盟科技集团股份有限公司",
-    "title": "27届校招人工智能安全研究员（博士后）",
-    "location": "北京-海淀区",
-    "official_url": "https://www.iguopin.com/job/detail?id=214716403213665635",
-    "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-06T03:25:44.197905+00:00",
-    "archived_at": "2026-11-07T02:47:03.760034+00:00",
-    "match_score": 59
-  },
-  {
     "dedup_key": "5df86140ecd4ded3",
     "source_id": "gov-ncss",
     "company_name": "北京掌上先机网络科技有限公司",
@@ -2278,18 +2434,6 @@
     "last_seen": "2026-11-06T03:25:44.197905+00:00",
     "archived_at": "2026-11-07T02:47:03.760034+00:00",
     "match_score": 21
-  },
-  {
-    "dedup_key": "616378da22a00522",
-    "source_id": "gov-mohrss",
-    "company_name": "湖南国际贸易集团有限公司",
-    "title": "物流管理",
-    "location": "湖南省",
-    "official_url": "http://job.mohrss.gov.cn/cjobs/jobinfo/showDetail?aab001=37335088",
-    "first_seen": "2026-11-05T03:29:00.654106+00:00",
-    "last_seen": "2026-11-05T03:29:00.654106+00:00",
-    "archived_at": "2026-11-06T03:25:44.197905+00:00",
-    "match_score": 69
   },
   {
     "dedup_key": "38d89ef3a0e05962",
@@ -2422,18 +2566,6 @@
     "last_seen": "2026-11-05T03:29:00.654106+00:00",
     "archived_at": "2026-11-06T03:25:44.197905+00:00",
     "match_score": 65
-  },
-  {
-    "dedup_key": "57704bf09ea40fea",
-    "source_id": "cn-iguopin",
-    "company_name": "绿盟科技集团股份有限公司",
-    "title": "27届校招数据安全研究员（博士后）",
-    "location": "北京-海淀区",
-    "official_url": "https://www.iguopin.com/job/detail?id=214716698408781144",
-    "first_seen": "2026-11-05T03:29:00.654106+00:00",
-    "last_seen": "2026-11-05T03:29:00.654106+00:00",
-    "archived_at": "2026-11-06T03:25:44.197905+00:00",
-    "match_score": 64
   },
   {
     "dedup_key": "4e4e135023563740",
@@ -2674,18 +2806,6 @@
     "last_seen": "2026-11-05T03:29:00.654106+00:00",
     "archived_at": "2026-11-06T03:25:44.197905+00:00",
     "match_score": 21
-  },
-  {
-    "dedup_key": "c465374a0fbc2b72",
-    "source_id": "cn-iguopin",
-    "company_name": "中物金象医药物流有限公司",
-    "title": "仓库保管员（可多岗位学习）",
-    "location": "北京-大兴区",
-    "official_url": "https://www.iguopin.com/job/detail?id=214720131899589992",
-    "first_seen": "2026-11-05T03:29:00.654106+00:00",
-    "last_seen": "2026-11-05T03:29:00.654106+00:00",
-    "archived_at": "2026-11-06T03:25:44.197905+00:00",
-    "match_score": 19
   },
   {
     "dedup_key": "4256990b6e272357",
@@ -119878,125 +119998,5 @@
     "last_seen": "2026-09-08T00:54:44.624250+00:00",
     "archived_at": "2026-09-09T01:03:22.991738+00:00",
     "match_score": 129
-  },
-  {
-    "dedup_key": "4c8cc128c8e2b888",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "学习发展-运营实习生",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4744872348",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 128
-  },
-  {
-    "dedup_key": "10fe89880228e019",
-    "source_id": "cn-bytedance",
-    "company_name": "字节跳动",
-    "title": "酒店榜用户运营专家-抖音生活服务",
-    "location": "北京, 上海",
-    "official_url": "https://jobs.bytedance.com/experienced/position/7680811028465600773/detail",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 126
-  },
-  {
-    "dedup_key": "da4719c5bc5bba64",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "微信-基础功能后台开发",
-    "location": "广州",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2040982134000353280",
-    "first_seen": "2026-09-05T00:37:32.592380+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 126
-  },
-  {
-    "dedup_key": "47a74efbcb5f62e5",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "混元后台开发工程师（深圳/北京）",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2071854045013913600",
-    "first_seen": "2026-09-05T00:37:32.592380+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 126
-  },
-  {
-    "dedup_key": "50dedb97caa657ba",
-    "source_id": "cn-iguopin",
-    "company_name": "咪咕文化科技有限公司",
-    "title": "产品运营专员（AIGC平台方向）",
-    "location": "杭州-西湖区",
-    "official_url": "https://www.iguopin.com/job/detail?id=217203321834833046",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 126
-  },
-  {
-    "dedup_key": "9890a971fbd03083",
-    "source_id": "cn-jd",
-    "company_name": "京东",
-    "title": "场地运营岗",
-    "location": "北京市",
-    "official_url": "https://zhaopin.jd.com/web/job/job_detail/171631",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 125
-  },
-  {
-    "dedup_key": "15a1b14ef59f26ad",
-    "source_id": "cn-netease",
-    "company_name": "网易",
-    "title": "法律顾问（诉讼）",
-    "location": "杭州市",
-    "official_url": "https://hr.163.com/job-detail.html?positionId=77311",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 125
-  },
-  {
-    "dedup_key": "d15ac95a02eeea34",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "大区设备物资负责人-中北",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4453462805",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 125
-  },
-  {
-    "dedup_key": "2c14a08a9601955f",
-    "source_id": "cn-bytedance",
-    "company_name": "字节跳动",
-    "title": "广告行业运营（运动服饰方向）-中国广告销售平台",
-    "location": "上海",
-    "official_url": "https://jobs.bytedance.com/experienced/position/7485959237534271752/detail",
-    "first_seen": "2026-09-06T00:35:39.986201+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 124
-  },
-  {
-    "dedup_key": "0cd292a9e99c3103",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "《王者荣耀》游戏客户端开发工程师—游戏系统方向",
-    "location": "成都",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2068974835094171648",
-    "first_seen": "2026-09-05T00:37:32.592380+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 124
   }
 ]
