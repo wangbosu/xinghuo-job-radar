@@ -32,7 +32,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-05T03:29:00.654106+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -86,7 +86,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-21T23:24:26.797449+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "meituan",
@@ -137,7 +137,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -188,7 +188,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -238,7 +238,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -287,7 +287,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -338,7 +338,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -389,7 +389,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-19T04:10:12.386472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -437,7 +437,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -532,7 +532,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-18T04:17:40.579163+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -581,7 +581,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-09T02:38:46.140768+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -627,7 +627,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-21T01:33:54.652595+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -673,7 +673,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-21T01:33:54.652595+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -719,7 +719,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-19T01:15:00.536973+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -765,7 +765,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-08T23:27:55.103095+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -811,7 +811,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -858,7 +858,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-09T23:27:15.843984+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -905,7 +905,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-29T23:24:41.195591+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -950,7 +950,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-27T02:04:15.292346+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -997,7 +997,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-09T23:27:15.843984+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1042,7 +1042,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-17T23:21:11.101393+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1088,7 +1088,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-23T01:29:50.631535+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -1134,7 +1134,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-12T03:48:19.086654+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1180,7 +1180,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-02T02:29:03.649937+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1226,7 +1226,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-21T01:33:54.652595+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1272,7 +1272,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-19T01:15:00.536973+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1318,7 +1318,7 @@
     "status": "new",
     "seen_count": 2,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1368,7 +1368,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-13T03:24:35.502123+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "id": "7616688948605520133"
@@ -1412,7 +1412,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-14T23:35:54.961901+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1457,7 +1457,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-08T23:27:55.103095+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1502,7 +1502,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-30T23:25:10.644139+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1547,7 +1547,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-29T23:24:41.195591+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1592,7 +1592,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-31T02:20:11.272200+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1637,7 +1637,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-30T02:35:17.136927+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1682,7 +1682,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-14T23:35:54.961901+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1727,7 +1727,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-14T23:35:54.961901+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1772,7 +1772,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-14T23:35:54.961901+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1817,7 +1817,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-14T23:35:54.961901+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1862,7 +1862,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-09T23:27:15.843984+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1907,7 +1907,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-24T23:23:59.038373+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1952,7 +1952,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-24T23:23:59.038373+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -1997,7 +1997,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-21T23:24:26.797449+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -2042,7 +2042,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-18T23:23:58.066621+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -2054,6 +2054,57 @@
     "verification_status": "verified",
     "verification_reason": "官方/可信平台明确 2027 正式校招",
     "role_family": "其他",
+    "entry_type": "岗位"
+  },
+  {
+    "job_id": "gov-mohrss:b888f797776ae1a6",
+    "dedup_key": "b888f797776ae1a6",
+    "source_id": "gov-mohrss",
+    "company_name": "弘元绿色能源股份有限公司",
+    "title": "国内/海外销售",
+    "source_type": "public_notice",
+    "location": "江苏省滨湖区",
+    "org_type": "public_institution",
+    "industry": "能源/电力/石化",
+    "job_type": "campus",
+    "publish_time": "2026-11-18",
+    "deadline": "2026-12-16",
+    "official_url": "https://www.js365job.com/recruitment/findJobDetail?jobId=2122140563158536193&amp;companyId=1727503728146354177",
+    "backup_url": "",
+    "salary": "12500-16667元/月",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "销售人员 · 岗位职责：1、销售计划管理：制定所负责区域的年度、季度销售计划；2、市场开发：针对所负责区域的市场情况，通过各种渠道宣传公司及产品，制定市场开拓计划，开拓新市场和新客户，分解销售目标；3、协助客户管理：根据客户级别，定期和客户沟通市场和销售情况，负责与客户的业务谈判及成交；任职要求：1、1年以上海外市场销售、外贸跟单经验，优秀应届生也可；2、英语可作为工作语言（住江大、雪浪、南泉优先）； · 12500-16667元/月 · 招9人",
+    "tags": [
+      "行业:能源/电力/石化",
+      "待核实",
+      "供应链/计划/交付",
+      "其他重点城市",
+      "计划",
+      "市场",
+      "非2027正式秋招"
+    ],
+    "match_score": 79,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-11-20T03:58:03.252378+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "mohrss",
+      "province": "江苏省",
+      "area_code": "320211",
+      "salary": "12500-16667元/月",
+      "needs_ai": false
+    },
+    "recruitment_type": "待核实线索",
+    "education": "",
+    "major": "",
+    "verification_status": "lead",
+    "verification_reason": "有校招信号但无法确认 2027 届",
+    "role_family": "供应链/计划/交付",
     "entry_type": "岗位"
   },
   {
@@ -2086,7 +2137,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -2130,7 +2181,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-14T23:20:21.967223+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -2179,7 +2230,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2230,7 +2281,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2281,7 +2332,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2332,7 +2383,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2382,7 +2433,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-24T23:21:08.628191+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2432,7 +2483,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-15T23:57:31.560749+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2482,7 +2533,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2532,7 +2583,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2582,7 +2633,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2632,7 +2683,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T23:59:21.655922+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2682,7 +2733,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T00:01:13.331431+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2732,7 +2783,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2782,7 +2833,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2832,7 +2883,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2882,7 +2933,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-21T23:24:26.797449+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2932,7 +2983,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -2982,7 +3033,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-30T02:35:17.136927+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -3030,7 +3081,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-13T23:37:21.172202+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -3076,7 +3127,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-09T02:38:46.140768+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -3122,7 +3173,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-13T23:37:21.172202+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -3168,7 +3219,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-16T23:24:29.076302+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -3214,7 +3265,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-21T01:33:54.652595+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -3226,106 +3277,6 @@
     "verification_status": "verified",
     "verification_reason": "官方/可信平台明确 2027 正式校招",
     "role_family": "其他",
-    "entry_type": "岗位"
-  },
-  {
-    "job_id": "cn-catl:b1bdcb9d9bab2dcc",
-    "dedup_key": "b1bdcb9d9bab2dcc",
-    "source_id": "cn-catl",
-    "company_name": "宁德时代",
-    "title": "2027届秋招 精益与数字化制造工程师",
-    "source_type": "official",
-    "location": "宁德市",
-    "org_type": "tech",
-    "industry": "汽车/新能源车",
-    "job_type": "campus",
-    "publish_time": "2026-08-13",
-    "deadline": "2027-03-04",
-    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d513e43154813049a46cd",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "项目/运营类 · 硕士及以上 · 5 · 2027届秋季校园招聘",
-    "tags": [
-      "行业:汽车/新能源车",
-      "2027正式秋招",
-      "其他重点城市",
-      "运营",
-      "项目"
-    ],
-    "match_score": 75,
-    "source_confidence": 100,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-09-05T00:37:32.592380+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "beisen",
-      "id": "6a7d513e43154813049a46cd"
-    },
-    "recruitment_type": "2027届正式校园招聘",
-    "education": "",
-    "major": "",
-    "verification_status": "verified",
-    "verification_reason": "官方/可信平台明确 2027 正式校招",
-    "role_family": "其他",
-    "entry_type": "岗位"
-  },
-  {
-    "job_id": "gov-ncss:5daa1c3863231a1e",
-    "dedup_key": "5daa1c3863231a1e",
-    "source_id": "gov-ncss",
-    "company_name": "河北金标建材科技股份有限公司",
-    "title": "丝网OPC社区入驻创业者招募（AI一人公司·校招专项）（实习）",
-    "source_type": "public_notice",
-    "location": "河北",
-    "org_type": "public_institution",
-    "industry": "政府/事业单位",
-    "job_type": "campus",
-    "publish_time": "2026-11-09",
-    "deadline": "",
-    "official_url": "https://www.ncss.cn/student/jobs/jobsdetail/index.html?jobId=LMZUDDkKgesadYJeTyv2sW",
-    "backup_url": "",
-    "salary": "0.1-0.1K/月",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "专科及以上 · 工商管理专业 市场营销 AI 大模型 数据 国际贸易 贸易 计算机 网络 市场 宣传 品牌 · 民营企业 · 100-499人 · 0.1-0.1K/月 · 招20人",
-    "tags": [
-      "行业:政府/事业单位",
-      "待核实",
-      "市场/品牌/电商",
-      "其他重点城市",
-      "市场",
-      "品牌",
-      "数据",
-      "非2027正式秋招",
-      "缺截止"
-    ],
-    "match_score": 74,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-11-13T03:24:35.502123+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "ncss",
-      "property": "民营企业",
-      "source": null,
-      "salary": "0.1-0.1K/月",
-      "degree": "专科及以上",
-      "needs_ai": false
-    },
-    "recruitment_type": "待核实线索",
-    "education": "专科及以上",
-    "major": "",
-    "verification_status": "lead",
-    "verification_reason": "有校招信号但无法确认 2027 届",
-    "role_family": "市场/品牌/电商",
     "entry_type": "岗位"
   },
   {
@@ -3362,7 +3313,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -3412,7 +3363,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-21T23:55:39.381371+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -3462,7 +3413,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-21T23:55:39.381371+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -3475,102 +3426,6 @@
     "major": "",
     "verification_status": "lead",
     "verification_reason": "有校招信号但无法确认 2027 届",
-    "role_family": "其他",
-    "entry_type": "岗位"
-  },
-  {
-    "job_id": "edu-sysu:43e4fcda9fde8913",
-    "dedup_key": "43e4fcda9fde8913",
-    "source_id": "edu-sysu",
-    "company_name": "广州蓝深科技有限公司",
-    "title": "广州蓝深科技2027届秋招宣讲会",
-    "source_type": "public_notice",
-    "location": "中山大学·南校园",
-    "org_type": "research",
-    "industry": "其他",
-    "job_type": "campus",
-    "publish_time": "2026-11-19",
-    "deadline": "",
-    "official_url": "https://career.sysu.edu.cn/teachin/view/id/175313",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "广州蓝深科技2027届秋招宣讲会",
-    "tags": [
-      "行业:其他",
-      "2027正式秋招",
-      "中山",
-      "广州",
-      "缺截止"
-    ],
-    "match_score": 72,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-11-13T03:24:35.502123+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "xjc",
-      "school": "中山大学",
-      "kind": "teachin",
-      "needs_ai": true
-    },
-    "recruitment_type": "2027届正式校园招聘",
-    "education": "",
-    "major": "",
-    "verification_status": "verified",
-    "verification_reason": "官方/可信平台明确 2027 正式校招",
-    "role_family": "其他",
-    "entry_type": "招聘公告/活动"
-  },
-  {
-    "job_id": "edu-sysu:8a1a1194b012c93d",
-    "dedup_key": "8a1a1194b012c93d",
-    "source_id": "edu-sysu",
-    "company_name": "广州市市政工程设计研究总院有限公司2027届校园招聘",
-    "title": "广州市市政工程设计研究总院有限公司2027届校园招聘",
-    "source_type": "public_notice",
-    "location": "中山大学·南校园",
-    "org_type": "research",
-    "industry": "其他",
-    "job_type": "campus",
-    "publish_time": "2027-02-16",
-    "deadline": "",
-    "official_url": "https://career.sysu.edu.cn/campus/view/id/997933",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "广州市市政工程设计研究总院有限公司2027届校园招聘",
-    "tags": [
-      "行业:其他",
-      "2027正式秋招",
-      "中山",
-      "广州",
-      "缺截止"
-    ],
-    "match_score": 72,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-11-18T04:17:40.579163+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "xjc",
-      "school": "中山大学",
-      "kind": "campus",
-      "needs_ai": true
-    },
-    "recruitment_type": "2027届正式校园招聘",
-    "education": "",
-    "major": "",
-    "verification_status": "verified",
-    "verification_reason": "官方/可信平台明确 2027 正式校招",
     "role_family": "其他",
     "entry_type": "岗位"
   },
@@ -3608,7 +3463,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-10T23:33:40.237664+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -3658,7 +3513,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-10T23:33:40.237664+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -3708,7 +3563,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -3758,7 +3613,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -3808,7 +3663,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-21T23:55:39.381371+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -3858,7 +3713,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -3908,7 +3763,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -3958,7 +3813,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-17T23:21:29.725051+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4008,7 +3863,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-17T23:21:29.725051+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4057,7 +3912,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4106,7 +3961,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4155,7 +4010,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4204,7 +4059,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4253,7 +4108,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4302,7 +4157,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4351,7 +4206,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-19T23:20:57.434913+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4400,7 +4255,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4449,7 +4304,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4498,7 +4353,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4547,7 +4402,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4596,7 +4451,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4645,7 +4500,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4694,7 +4549,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4743,7 +4598,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4792,7 +4647,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4841,7 +4696,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4890,7 +4745,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4939,7 +4794,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -4988,7 +4843,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-15T01:10:21.474384+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5037,7 +4892,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5086,7 +4941,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5135,7 +4990,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5184,7 +5039,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5233,7 +5088,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5282,7 +5137,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5331,7 +5186,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5380,7 +5235,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5429,7 +5284,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5478,7 +5333,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5527,7 +5382,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5576,7 +5431,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-15T23:57:31.560749+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5625,7 +5480,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-15T23:57:31.560749+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5674,7 +5529,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5723,7 +5578,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-11T02:45:52.517861+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5772,7 +5627,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5821,7 +5676,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5870,7 +5725,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5919,7 +5774,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -5968,7 +5823,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6017,7 +5872,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6066,7 +5921,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6115,7 +5970,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6164,7 +6019,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T00:01:13.331431+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6213,7 +6068,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-12T23:39:40.590487+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6262,7 +6117,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T00:01:13.331431+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6311,7 +6166,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6360,7 +6215,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6409,7 +6264,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6458,7 +6313,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6507,7 +6362,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6556,7 +6411,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6605,7 +6460,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T23:59:21.655922+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6654,7 +6509,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T23:59:21.655922+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6703,7 +6558,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6752,7 +6607,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6801,7 +6656,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6850,7 +6705,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6899,7 +6754,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6948,7 +6803,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-12T23:39:40.590487+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -6997,7 +6852,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T00:01:13.331431+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7046,7 +6901,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7095,7 +6950,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T23:59:21.655922+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7144,7 +6999,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7193,7 +7048,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T23:59:21.655922+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7242,7 +7097,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T23:59:21.655922+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7291,7 +7146,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-13T23:37:21.172202+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7340,7 +7195,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-12T23:39:40.590487+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7389,7 +7244,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-12T23:39:40.590487+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7438,7 +7293,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-17T23:21:29.725051+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7487,7 +7342,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-17T23:21:29.725051+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7536,7 +7391,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-24T23:21:08.628191+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7585,7 +7440,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-24T23:21:08.628191+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7634,7 +7489,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-24T23:21:08.628191+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7683,7 +7538,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-24T23:21:08.628191+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7732,7 +7587,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-27T04:15:59.482568+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7781,7 +7636,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-27T04:15:59.482568+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7830,7 +7685,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-27T04:15:59.482568+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7879,7 +7734,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-01T01:39:52.861353+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7928,7 +7783,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-01T01:39:52.861353+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -7977,7 +7832,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-01T01:39:52.861353+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8026,7 +7881,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-01T01:39:52.861353+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8075,7 +7930,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-01T01:39:52.861353+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8124,7 +7979,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-01T01:39:52.861353+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8173,7 +8028,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8222,7 +8077,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8271,7 +8126,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8320,7 +8175,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-09T01:03:22.991738+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8369,7 +8224,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-09T01:03:22.991738+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8418,7 +8273,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-13T23:37:21.172202+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8467,7 +8322,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-15T01:10:21.474384+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8516,7 +8371,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-21T01:33:54.652595+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8565,7 +8420,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-21T01:33:54.652595+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8614,7 +8469,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-28T02:13:53.635476+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -8661,7 +8516,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-05T00:37:32.592380+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -8706,7 +8561,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-05T00:37:32.592380+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -8719,53 +8574,6 @@
     "verification_reason": "官方/可信平台明确 2027 正式校招",
     "role_family": "其他",
     "entry_type": "岗位"
-  },
-  {
-    "job_id": "edu-sysu:8bf5d394cbf6089e",
-    "dedup_key": "8bf5d394cbf6089e",
-    "source_id": "edu-sysu",
-    "company_name": "泰康之家经营管理有限公司",
-    "title": "泰康之家2027届全球校园招聘宣讲会",
-    "source_type": "public_notice",
-    "location": "中山大学·南校园",
-    "org_type": "research",
-    "industry": "其他",
-    "job_type": "campus",
-    "publish_time": "2026-11-19",
-    "deadline": "",
-    "official_url": "https://career.sysu.edu.cn/teachin/view/id/175301",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "泰康之家2027届全球校园招聘宣讲会",
-    "tags": [
-      "行业:其他",
-      "2027正式秋招",
-      "中山",
-      "缺截止"
-    ],
-    "match_score": 69,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-11-13T03:24:35.502123+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "xjc",
-      "school": "中山大学",
-      "kind": "teachin",
-      "needs_ai": true
-    },
-    "recruitment_type": "2027届正式校园招聘",
-    "education": "",
-    "major": "",
-    "verification_status": "verified",
-    "verification_reason": "官方/可信平台明确 2027 正式校招",
-    "role_family": "其他",
-    "entry_type": "招聘公告/活动"
   },
   {
     "job_id": "edu-sysu:c9493dcdd198198b",
@@ -8798,7 +8606,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-13T03:24:35.502123+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -8845,7 +8653,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -8892,7 +8700,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -8909,26 +8717,26 @@
     "entry_type": "招聘公告/活动"
   },
   {
-    "job_id": "edu-sysu:aa520c9572ec1f74",
-    "dedup_key": "aa520c9572ec1f74",
+    "job_id": "edu-sysu:f3cbb27518847d6f",
+    "dedup_key": "f3cbb27518847d6f",
     "source_id": "edu-sysu",
-    "company_name": "虹科",
-    "title": "虹科2027届秋季校园招聘补录",
+    "company_name": "合肥我们方田教育科技有限公司",
+    "title": "方田教育2027校园招聘空中宣讲会",
     "source_type": "public_notice",
     "location": "中山大学·南校园",
     "org_type": "research",
-    "industry": "其他",
+    "industry": "教育/科研",
     "job_type": "campus",
-    "publish_time": "2027-02-16",
+    "publish_time": "2026-12-12",
     "deadline": "",
-    "official_url": "https://career.sysu.edu.cn/campus/view/id/997937",
+    "official_url": "https://career.sysu.edu.cn/teachin/view/id/175320",
     "backup_url": "",
     "salary": "",
     "employment_type": "",
     "identifier": "",
-    "jd_text": "虹科2027届秋季校园招聘补录",
+    "jd_text": "方田教育2027校园招聘空中宣讲会",
     "tags": [
-      "行业:其他",
+      "行业:教育/科研",
       "2027正式秋招",
       "中山",
       "缺截止"
@@ -8938,13 +8746,13 @@
     "risk_flags": [],
     "status": "new",
     "seen_count": 1,
-    "first_seen": "2026-11-19T04:10:12.386472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "first_seen": "2026-11-20T03:58:03.252378+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
       "school": "中山大学",
-      "kind": "campus",
+      "kind": "teachin",
       "needs_ai": true
     },
     "recruitment_type": "2027届正式校园招聘",
@@ -8953,74 +8761,27 @@
     "verification_status": "verified",
     "verification_reason": "官方/可信平台明确 2027 正式校招",
     "role_family": "其他",
-    "entry_type": "岗位"
+    "entry_type": "招聘公告/活动"
   },
   {
-    "job_id": "edu-sysu:61ccae8e017ab80e",
-    "dedup_key": "61ccae8e017ab80e",
+    "job_id": "edu-sysu:129aef17514b8dd4",
+    "dedup_key": "129aef17514b8dd4",
     "source_id": "edu-sysu",
-    "company_name": "特斯拉",
-    "title": "特斯拉2027届校园招聘",
-    "source_type": "public_notice",
-    "location": "中山大学·南校园",
-    "org_type": "research",
-    "industry": "其他",
-    "job_type": "campus",
-    "publish_time": "2026-12-31",
-    "deadline": "",
-    "official_url": "https://career.sysu.edu.cn/campus/view/id/997932",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "特斯拉2027届校园招聘",
-    "tags": [
-      "行业:其他",
-      "2027正式秋招",
-      "中山",
-      "缺截止"
-    ],
-    "match_score": 69,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-11-18T04:17:40.579163+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "xjc",
-      "school": "中山大学",
-      "kind": "campus",
-      "needs_ai": true
-    },
-    "recruitment_type": "2027届正式校园招聘",
-    "education": "",
-    "major": "",
-    "verification_status": "verified",
-    "verification_reason": "官方/可信平台明确 2027 正式校招",
-    "role_family": "其他",
-    "entry_type": "岗位"
-  },
-  {
-    "job_id": "edu-sysu:b5cf7ebf8074fd23",
-    "dedup_key": "b5cf7ebf8074fd23",
-    "source_id": "edu-sysu",
-    "company_name": "中国再保险（集团）股份有限公司2027校园招聘",
-    "title": "中国再保险（集团）股份有限公司2027校园招聘",
+    "company_name": "高州农商银行2027年校园招聘",
+    "title": "高州农商银行2027年校园招聘",
     "source_type": "public_notice",
     "location": "中山大学·南校园",
     "org_type": "research",
     "industry": "金融",
     "job_type": "campus",
-    "publish_time": "2026-11-30",
+    "publish_time": "2026-12-13",
     "deadline": "",
-    "official_url": "https://career.sysu.edu.cn/campus/view/id/997931",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997946",
     "backup_url": "",
     "salary": "",
     "employment_type": "",
     "identifier": "",
-    "jd_text": "中国再保险（集团）股份有限公司2027校园招聘",
+    "jd_text": "高州农商银行2027年校园招聘",
     "tags": [
       "行业:金融",
       "2027正式秋招",
@@ -9032,8 +8793,55 @@
     "risk_flags": [],
     "status": "new",
     "seen_count": 1,
-    "first_seen": "2026-11-18T04:17:40.579163+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "first_seen": "2026-11-20T03:58:03.252378+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "xjc",
+      "school": "中山大学",
+      "kind": "campus",
+      "needs_ai": true
+    },
+    "recruitment_type": "2027届正式校园招聘",
+    "education": "",
+    "major": "",
+    "verification_status": "verified",
+    "verification_reason": "官方/可信平台明确 2027 正式校招",
+    "role_family": "其他",
+    "entry_type": "岗位"
+  },
+  {
+    "job_id": "edu-sysu:230e1cd214cba061",
+    "dedup_key": "230e1cd214cba061",
+    "source_id": "edu-sysu",
+    "company_name": "虎牙",
+    "title": "虎牙2027届校园招聘",
+    "source_type": "public_notice",
+    "location": "中山大学·南校园",
+    "org_type": "research",
+    "industry": "其他",
+    "job_type": "campus",
+    "publish_time": "2027-01-31",
+    "deadline": "",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997944",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "虎牙2027届校园招聘",
+    "tags": [
+      "行业:其他",
+      "2027正式秋招",
+      "中山",
+      "缺截止"
+    ],
+    "match_score": 69,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-11-20T03:58:03.252378+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -9082,7 +8890,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-31T02:20:11.272200+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -9130,7 +8938,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9179,7 +8987,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-10T23:33:40.237664+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9228,7 +9036,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9277,7 +9085,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9326,7 +9134,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9375,7 +9183,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-21T23:55:39.381371+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9424,7 +9232,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9473,7 +9281,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-13T23:53:55.558673+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9522,7 +9330,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-21T23:55:39.381371+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9571,7 +9379,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9620,7 +9428,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9669,7 +9477,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-21T01:33:54.652595+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9718,7 +9526,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-21T23:55:39.381371+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9767,7 +9575,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9816,7 +9624,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9865,7 +9673,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9914,7 +9722,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-10T23:33:40.237664+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -9963,7 +9771,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-17T23:21:29.725051+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10011,7 +9819,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10059,7 +9867,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10107,7 +9915,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10155,7 +9963,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10203,7 +10011,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10251,7 +10059,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10299,7 +10107,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10347,7 +10155,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10395,7 +10203,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10443,7 +10251,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10491,7 +10299,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-21T23:55:39.381371+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10539,7 +10347,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10587,7 +10395,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10635,7 +10443,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10683,7 +10491,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10731,7 +10539,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10779,7 +10587,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10827,7 +10635,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10875,7 +10683,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10923,7 +10731,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -10971,7 +10779,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11019,7 +10827,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11067,7 +10875,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11115,7 +10923,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11163,7 +10971,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11211,7 +11019,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11259,7 +11067,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11307,7 +11115,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11355,7 +11163,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11403,7 +11211,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11451,7 +11259,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11499,7 +11307,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-10T23:33:40.237664+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11547,7 +11355,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-17T23:21:29.725051+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11595,7 +11403,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-19T23:20:57.434913+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11643,7 +11451,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11691,7 +11499,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-09T01:03:22.991738+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11739,7 +11547,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-09T01:03:22.991738+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -11767,7 +11575,7 @@
     "industry": "半导体/电子",
     "job_type": "campus",
     "publish_time": "2026-08-25",
-    "deadline": "2026-11-26",
+    "deadline": "2026-11-27",
     "official_url": "https://wecruit.hotjob.cn/SU6409ef49bef57c635fd390a6/pb/posDetail.html?postId=6a8d54134315481304d4226e",
     "backup_url": "",
     "salary": "",
@@ -11785,7 +11593,7 @@
     "status": "new",
     "seen_count": 2,
     "first_seen": "2026-08-25T23:23:49.034239+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -11829,7 +11637,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -11873,7 +11681,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -11917,55 +11725,11 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
       "id": "6a7d673d43154813049a54d3"
-    },
-    "recruitment_type": "2027届正式校园招聘",
-    "education": "",
-    "major": "",
-    "verification_status": "verified",
-    "verification_reason": "官方/可信平台明确 2027 正式校招",
-    "role_family": "其他",
-    "entry_type": "岗位"
-  },
-  {
-    "job_id": "cn-catl:0cbf9fa0de826f22",
-    "dedup_key": "0cbf9fa0de826f22",
-    "source_id": "cn-catl",
-    "company_name": "宁德时代",
-    "title": "2027届秋招 电气规划工程师-厂务方向",
-    "source_type": "official",
-    "location": "宁德市",
-    "org_type": "tech",
-    "industry": "汽车/新能源车",
-    "job_type": "campus",
-    "publish_time": "2026-08-13",
-    "deadline": "2027-03-04",
-    "official_url": "https://zhaopin.atlbattery.com/SU5ff30f5b9b0d78e6f4283a0b/pb/posDetail.html?postId=6a7d544668cc6f624f3d1b75",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "职能类 · 硕士及以上 · 5 · 2027届秋季校园招聘",
-    "tags": [
-      "行业:汽车/新能源车",
-      "2027正式秋招",
-      "其他重点城市"
-    ],
-    "match_score": 65,
-    "source_confidence": 100,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-08-13T23:39:24.142645+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "beisen",
-      "id": "6a7d544668cc6f624f3d1b75"
     },
     "recruitment_type": "2027届正式校园招聘",
     "education": "",
@@ -12005,7 +11769,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-13T23:39:24.142645+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -12049,7 +11813,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-13T23:39:24.142645+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -12093,7 +11857,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-13T23:39:24.142645+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -12137,7 +11901,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-13T23:39:24.142645+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -12181,7 +11945,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-13T23:39:24.142645+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -12225,7 +11989,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-13T23:39:24.142645+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -12269,7 +12033,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-13T23:39:24.142645+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -12313,7 +12077,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-13T23:39:24.142645+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -12357,7 +12121,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-13T23:39:24.142645+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -12401,7 +12165,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-13T23:39:24.142645+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "beisen",
@@ -12588,7 +12352,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -12634,7 +12398,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-29T02:25:53.785105+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "workday",
@@ -12827,7 +12591,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-01T00:01:56.964972+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -12877,7 +12641,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -12927,7 +12691,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T00:01:13.331431+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -14216,7 +13980,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-13T23:37:21.172202+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -14263,7 +14027,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-17T05:03:50.638653+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -14278,53 +14042,6 @@
     "verification_reason": "官方/可信平台明确 2027 正式校招",
     "role_family": "其他",
     "entry_type": "招聘公告/活动"
-  },
-  {
-    "job_id": "edu-hnu:c07aff53c8a0b09c",
-    "dedup_key": "c07aff53c8a0b09c",
-    "source_id": "edu-hnu",
-    "company_name": "泰禾股份",
-    "title": "泰禾股份2027校园招聘 科创港校区 · 白泉河2栋105会议室吧",
-    "source_type": "public_notice",
-    "location": "湖南大学",
-    "org_type": "research",
-    "industry": "其他",
-    "job_type": "campus",
-    "publish_time": "",
-    "deadline": "",
-    "official_url": "https://scc.hnu.edu.cn/detail/career?id=730898",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "泰禾股份2027校园招聘 科创港校区 · 白泉河2栋105会议室吧",
-    "tags": [
-      "行业:其他",
-      "2027正式秋招",
-      "其他重点城市",
-      "缺截止"
-    ],
-    "match_score": 61,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "bysjy",
-      "school": "湖南大学",
-      "kind": "career",
-      "needs_ai": true
-    },
-    "recruitment_type": "2027届正式校园招聘",
-    "education": "",
-    "major": "",
-    "verification_status": "verified",
-    "verification_reason": "官方/可信平台明确 2027 正式校招",
-    "role_family": "其他",
-    "entry_type": "岗位"
   },
   {
     "job_id": "edu-hnu:d6c9b577e7f86093",
@@ -14357,58 +14074,12 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-17T05:03:50.638653+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "bysjy",
       "school": "湖南大学",
       "kind": "career",
-      "needs_ai": true
-    },
-    "recruitment_type": "2027届正式校园招聘",
-    "education": "",
-    "major": "",
-    "verification_status": "verified",
-    "verification_reason": "官方/可信平台明确 2027 正式校招",
-    "role_family": "其他",
-    "entry_type": "岗位"
-  },
-  {
-    "job_id": "edu-zju:99c0d90326e1447e",
-    "dedup_key": "99c0d90326e1447e",
-    "source_id": "edu-zju",
-    "company_name": "世界500强企业 泰康之家",
-    "title": "世界500强企业 泰康之家2027届校园招聘",
-    "source_type": "public_notice",
-    "location": "浙江大学·紫金港校区尧坤楼215报告厅",
-    "org_type": "research",
-    "industry": "其他",
-    "job_type": "campus",
-    "publish_time": "2026-11-19",
-    "deadline": "",
-    "official_url": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=07c31ee9e9e292d90eb70204013754e5&dwxxid=JG1431191",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "世界500强企业 泰康之家2027届校园招聘",
-    "tags": [
-      "行业:其他",
-      "2027正式秋招",
-      "其他重点城市",
-      "缺截止"
-    ],
-    "match_score": 61,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-11-06T03:25:44.197905+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "zju-api",
-      "school": "浙江大学",
       "needs_ai": true
     },
     "recruitment_type": "2027届正式校园招聘",
@@ -14450,7 +14121,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-18T04:17:40.579163+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -14464,6 +14135,52 @@
     "verification_reason": "官方/可信平台明确 2027 正式校招",
     "role_family": "其他",
     "entry_type": "招聘公告/活动"
+  },
+  {
+    "job_id": "edu-zju:99c0d90326e1447e",
+    "dedup_key": "99c0d90326e1447e",
+    "source_id": "edu-zju",
+    "company_name": "世界500强企业 泰康之家",
+    "title": "世界500强企业 泰康之家2027届校园招聘",
+    "source_type": "public_notice",
+    "location": "浙江大学·紫金港校区尧坤楼215报告厅",
+    "org_type": "research",
+    "industry": "其他",
+    "job_type": "campus",
+    "publish_time": "2026-11-19",
+    "deadline": "",
+    "official_url": "https://www.career.zju.edu.cn/jyxt/sczp/xjhgl/ckXjhgwXq.zf?xjhbh=07c31ee9e9e292d90eb70204013754e5&dwxxid=JG1431191",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "世界500强企业 泰康之家2027届校园招聘",
+    "tags": [
+      "行业:其他",
+      "2027正式秋招",
+      "其他重点城市",
+      "缺截止"
+    ],
+    "match_score": 61,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-11-06T03:25:44.197905+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "zju-api",
+      "school": "浙江大学",
+      "needs_ai": true
+    },
+    "recruitment_type": "2027届正式校园招聘",
+    "education": "",
+    "major": "",
+    "verification_status": "verified",
+    "verification_reason": "官方/可信平台明确 2027 正式校招",
+    "role_family": "其他",
+    "entry_type": "岗位"
   },
   {
     "job_id": "edu-zju:a347c24335a0efec",
@@ -14496,7 +14213,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -14542,7 +14259,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -14588,7 +14305,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -14634,7 +14351,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-10T04:36:57.569912+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -14680,7 +14397,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-02T02:29:03.649937+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -14726,7 +14443,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-01T02:13:00.870289+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -14772,7 +14489,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-06T03:25:44.197905+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -14818,7 +14535,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-31T02:20:11.272200+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -14864,7 +14581,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-31T02:20:11.272200+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -14910,7 +14627,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-10T04:36:57.569912+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -14956,7 +14673,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-09T23:27:15.843984+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -15004,7 +14721,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -15053,7 +14770,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-01T00:01:56.964972+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -15102,7 +14819,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-01T00:01:56.964972+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -15151,7 +14868,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-01T00:01:56.964972+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -15200,7 +14917,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -15249,7 +14966,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -15298,7 +15015,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T00:01:13.331431+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -15347,7 +15064,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-05T00:01:13.331431+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -15396,7 +15113,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -15444,7 +15161,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -15494,7 +15211,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -15545,7 +15262,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-18T23:23:58.066621+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -15591,7 +15308,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-12T03:48:19.086654+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -15642,7 +15359,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T05:14:48.317397+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -15688,7 +15405,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-28T23:25:29.135854+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -15734,7 +15451,7 @@
     "status": "new",
     "seen_count": 2,
     "first_seen": "2026-09-11T00:49:59.284522+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -15780,7 +15497,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-20T23:23:10.216775+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -15825,7 +15542,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-21T23:24:26.797449+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -15874,7 +15591,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-05T03:29:00.654106+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -15921,7 +15638,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-16T02:43:14.056100+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "ncss",
@@ -15971,7 +15688,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-06T03:25:44.197905+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -16066,7 +15783,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-23T23:21:30.660081+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "gov_notice",
@@ -16111,7 +15828,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-09T02:38:46.140768+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -16160,7 +15877,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-09T02:38:46.140768+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -16210,7 +15927,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-16T02:43:14.056100+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "mohrss",
@@ -16261,7 +15978,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -16311,7 +16028,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -16361,7 +16078,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -16411,7 +16128,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -16461,7 +16178,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -16511,7 +16228,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-04T00:47:44.482352+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -16562,7 +16279,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-11T23:38:53.375896+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -16612,7 +16329,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-15T23:57:31.560749+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -16662,7 +16379,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-14T23:35:54.961901+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -16711,7 +16428,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -16758,7 +16475,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-30T23:25:10.644139+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -16807,7 +16524,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-23T23:59:35.936845+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -16856,7 +16573,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -16905,7 +16622,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -16954,7 +16671,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17003,7 +16720,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17052,7 +16769,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17101,7 +16818,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17150,7 +16867,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17199,7 +16916,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17248,7 +16965,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17297,7 +17014,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17346,7 +17063,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17395,7 +17112,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17444,7 +17161,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17493,7 +17210,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17542,7 +17259,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17591,7 +17308,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17640,7 +17357,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17689,7 +17406,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17738,7 +17455,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17787,7 +17504,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17836,7 +17553,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17885,7 +17602,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17934,7 +17651,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -17983,7 +17700,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18032,7 +17749,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-15T23:57:31.560749+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18081,7 +17798,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-15T23:57:31.560749+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18130,7 +17847,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-14T23:52:52.096160+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18179,7 +17896,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-15T23:57:31.560749+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18228,7 +17945,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-15T23:57:31.560749+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18277,7 +17994,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-15T23:57:31.560749+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18326,7 +18043,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-15T23:57:31.560749+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18375,7 +18092,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18424,7 +18141,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18473,7 +18190,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18522,7 +18239,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18571,7 +18288,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18620,7 +18337,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18669,7 +18386,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18718,7 +18435,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18767,7 +18484,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18816,7 +18533,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18865,7 +18582,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18914,7 +18631,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -18963,7 +18680,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19012,7 +18729,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19061,7 +18778,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19110,7 +18827,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-25T00:02:45.066798+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19159,7 +18876,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19208,7 +18925,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19257,7 +18974,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19306,7 +19023,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19355,7 +19072,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-28T23:57:21.812623+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19404,7 +19121,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-31T00:00:38.270830+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19453,7 +19170,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-07-31T00:00:38.270830+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19502,7 +19219,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-01T00:01:56.964972+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19551,7 +19268,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-17T23:21:29.725051+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19600,7 +19317,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-08-17T23:21:29.725051+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19649,7 +19366,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-09-09T01:03:22.991738+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19698,7 +19415,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19747,7 +19464,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -19795,7 +19512,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-16T02:43:14.056100+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -19845,7 +19562,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-18T04:17:40.579163+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -19892,7 +19609,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-09T23:27:15.843984+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -19907,6 +19624,149 @@
     "verification_reason": "明确 2027，但正式秋招性质待核实",
     "role_family": "其他",
     "entry_type": "岗位"
+  },
+  {
+    "job_id": "edu-sysu:b3a4bf45f85084db",
+    "dedup_key": "b3a4bf45f85084db",
+    "source_id": "edu-sysu",
+    "company_name": "福州市",
+    "title": "福州市2027届选培生选拔公告",
+    "source_type": "public_notice",
+    "location": "中山大学·南校园",
+    "org_type": "research",
+    "industry": "其他",
+    "job_type": "campus",
+    "publish_time": "2026-12-16",
+    "deadline": "",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997945",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "福州市2027届选培生选拔公告",
+    "tags": [
+      "行业:其他",
+      "待核实",
+      "中山",
+      "缺截止"
+    ],
+    "match_score": 29,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-11-20T03:58:03.252378+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "xjc",
+      "school": "中山大学",
+      "kind": "campus",
+      "needs_ai": true
+    },
+    "recruitment_type": "待核实线索",
+    "education": "",
+    "major": "",
+    "verification_status": "lead",
+    "verification_reason": "明确 2027，但正式秋招性质待核实",
+    "role_family": "其他",
+    "entry_type": "岗位"
+  },
+  {
+    "job_id": "edu-sysu:a3a75e78f972b0fa",
+    "dedup_key": "a3a75e78f972b0fa",
+    "source_id": "edu-sysu",
+    "company_name": "江西省水利投资集团有限公司2027年第一批次校园招聘公告",
+    "title": "江西省水利投资集团有限公司2027年第一批次校园招聘公告",
+    "source_type": "public_notice",
+    "location": "中山大学·南校园",
+    "org_type": "research",
+    "industry": "其他",
+    "job_type": "campus",
+    "publish_time": "2026-12-09",
+    "deadline": "",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997941",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "江西省水利投资集团有限公司2027年第一批次校园招聘公告",
+    "tags": [
+      "行业:其他",
+      "待核实",
+      "中山",
+      "非2027正式秋招",
+      "缺截止"
+    ],
+    "match_score": 29,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-11-20T03:58:03.252378+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "xjc",
+      "school": "中山大学",
+      "kind": "campus",
+      "needs_ai": true
+    },
+    "recruitment_type": "待核实线索",
+    "education": "",
+    "major": "",
+    "verification_status": "lead",
+    "verification_reason": "有校招信号但无法确认 2027 届",
+    "role_family": "其他",
+    "entry_type": "招聘公告/活动"
+  },
+  {
+    "job_id": "edu-sysu:9c7463cddabccb69",
+    "dedup_key": "9c7463cddabccb69",
+    "source_id": "edu-sysu",
+    "company_name": "山东省农村信用社联合社",
+    "title": "山东省农村信用社联合社2027年度信息科技类应届毕业生校园招聘公告（面向中山大学）",
+    "source_type": "public_notice",
+    "location": "中山大学·南校园",
+    "org_type": "research",
+    "industry": "其他",
+    "job_type": "campus",
+    "publish_time": "2026-12-19",
+    "deadline": "",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997940",
+    "backup_url": "",
+    "salary": "",
+    "employment_type": "",
+    "identifier": "",
+    "jd_text": "山东省农村信用社联合社2027年度信息科技类应届毕业生校园招聘公告（面向中山大学）",
+    "tags": [
+      "行业:其他",
+      "待核实",
+      "中山",
+      "非2027正式秋招",
+      "缺截止"
+    ],
+    "match_score": 29,
+    "source_confidence": 70,
+    "risk_flags": [],
+    "status": "new",
+    "seen_count": 1,
+    "first_seen": "2026-11-20T03:58:03.252378+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
+    "gone": false,
+    "extra": {
+      "platform": "xjc",
+      "school": "中山大学",
+      "kind": "campus",
+      "needs_ai": true
+    },
+    "recruitment_type": "待核实线索",
+    "education": "",
+    "major": "",
+    "verification_status": "lead",
+    "verification_reason": "有校招信号但无法确认 2027 届",
+    "role_family": "其他",
+    "entry_type": "招聘公告/活动"
   },
   {
     "job_id": "edu-sysu:e798cc291380ab0c",
@@ -19939,7 +19799,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-18T04:17:40.579163+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -19986,7 +19846,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-16T02:43:14.056100+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -20132,7 +19992,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-06T03:25:44.197905+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -20180,7 +20040,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-19T04:10:12.386472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -20328,7 +20188,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-06-22T11:22:58.375723+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -20376,7 +20236,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-06T03:25:44.197905+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "tencent_campus",
@@ -20425,7 +20285,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-02T02:29:03.649937+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -20472,7 +20332,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-19T04:10:12.386472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "mohrss",
@@ -20521,7 +20381,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -20571,7 +20431,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -20621,7 +20481,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-01T02:13:00.870289+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -21251,26 +21111,26 @@
     "entry_type": "岗位"
   },
   {
-    "job_id": "edu-csu:9fe4268c1440d0e8",
-    "dedup_key": "9fe4268c1440d0e8",
-    "source_id": "edu-csu",
-    "company_name": "福州市卫健系统",
-    "title": "福州市卫健系统校园招聘引才中南大学湘雅医学院专场",
+    "job_id": "edu-hnu:64c898779f1f5ee7",
+    "dedup_key": "64c898779f1f5ee7",
+    "source_id": "edu-hnu",
+    "company_name": "关于查询辽宁省",
+    "title": "关于查询辽宁省2027年度定向选调应届 优秀大学毕业生笔试成绩的通知",
     "source_type": "public_notice",
-    "location": "中南大学·南大学新校区·（岳麓山校区·1（杏林校区",
+    "location": "湖南大学",
     "org_type": "research",
-    "industry": "其他",
+    "industry": "政府/事业单位",
     "job_type": "campus",
     "publish_time": "2026-11-20",
     "deadline": "",
-    "official_url": "https://career.csu.edu.cn/teachin/view/id/119328",
+    "official_url": "https://scc.hnu.edu.cn/detail/news?id=1861654&type_id=4124",
     "backup_url": "",
     "salary": "",
     "employment_type": "",
     "identifier": "",
-    "jd_text": "福州市卫健系统校园招聘引才中南大学湘雅医学院专场",
+    "jd_text": "关于查询辽宁省2027年度定向选调应届 优秀大学毕业生笔试成绩的通知",
     "tags": [
-      "行业:其他",
+      "行业:政府/事业单位",
       "待核实",
       "其他重点城市",
       "非2027正式秋招",
@@ -21281,13 +21141,13 @@
     "risk_flags": [],
     "status": "new",
     "seen_count": 1,
-    "first_seen": "2026-11-19T04:10:12.386472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "first_seen": "2026-11-20T03:58:03.252378+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
-      "platform": "xjc",
-      "school": "中南大学",
-      "kind": "teachin",
+      "platform": "bysjy",
+      "school": "湖南大学",
+      "kind": "news",
       "needs_ai": true
     },
     "recruitment_type": "待核实线索",
@@ -21330,7 +21190,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-17T05:03:50.638653+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "bysjy",
@@ -21378,7 +21238,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-11T02:45:52.517861+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "bysjy",
@@ -21425,7 +21285,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "bysjy",
@@ -21473,7 +21333,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-19T04:10:12.386472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "bysjy",
@@ -21520,7 +21380,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-01T02:13:00.870289+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -21567,7 +21427,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-01T02:13:00.870289+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "xjc",
@@ -21582,54 +21442,6 @@
     "verification_reason": "明确 2027，但正式秋招性质待核实",
     "role_family": "其他",
     "entry_type": "招聘公告/活动"
-  },
-  {
-    "job_id": "edu-xidian:4b23113e64d62568",
-    "dedup_key": "4b23113e64d62568",
-    "source_id": "edu-xidian",
-    "company_name": "与优秀同行 | 方田教育西安电子科技大学2026校园招聘简章",
-    "title": "与优秀同行 | 方田教育西安电子科技大学2026校园招聘简章 进行中 单位：上海我们方田科技有限公司 时间：2026-11-19",
-    "source_type": "public_notice",
-    "location": "job.xidian.edu.cn",
-    "org_type": "research",
-    "industry": "教育/科研",
-    "job_type": "campus",
-    "publish_time": "2027-01-19",
-    "deadline": "",
-    "official_url": "https://job.xidian.edu.cn/campus/view/id/758625",
-    "backup_url": "",
-    "salary": "",
-    "employment_type": "",
-    "identifier": "",
-    "jd_text": "与优秀同行 | 方田教育西安电子科技大学2026校园招聘简章 进行中 单位：上海我们方田科技有限公司 时间：2026-11-19",
-    "tags": [
-      "行业:教育/科研",
-      "待核实",
-      "其他重点城市",
-      "非2027正式秋招",
-      "缺截止"
-    ],
-    "match_score": 21,
-    "source_confidence": 70,
-    "risk_flags": [],
-    "status": "new",
-    "seen_count": 1,
-    "first_seen": "2026-11-19T04:10:12.386472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
-    "gone": false,
-    "extra": {
-      "platform": "xjc",
-      "school": "job.xidian.edu.cn",
-      "kind": "campus",
-      "needs_ai": true
-    },
-    "recruitment_type": "待核实线索",
-    "education": "",
-    "major": "",
-    "verification_status": "lead",
-    "verification_reason": "有校招信号但无法确认 2027 届",
-    "role_family": "其他",
-    "entry_type": "岗位"
   },
   {
     "job_id": "edu-zju:42edc4ab86a927ca",
@@ -21663,7 +21475,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-17T05:03:50.638653+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -21710,7 +21522,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -21757,7 +21569,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-06T03:25:44.197905+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -21804,7 +21616,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -21850,7 +21662,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -21896,7 +21708,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-16T02:43:14.056100+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -21942,7 +21754,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -21988,7 +21800,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-05T03:29:00.654106+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -22034,7 +21846,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-28T02:13:53.635476+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -22080,7 +21892,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-24T01:34:20.967369+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -22126,7 +21938,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-23T01:29:50.631535+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -22172,7 +21984,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-22T01:30:16.216257+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -22218,7 +22030,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-20T01:48:54.283442+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -22264,7 +22076,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-12T23:29:14.615505+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -22310,7 +22122,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-08T23:27:55.103095+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -22357,7 +22169,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-10T23:25:46.188919+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "zju-api",
@@ -22403,7 +22215,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "ncss",
@@ -22452,7 +22264,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "ncss",
@@ -22501,7 +22313,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "ncss",
@@ -22550,7 +22362,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "ncss",
@@ -22600,7 +22412,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-31T02:20:11.272200+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "ncss",
@@ -22649,7 +22461,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -22698,7 +22510,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -22747,7 +22559,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -22796,7 +22608,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -22845,7 +22657,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -22894,7 +22706,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -22943,7 +22755,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-27T02:04:15.292346+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -22992,7 +22804,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-27T02:04:15.292346+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23041,7 +22853,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23090,7 +22902,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23139,7 +22951,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23188,7 +23000,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23237,7 +23049,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23286,7 +23098,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-18T01:01:06.029763+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23335,7 +23147,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-18T01:01:06.029763+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23384,7 +23196,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-18T01:01:06.029763+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23433,7 +23245,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-10T04:36:57.569912+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23482,7 +23294,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-10T04:36:57.569912+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23531,7 +23343,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-10T04:36:57.569912+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23580,7 +23392,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-10T04:36:57.569912+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23629,7 +23441,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-10T04:36:57.569912+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23678,7 +23490,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-10T04:36:57.569912+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23727,7 +23539,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-10T04:36:57.569912+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23776,7 +23588,7 @@
     "status": "new",
     "seen_count": 2,
     "first_seen": "2026-11-11T02:45:52.517861+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23825,7 +23637,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-11T02:45:52.517861+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23874,7 +23686,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-11T02:45:52.517861+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23923,7 +23735,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-12T03:48:19.086654+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -23972,7 +23784,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24021,7 +23833,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24070,7 +23882,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-14T03:13:06.520472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24119,7 +23931,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-15T02:38:10.409457+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24168,7 +23980,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-15T02:38:10.409457+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24217,7 +24029,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-15T02:38:10.409457+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24266,7 +24078,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-15T02:38:10.409457+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24315,7 +24127,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-16T02:43:14.056100+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24364,7 +24176,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-18T04:17:40.579163+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24413,7 +24225,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-19T04:10:12.386472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24462,7 +24274,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-19T04:10:12.386472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24511,7 +24323,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-19T04:10:12.386472+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24560,7 +24372,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-11-04T02:59:54.208186+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
@@ -24609,7 +24421,7 @@
     "status": "new",
     "seen_count": 1,
     "first_seen": "2026-10-16T01:19:29.058930+00:00",
-    "last_seen": "2026-11-19T04:10:12.386472+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
     "gone": false,
     "extra": {
       "platform": "iguopin",
