@@ -1,5 +1,65 @@
 [
   {
+    "dedup_key": "7a268f3b78e1e033",
+    "source_id": "edu-csu",
+    "company_name": "晓禾教育",
+    "title": "晓禾教育2027届校园招聘空中宣讲会",
+    "location": "中南大学·南大学新校区·（岳麓山校区·1（杏林校区",
+    "official_url": "https://career.csu.edu.cn/teachin/view/id/119500",
+    "first_seen": "2026-11-17T05:03:50.638653+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
+    "archived_at": "2026-11-21T03:57:50.790878+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "b888f797776ae1a6",
+    "source_id": "gov-mohrss",
+    "company_name": "弘元绿色能源股份有限公司",
+    "title": "国内/海外销售",
+    "location": "江苏省滨湖区",
+    "official_url": "https://www.js365job.com/recruitment/findJobDetail?jobId=2122140563158536193&amp;companyId=1727503728146354177",
+    "first_seen": "2026-11-20T03:58:03.252378+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
+    "archived_at": "2026-11-21T03:57:50.790878+00:00",
+    "match_score": 79
+  },
+  {
+    "dedup_key": "b3a4bf45f85084db",
+    "source_id": "edu-sysu",
+    "company_name": "福州市",
+    "title": "福州市2027届选培生选拔公告",
+    "location": "中山大学·南校园",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997945",
+    "first_seen": "2026-11-20T03:58:03.252378+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
+    "archived_at": "2026-11-21T03:57:50.790878+00:00",
+    "match_score": 29
+  },
+  {
+    "dedup_key": "a3a75e78f972b0fa",
+    "source_id": "edu-sysu",
+    "company_name": "江西省水利投资集团有限公司2027年第一批次校园招聘公告",
+    "title": "江西省水利投资集团有限公司2027年第一批次校园招聘公告",
+    "location": "中山大学·南校园",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997941",
+    "first_seen": "2026-11-20T03:58:03.252378+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
+    "archived_at": "2026-11-21T03:57:50.790878+00:00",
+    "match_score": 29
+  },
+  {
+    "dedup_key": "9c7463cddabccb69",
+    "source_id": "edu-sysu",
+    "company_name": "山东省农村信用社联合社",
+    "title": "山东省农村信用社联合社2027年度信息科技类应届毕业生校园招聘公告（面向中山大学）",
+    "location": "中山大学·南校园",
+    "official_url": "https://career.sysu.edu.cn/campus/view/id/997940",
+    "first_seen": "2026-11-20T03:58:03.252378+00:00",
+    "last_seen": "2026-11-20T03:58:03.252378+00:00",
+    "archived_at": "2026-11-21T03:57:50.790878+00:00",
+    "match_score": 29
+  },
+  {
     "dedup_key": "0dd6b1f1c4c9dcde",
     "source_id": "nk-intern",
     "company_name": "牛客网·实习",
@@ -6130,18 +6190,6 @@
     "last_seen": "2026-10-31T02:20:11.272200+00:00",
     "archived_at": "2026-11-01T02:13:00.870289+00:00",
     "match_score": 19
-  },
-  {
-    "dedup_key": "7a268f3b78e1e033",
-    "source_id": "edu-csu",
-    "company_name": "晓禾教育",
-    "title": "晓禾教育2027届校园招聘空中宣讲会",
-    "location": "中南大学·南大学新校区·（岳麓山校区·1（杏林校区",
-    "official_url": "https://career.csu.edu.cn/teachin/view/id/119394",
-    "first_seen": "2026-10-29T02:25:53.785105+00:00",
-    "last_seen": "2026-10-30T02:35:17.136927+00:00",
-    "archived_at": "2026-10-31T02:20:11.272200+00:00",
-    "match_score": 61
   },
   {
     "dedup_key": "604c8c4dd66419c3",
@@ -119950,53 +119998,5 @@
     "last_seen": "2026-09-08T00:54:44.624250+00:00",
     "archived_at": "2026-09-09T01:03:22.991738+00:00",
     "match_score": 154
-  },
-  {
-    "dedup_key": "f6d8a0f2282e4cc8",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "异构加速框架工程师（深圳/北京/上海）",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=1958073231227375616",
-    "first_seen": "2026-09-05T00:37:32.592380+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 153
-  },
-  {
-    "dedup_key": "fdecd64f53c16c1c",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "美团会员营销产品经理",
-    "location": "成都市、北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4753157856",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 153
-  },
-  {
-    "dedup_key": "5ab010a9a57cb3a7",
-    "source_id": "cn-jd",
-    "company_name": "京东",
-    "title": "运营经理岗",
-    "location": "广东省",
-    "official_url": "https://zhaopin.jd.com/web/job/job_detail/171668",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 152
-  },
-  {
-    "dedup_key": "686b11994f4d90d8",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "小象超市-华东分区经理",
-    "location": "上海市、无锡市、苏州市、南通市、常州市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4754091914",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 152
   }
 ]
