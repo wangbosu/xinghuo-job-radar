@@ -1,5 +1,29 @@
 [
   {
+    "dedup_key": "81bd6c3c79811aa4",
+    "source_id": "edu-sysu",
+    "company_name": "大连医科大学附属第二医院",
+    "title": "大连医科大学附属第二医院2027届校园招聘宣讲会",
+    "location": "中山大学·南校园",
+    "official_url": "https://career.sysu.edu.cn/teachin/view/id/175322",
+    "first_seen": "2026-11-14T03:13:06.520472+00:00",
+    "last_seen": "2026-11-21T03:57:50.790878+00:00",
+    "archived_at": "2026-11-22T03:09:05.333174+00:00",
+    "match_score": 69
+  },
+  {
+    "dedup_key": "a23b6f455c3d50e9",
+    "source_id": "gov-mohrss",
+    "company_name": "张家港市久斯特机械设备有限公司",
+    "title": "工程/机械绘图员",
+    "location": "贵州省张家港市",
+    "official_url": "https://gzggzpw.gzsrs.cn/#/positionInfo?acb210=346349321965358095",
+    "first_seen": "2026-11-21T03:57:50.790878+00:00",
+    "last_seen": "2026-11-21T03:57:50.790878+00:00",
+    "archived_at": "2026-11-22T03:09:05.333174+00:00",
+    "match_score": 21
+  },
+  {
     "dedup_key": "7a268f3b78e1e033",
     "source_id": "edu-csu",
     "company_name": "晓禾教育",
@@ -119970,30 +119994,6 @@
     "title": "AI产品经理（日常实习）",
     "location": "深圳总部",
     "official_url": "https://careers.tencent.com/jobdesc.html?postId=1284862486247711744",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 154
-  },
-  {
-    "dedup_key": "a7f3b0fe4117e6f9",
-    "source_id": "cn-netease",
-    "company_name": "网易",
-    "title": "玩法策划（活动方向-燕云十六声）",
-    "location": "杭州市",
-    "official_url": "https://hr.163.com/job-detail.html?positionId=76745",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 154
-  },
-  {
-    "dedup_key": "08c4dd2e5675fda0",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "具身智能渠道运营",
-    "location": "深圳市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4743793471",
     "first_seen": "2026-09-08T00:54:44.624250+00:00",
     "last_seen": "2026-09-08T00:54:44.624250+00:00",
     "archived_at": "2026-09-09T01:03:22.991738+00:00",
