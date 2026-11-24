@@ -1,6 +1,6 @@
-# Job Radar｜2026-11-23 新增机会
+# Job Radar｜2026-11-24 新增机会
 
-未推新增 6 条，其中 27届 4 条。
+未推新增 11 条，其中 27届 5 条。
 重点候选 0 条；非互联网产品/数据 0 条；7天内截止 0 条。
 
 信息台：https://wangbosu.github.io/xinghuo-job-radar/

@@ -1,5 +1,53 @@
 [
   {
+    "dedup_key": "b712453c810e296d",
+    "source_id": "nk-intern",
+    "company_name": "牛客网·实习",
+    "title": "AI Infra研发工程师【2027届云弧计划】",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/447185?deliverSource=1&pageSource=5001&channel=npJobTab&logid=763c84b504d0fb7b02e0efbbcdc2c987",
+    "first_seen": "2026-11-03T03:59:22.869174+00:00",
+    "last_seen": "2026-11-20T04:10:47.400783+00:00",
+    "archived_at": "2026-11-24T07:01:48.480453+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "4ab8a45a78c14dcb",
+    "source_id": "edu-fudan",
+    "company_name": "银行间市场清算所股份有限公司2027年度",
+    "title": "银行间市场清算所股份有限公司2027年度校园招聘公告",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=936517ad-444f-3dac-00d6-399c1fc5dea1",
+    "first_seen": "2026-11-20T04:10:47.400783+00:00",
+    "last_seen": "2026-11-20T04:10:47.400783+00:00",
+    "archived_at": "2026-11-24T07:01:48.480453+00:00",
+    "match_score": 26
+  },
+  {
+    "dedup_key": "e93366d8039a220e",
+    "source_id": "edu-fudan",
+    "company_name": "中基集团-宁波中基汇程资源有限公司2027届秋季",
+    "title": "中基集团-宁波中基汇程资源有限公司2027届秋季招聘公告",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=066ad1d4-fcc9-49d5-f5f7-0c077bfbdd98",
+    "first_seen": "2026-11-20T04:10:47.400783+00:00",
+    "last_seen": "2026-11-20T04:10:47.400783+00:00",
+    "archived_at": "2026-11-24T07:01:48.480453+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "5b17b202b65aa47f",
+    "source_id": "nk-intern",
+    "company_name": "牛客网·实习",
+    "title": "AI工程师-华为秋招",
+    "location": "上海",
+    "official_url": "https://www.nowcoder.com/jobs/detail/389093?deliverSource=1&pageSource=5001&channel=npJobTab&logid=763c84b504d0fb7b02e0efbbcdc2c987",
+    "first_seen": "2026-11-20T04:10:47.400783+00:00",
+    "last_seen": "2026-11-20T04:10:47.400783+00:00",
+    "archived_at": "2026-11-24T07:01:48.480453+00:00",
+    "match_score": 16
+  },
+  {
     "dedup_key": "b888f797776ae1a6",
     "source_id": "gov-mohrss",
     "company_name": "弘元绿色能源股份有限公司",
@@ -11086,18 +11134,6 @@
     "last_seen": "2026-10-15T23:51:59.309714+00:00",
     "archived_at": "2026-10-20T02:00:20.658969+00:00",
     "match_score": 56
-  },
-  {
-    "dedup_key": "b712453c810e296d",
-    "source_id": "nk-intern",
-    "company_name": "牛客网·实习",
-    "title": "AI Infra研发工程师【2027届云弧计划】",
-    "location": "上海",
-    "official_url": "https://www.nowcoder.com/jobs/detail/447185?deliverSource=1&pageSource=5001&channel=npJobTab&logid=bb49fe890cd04b2683f9bb4231e1b296",
-    "first_seen": "2026-10-15T23:51:59.309714+00:00",
-    "last_seen": "2026-10-15T23:51:59.309714+00:00",
-    "archived_at": "2026-10-20T02:00:20.658969+00:00",
-    "match_score": 21
   },
   {
     "dedup_key": "7790fcfb77260576",
@@ -119962,41 +119998,5 @@
     "last_seen": "2026-09-08T00:54:44.624250+00:00",
     "archived_at": "2026-09-09T01:03:22.991738+00:00",
     "match_score": 169
-  },
-  {
-    "dedup_key": "086153739cf7458d",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "Product Operations",
-    "location": "利雅得",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4751938451",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 169
-  },
-  {
-    "dedup_key": "8ec3ff57a010736e",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "腾讯游戏-大模型推理性能优化工程师/专家  ",
-    "location": "杭州",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2072330945872183296",
-    "first_seen": "2026-09-05T00:37:32.592380+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 168
-  },
-  {
-    "dedup_key": "8c6276ae08d88607",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "开源大模型生态增长实习生",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4747262180",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 167
   }
 ]
