@@ -2,7 +2,7 @@
   "ashby-posthog": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-24T07:01:48.549492+00:00",
+    "last_success_at": "2026-11-27T05:15:20.143185+00:00",
     "last_error": "",
     "last_count": 9,
     "peak_count": 21,
@@ -11,9 +11,9 @@
   "gh-gitlab": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-24T07:01:48.863884+00:00",
+    "last_success_at": "2026-11-27T05:15:20.429177+00:00",
     "last_error": "",
-    "last_count": 251,
+    "last_count": 243,
     "peak_count": 251,
     "alert": ""
   },
@@ -83,7 +83,7 @@
   "edu-fudan": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-24T07:02:20.347666+00:00",
+    "last_success_at": "2026-11-27T05:16:05.302808+00:00",
     "last_error": "",
     "last_count": 40,
     "peak_count": 40,
@@ -92,7 +92,7 @@
   "edu-nju": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-24T07:02:36.858186+00:00",
+    "last_success_at": "2026-11-27T05:16:19.016698+00:00",
     "last_error": "",
     "last_count": 0,
     "peak_count": 11,
@@ -101,9 +101,9 @@
   "edu-sjtu": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-24T07:03:06.909403+00:00",
+    "last_success_at": "2026-11-27T05:16:49.067073+00:00",
     "last_error": "",
-    "last_count": 61,
+    "last_count": 62,
     "peak_count": 181,
     "alert": ""
   },
@@ -155,7 +155,7 @@
   "cn-nio": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-24T07:01:59.089096+00:00",
+    "last_success_at": "2026-11-27T05:15:51.205382+00:00",
     "last_error": "",
     "last_count": 10,
     "peak_count": 10,
@@ -290,27 +290,27 @@
   "nk-intern": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-24T07:05:00.543674+00:00",
+    "last_success_at": "2026-11-27T05:17:46.782841+00:00",
     "last_error": "",
-    "last_count": 19,
+    "last_count": 20,
     "peak_count": 20,
     "alert": ""
   },
   "nk-campus": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-24T07:06:00.226580+00:00",
+    "last_success_at": "2026-11-27T05:18:46.027539+00:00",
     "last_error": "",
-    "last_count": 19,
+    "last_count": 18,
     "peak_count": 22,
     "alert": ""
   },
   "sxs-intern": {
     "consecutive_failures": 0,
     "status": "active",
-    "last_success_at": "2026-11-24T07:06:24.826355+00:00",
+    "last_success_at": "2026-11-27T05:19:11.506892+00:00",
     "last_error": "",
-    "last_count": 141,
+    "last_count": 152,
     "peak_count": 155,
     "alert": ""
   },

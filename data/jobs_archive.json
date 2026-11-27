@@ -1,5 +1,65 @@
 [
   {
+    "dedup_key": "873f0b27bf779382",
+    "source_id": "edu-fudan",
+    "company_name": "东莞信托有限公司2027届",
+    "title": "东莞信托有限公司2027届校园招聘",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/xiaozhao.html?type=1&id=07de8af1-1b36-dcf0-d2bb-3336519e2cb9",
+    "first_seen": "2026-11-24T07:01:48.480453+00:00",
+    "last_seen": "2026-11-24T07:01:48.480453+00:00",
+    "archived_at": "2026-11-27T05:15:20.091618+00:00",
+    "match_score": 61
+  },
+  {
+    "dedup_key": "642ab6eceec29eed",
+    "source_id": "edu-fudan",
+    "company_name": "东莞信托有限公司",
+    "title": "管理培训生（财富营销方向）",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/zhiweiDetail.html?jobtype=1&id=9dbd42ec-d274-560e-835d-c7b608612e51",
+    "first_seen": "2026-11-24T07:01:48.480453+00:00",
+    "last_seen": "2026-11-24T07:01:48.480453+00:00",
+    "archived_at": "2026-11-27T05:15:20.091618+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "e87dce57d29deb8b",
+    "source_id": "edu-fudan",
+    "company_name": "东莞信托有限公司",
+    "title": "管理培训生（投资业务方向）",
+    "location": "复旦大学",
+    "official_url": "https://career.fudan.edu.cn/Zhaopin/zhiweiDetail.html?jobtype=1&id=8edad315-de3c-45b1-3c83-a43c09a4c226",
+    "first_seen": "2026-11-24T07:01:48.480453+00:00",
+    "last_seen": "2026-11-24T07:01:48.480453+00:00",
+    "archived_at": "2026-11-27T05:15:20.091618+00:00",
+    "match_score": 21
+  },
+  {
+    "dedup_key": "08928541f0f7d1da",
+    "source_id": "nk-campus",
+    "company_name": "牛客网·校招",
+    "title": "技术支持-2026届校招(J14916)",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/434207?deliverSource=1&pageSource=5001&channel=npJobTab&logid=a8a24468584c0be08eb45f1d39e9721b",
+    "first_seen": "2026-11-24T07:01:48.480453+00:00",
+    "last_seen": "2026-11-24T07:01:48.480453+00:00",
+    "archived_at": "2026-11-27T05:15:20.091618+00:00",
+    "match_score": 16
+  },
+  {
+    "dedup_key": "b91e116ebb7c767b",
+    "source_id": "nk-campus",
+    "company_name": "牛客网·校招",
+    "title": "测试工程师-2026届校招(J14914)",
+    "location": "北京",
+    "official_url": "https://www.nowcoder.com/jobs/detail/434208?deliverSource=1&pageSource=5001&channel=npJobTab&logid=a8a24468584c0be08eb45f1d39e9721b",
+    "first_seen": "2026-11-24T07:01:48.480453+00:00",
+    "last_seen": "2026-11-24T07:01:48.480453+00:00",
+    "archived_at": "2026-11-27T05:15:20.091618+00:00",
+    "match_score": 16
+  },
+  {
     "dedup_key": "f82ddef1cb8a7279",
     "source_id": "cn-catl",
     "company_name": "宁德时代",
@@ -119938,65 +119998,5 @@
     "last_seen": "2026-09-08T00:54:44.624250+00:00",
     "archived_at": "2026-09-09T01:03:22.991738+00:00",
     "match_score": 109
-  },
-  {
-    "dedup_key": "e61af72de6baad17",
-    "source_id": "cn-meituan-campus",
-    "company_name": "美团",
-    "title": "价格管理岗",
-    "location": "北京市",
-    "official_url": "https://zhaopin.meituan.com/jobdetail?jobUnionId=4668748680",
-    "first_seen": "2026-08-30T01:04:40.794790+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 107
-  },
-  {
-    "dedup_key": "3e9ceb65cba50218",
-    "source_id": "cn-iguopin",
-    "company_name": "联通数据智能有限公司",
-    "title": "数智安全解决方案岗(J10896)",
-    "location": "杭州-萧山区",
-    "official_url": "https://www.iguopin.com/job/detail?id=217157755788592091",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 98
-  },
-  {
-    "dedup_key": "ac8f6af2999c9b75",
-    "source_id": "cn-iguopin",
-    "company_name": "联通数据智能有限公司",
-    "title": "政务解决方案(J10874)",
-    "location": "杭州-萧山区",
-    "official_url": "https://www.iguopin.com/job/detail?id=217166425750504445",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 98
-  },
-  {
-    "dedup_key": "c83a155d699e370c",
-    "source_id": "cn-tencent",
-    "company_name": "腾讯",
-    "title": "预研风格化项目-资深3C战斗策划-（枪械向）",
-    "location": "深圳",
-    "official_url": "http://careers.tencent.com/jobdesc.html?postId=2086694977064316928",
-    "first_seen": "2026-09-05T00:37:32.592380+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 90
-  },
-  {
-    "dedup_key": "5544a2c7daaf3567",
-    "source_id": "cn-iguopin",
-    "company_name": "联通数据智能有限公司",
-    "title": "AI平台开发工程师(J10886)",
-    "location": "杭州-萧山区",
-    "official_url": "https://www.iguopin.com/job/detail?id=217160963877503964",
-    "first_seen": "2026-09-08T00:54:44.624250+00:00",
-    "last_seen": "2026-09-08T00:54:44.624250+00:00",
-    "archived_at": "2026-09-09T01:03:22.991738+00:00",
-    "match_score": 62
   }
 ]
